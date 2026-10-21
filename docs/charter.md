@@ -4,9 +4,9 @@
 |---|---|
 | Project | StockPulse: automated inventory data platform |
 | Sponsor / PM / Engineer | Vijay Walunj |
-| Version | 1.0 (fill in date approved) |
+| Version | 1.0 (approved 2026-10-21) |
 | Duration | 6 weeks, three 2-week sprints |
-| Status | Draft → Approved |
+| Status | Approved |
 
 ## 1. Background
 
@@ -69,4 +69,4 @@ See `risk-log.md` for the full register. Headline risks: scheduled jobs starting
 
 | Role | Name | Date |
 |---|---|---|
-| Sponsor | Vijay Walunj | |
+| Sponsor | Vijay Walunj | 2026-10-21 |
