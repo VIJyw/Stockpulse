@@ -4,7 +4,7 @@
 
 > Built on a **synthetic** grocery dataset (2,500 SKUs, 8 suppliers, 90 days). Results are illustrative.
 
-**Live API:** `<your Render URL>` · **Dashboards:** `<Tableau link>` · **Demo video:** `<link>`
+**Live API:** [stockpulse-s2j7.onrender.com](https://stockpulse-s2j7.onrender.com/low-stock?limit=5) (free tier: first request after idle can take ~1 min) · **Dashboards:** `<Tableau link>` · **Demo video:** `<link>`
 
 ## Architecture
 
@@ -39,7 +39,7 @@ flowchart LR
 ## Quick start (local, no cloud needed)
 
 ```bash
-git clone https://github.com/<you>/stockpulse.git && cd stockpulse
+git clone https://github.com/VIJyw/Stockpulse.git && cd Stockpulse
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
@@ -75,7 +75,7 @@ The **Daily pipeline** workflow then processes one new day at about 11:00 UTC.
 Example:
 
 ```bash
-curl https://<your-app>.onrender.com/low-stock?limit=1
+curl https://stockpulse-s2j7.onrender.com/low-stock?limit=1
 ```
 ```json
 {
