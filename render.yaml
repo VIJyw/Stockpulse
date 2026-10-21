@@ -1,0 +1,15 @@
+# Render Blueprint (optional: you can also create the Web Service in the dashboard).
+services:
+  - type: web
+    name: stockpulse-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn api.app:app --workers 2 --timeout 60
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: DATABASE_URL
+        sync: false   # set the value in the Render dashboard, never in this file
+      - key: PYTHON_VERSION
+        value: "3.12.7"

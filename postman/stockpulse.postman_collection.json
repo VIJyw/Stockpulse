@@ -1,0 +1,146 @@
+{
+  "info": {
+    "name": "StockPulse API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:5000"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/health"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK', () => pm.response.to.have.status(200));",
+              "pm.test('database reachable', () => pm.expect(pm.response.json().database).to.eql('reachable'));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Low stock (top 10)",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/low-stock?limit=10"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK', () => pm.response.to.have.status(200));",
+              "const b = pm.response.json();",
+              "pm.test('has items array', () => pm.expect(b.items).to.be.an('array'));",
+              "pm.test('respects limit', () => pm.expect(b.items.length).to.be.at.most(10));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Low stock (Dairy, no order yet)",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/low-stock?category=Dairy&on_order=false"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK', () => pm.response.to.have.status(200));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "SKU detail",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/sku/SKU00001"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK', () => pm.response.to.have.status(200));",
+              "pm.test('correct SKU', () => pm.expect(pm.response.json().product.sku).to.eql('SKU00001'));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "SKU not found",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/sku/DOES-NOT-EXIST"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('404', () => pm.response.to.have.status(404));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pipeline status",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/pipeline-status"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK', () => pm.response.to.have.status(200));",
+              "pm.test('has last_run', () => pm.expect(pm.response.json()).to.have.property('last_run'));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supplier performance",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/supplier-performance"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('8 suppliers', () => pm.expect(pm.response.json().suppliers.length).to.eql(8));"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

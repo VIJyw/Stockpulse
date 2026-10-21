@@ -1,0 +1,25 @@
+# Post-deploy and periodic smoke test of the live API (detects a bad deploy).
+name: API smoke test
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */6 * * *"   # every 6 hours
+  push:
+    branches: [main]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    env:
+      API_BASE_URL: ${{ secrets.API_BASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Wait for Render deploy to finish (push events only)
+        if: github.event_name == 'push'
+        run: sleep 240
+      - run: python scripts/smoke_test.py

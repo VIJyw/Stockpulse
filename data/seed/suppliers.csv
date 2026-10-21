@@ -1,0 +1,9 @@
+supplier_id,name,promised_lead_time_days,sim_on_time_prob
+SUP01,FreshFarm Distributors,2,0.92
+SUP02,Atlantic Dairy Co.,2,0.95
+SUP03,Bay State Bakeries,1,0.97
+SUP04,Northeast Proteins,3,0.85
+SUP05,ColdChain Foods,4,0.8
+SUP06,Pantry Wholesale,5,0.9
+SUP07,Beverage Partners,4,0.75
+SUP08,HomeGoods Supply,7,0.7

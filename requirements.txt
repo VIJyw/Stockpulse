@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+psycopg2-binary>=2.9
+flask>=3.0
+gunicorn>=22.0
+requests>=2.32
+pytest>=8.0

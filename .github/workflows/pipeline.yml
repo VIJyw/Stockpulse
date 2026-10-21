@@ -1,0 +1,40 @@
+# Scheduled pipeline: processes the next day's sales file once a day.
+# Note: GitHub may start scheduled jobs late at busy times, and disables schedules
+# in public repos after 60 days without repository activity (see docs/risk-log.md).
+name: Daily pipeline
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily, ~11:00 UTC
+  workflow_dispatch:        # "Run workflow" button for manual runs and backfills
+    inputs:
+      backfill_days:
+        description: "Process this many days instead of one (leave blank for normal run)"
+        required: false
+
+concurrency:
+  group: stockpulse-pipeline   # never run two pipelines at once
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+      STOCKPULSE_TRIGGER: ${{ github.event_name }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run pipeline
+        run: |
+          if [ -n "${{ github.event.inputs.backfill_days }}" ]; then
+            python -m stockpulse.pipeline backfill --days "${{ github.event.inputs.backfill_days }}"
+          else
+            python -m stockpulse.pipeline run
+          fi

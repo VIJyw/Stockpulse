@@ -1,0 +1,2501 @@
+sku,name,category,supplier_id,is_perishable,shelf_life_days,unit_cost,lead_time_days,safety_stock,reorder_point
+SKU00001,Summit Tomatoes Large,Produce,SUP01,1,10.0,2.94,2,13,35
+SKU00002,Golden Field Lettuce Family Size,Produce,SUP01,1,9.0,3.25,2,6,12
+SKU00003,Maple Lane Tomatoes Large,Produce,SUP01,1,6.0,3.74,2,12,30
+SKU00004,Bayview Berries Large,Produce,SUP01,1,7.0,1.3,2,12,31
+SKU00005,Coastal Bananas Value Pack,Produce,SUP01,1,9.0,2.71,2,13,36
+SKU00006,Summit Spinach Small,Produce,SUP01,1,10.0,3.63,2,11,28
+SKU00007,Maple Lane Apples Regular,Produce,SUP01,1,7.0,0.65,2,10,24
+SKU00008,Summit Carrots Value Pack,Produce,SUP01,1,9.0,3.89,2,14,38
+SKU00009,Coastal Spinach Small,Produce,SUP01,1,7.0,1.16,2,10,24
+SKU00010,Summit Tomatoes Regular,Produce,SUP01,1,5.0,2.84,2,11,28
+SKU00011,Green Acre Berries Family Size,Produce,SUP01,1,8.0,1.59,2,15,44
+SKU00012,Bayview Berries Value Pack,Produce,SUP01,1,6.0,1.51,2,9,22
+SKU00013,Summit Apples Value Pack,Produce,SUP01,1,5.0,0.53,2,16,47
+SKU00014,Maple Lane Carrots Large,Produce,SUP01,1,8.0,3.23,2,13,35
+SKU00015,Golden Field Avocados Small,Produce,SUP01,1,4.0,0.9,2,10,24
+SKU00016,Summit Tomatoes Value Pack,Produce,SUP01,1,7.0,3.18,2,9,20
+SKU00017,Golden Field Avocados Small,Produce,SUP01,1,7.0,1.56,2,13,33
+SKU00018,Northside Tomatoes Value Pack,Produce,SUP01,1,5.0,1.93,2,11,26
+SKU00019,Harbor Apples Value Pack,Produce,SUP01,1,4.0,1.48,2,8,17
+SKU00020,Bayview Carrots Small,Produce,SUP01,1,7.0,3.24,2,12,32
+SKU00021,Bayview Tomatoes Large,Produce,SUP01,1,9.0,1.08,2,15,42
+SKU00022,Harbor Bananas Family Size,Produce,SUP01,1,9.0,2.12,2,10,25
+SKU00023,Coastal Avocados Value Pack,Produce,SUP01,1,5.0,2.94,2,10,24
+SKU00024,Green Acre Tomatoes Regular,Produce,SUP01,1,6.0,2.71,2,15,42
+SKU00025,Coastal Bananas Regular,Produce,SUP01,1,4.0,3.87,2,7,14
+SKU00026,Bayview Carrots Large,Produce,SUP01,1,5.0,3.89,2,14,37
+SKU00027,Northside Carrots Family Size,Produce,SUP01,1,7.0,1.45,2,10,25
+SKU00028,Bayview Lettuce Small,Produce,SUP01,1,7.0,1.21,2,9,20
+SKU00029,Maple Lane Avocados Large,Produce,SUP01,1,5.0,3.5,2,14,38
+SKU00030,Bayview Carrots Family Size,Produce,SUP01,1,7.0,2.7,2,12,31
+SKU00031,Harbor Carrots Family Size,Produce,SUP01,1,4.0,1.96,2,21,69
+SKU00032,Green Acre Tomatoes Small,Produce,SUP01,1,6.0,1.01,2,13,34
+SKU00033,Green Acre Avocados Family Size,Produce,SUP01,1,5.0,3.74,2,20,64
+SKU00034,Bayview Spinach Family Size,Produce,SUP01,1,8.0,0.58,2,10,25
+SKU00035,Bayview Tomatoes Large,Produce,SUP01,1,9.0,0.79,2,7,15
+SKU00036,Summit Tomatoes Large,Produce,SUP01,1,10.0,2.5,2,25,85
+SKU00037,Maple Lane Spinach Value Pack,Produce,SUP01,1,6.0,2.32,2,6,12
+SKU00038,Northside Bananas Regular,Produce,SUP01,1,9.0,3.64,2,10,23
+SKU00039,Northside Avocados Regular,Produce,SUP01,1,4.0,2.85,2,11,28
+SKU00040,Summit Carrots Value Pack,Produce,SUP01,1,9.0,0.88,2,12,30
+SKU00041,Coastal Apples Regular,Produce,SUP01,1,4.0,2.44,2,10,24
+SKU00042,Northside Berries Large,Produce,SUP01,1,9.0,1.61,2,26,91
+SKU00043,Summit Spinach Family Size,Produce,SUP01,1,7.0,1.4,2,16,48
+SKU00044,Green Acre Apples Large,Produce,SUP01,1,4.0,2.02,2,9,22
+SKU00045,Green Acre Lettuce Small,Produce,SUP01,1,9.0,3.62,2,8,17
+SKU00046,Harbor Avocados Large,Produce,SUP01,1,6.0,3.2,2,11,28
+SKU00047,Bayview Spinach Value Pack,Produce,SUP01,1,4.0,3.11,2,10,25
+SKU00048,Harbor Lettuce Value Pack,Produce,SUP01,1,5.0,0.93,2,13,34
+SKU00049,Coastal Apples Family Size,Produce,SUP01,1,5.0,2.6,2,22,73
+SKU00050,Northside Spinach Value Pack,Produce,SUP01,1,9.0,3.9,2,8,18
+SKU00051,Bayview Apples Value Pack,Produce,SUP01,1,4.0,1.3,2,12,30
+SKU00052,Harbor Carrots Value Pack,Produce,SUP01,1,4.0,2.27,2,12,32
+SKU00053,Maple Lane Avocados Large,Produce,SUP01,1,5.0,3.31,2,9,20
+SKU00054,Harbor Carrots Value Pack,Produce,SUP01,1,4.0,0.93,2,16,48
+SKU00055,Harbor Tomatoes Value Pack,Produce,SUP01,1,6.0,2.21,2,14,39
+SKU00056,Northside Lettuce Large,Produce,SUP01,1,6.0,3.74,2,14,39
+SKU00057,Golden Field Avocados Small,Produce,SUP01,1,8.0,0.87,2,11,27
+SKU00058,Summit Tomatoes Small,Produce,SUP01,1,10.0,2.59,2,12,32
+SKU00059,Summit Berries Large,Produce,SUP01,1,7.0,3.25,2,9,20
+SKU00060,Summit Bananas Regular,Produce,SUP01,1,9.0,3.29,2,13,35
+SKU00061,Northside Avocados Family Size,Produce,SUP01,1,8.0,3.54,2,6,11
+SKU00062,Northside Tomatoes Small,Produce,SUP01,1,6.0,1.99,2,27,95
+SKU00063,Coastal Berries Regular,Produce,SUP01,1,7.0,1.37,2,11,29
+SKU00064,Coastal Carrots Value Pack,Produce,SUP01,1,9.0,0.87,2,8,17
+SKU00065,Bayview Avocados Regular,Produce,SUP01,1,5.0,3.39,2,8,17
+SKU00066,Coastal Apples Value Pack,Produce,SUP01,1,10.0,1.08,2,9,19
+SKU00067,Golden Field Apples Large,Produce,SUP01,1,4.0,0.57,2,10,25
+SKU00068,Green Acre Apples Value Pack,Produce,SUP01,1,4.0,2.57,2,11,27
+SKU00069,Maple Lane Tomatoes Value Pack,Produce,SUP01,1,6.0,2.27,2,17,51
+SKU00070,Maple Lane Berries Large,Produce,SUP01,1,4.0,1.14,2,12,31
+SKU00071,Green Acre Apples Family Size,Produce,SUP01,1,7.0,1.96,2,34,132
+SKU00072,Harbor Spinach Value Pack,Produce,SUP01,1,7.0,0.86,2,9,21
+SKU00073,Harbor Bananas Large,Produce,SUP01,1,10.0,0.85,2,18,55
+SKU00074,Maple Lane Lettuce Regular,Produce,SUP01,1,10.0,3.31,2,16,48
+SKU00075,Summit Carrots Family Size,Produce,SUP01,1,9.0,0.97,2,13,35
+SKU00076,Northside Avocados Value Pack,Produce,SUP01,1,10.0,2.12,2,11,27
+SKU00077,Summit Carrots Regular,Produce,SUP01,1,5.0,0.99,2,11,27
+SKU00078,Green Acre Tomatoes Family Size,Produce,SUP01,1,5.0,1.79,2,7,14
+SKU00079,Summit Spinach Large,Produce,SUP01,1,6.0,2.9,2,16,47
+SKU00080,Maple Lane Lettuce Family Size,Produce,SUP01,1,10.0,2.18,2,11,26
+SKU00081,Bayview Avocados Value Pack,Produce,SUP01,1,9.0,2.78,2,18,55
+SKU00082,Golden Field Avocados Family Size,Produce,SUP01,1,8.0,1.51,2,16,46
+SKU00083,Harbor Apples Large,Produce,SUP01,1,8.0,3.51,2,17,50
+SKU00084,Coastal Avocados Family Size,Produce,SUP01,1,4.0,3.04,2,12,31
+SKU00085,Golden Field Lettuce Family Size,Produce,SUP01,1,4.0,3.86,2,15,43
+SKU00086,Bayview Avocados Large,Produce,SUP01,1,9.0,3.28,2,10,24
+SKU00087,Harbor Spinach Family Size,Produce,SUP01,1,8.0,0.83,2,8,18
+SKU00088,Green Acre Avocados Small,Produce,SUP01,1,8.0,2.13,2,13,35
+SKU00089,Summit Berries Value Pack,Produce,SUP01,1,9.0,2.22,2,13,35
+SKU00090,Green Acre Lettuce Value Pack,Produce,SUP01,1,4.0,0.91,2,6,12
+SKU00091,Bayview Carrots Family Size,Produce,SUP01,1,6.0,3.21,2,20,64
+SKU00092,Summit Spinach Family Size,Produce,SUP01,1,10.0,3.17,2,16,46
+SKU00093,Maple Lane Spinach Large,Produce,SUP01,1,6.0,1.05,2,13,35
+SKU00094,Harbor Lettuce Large,Produce,SUP01,1,7.0,1.84,2,14,37
+SKU00095,Green Acre Avocados Value Pack,Produce,SUP01,1,10.0,3.23,2,20,64
+SKU00096,Green Acre Tomatoes Family Size,Produce,SUP01,1,10.0,3.01,2,16,46
+SKU00097,Bayview Bananas Regular,Produce,SUP01,1,9.0,2.73,2,16,46
+SKU00098,Bayview Avocados Small,Produce,SUP01,1,8.0,0.54,2,6,12
+SKU00099,Summit Berries Large,Produce,SUP01,1,6.0,2.1,2,19,59
+SKU00100,Harbor Spinach Large,Produce,SUP01,1,10.0,3.23,2,9,21
+SKU00101,Bayview Lettuce Small,Produce,SUP01,1,10.0,1.49,2,7,15
+SKU00102,Harbor Bananas Family Size,Produce,SUP01,1,10.0,2.83,2,14,38
+SKU00103,Golden Field Bananas Family Size,Produce,SUP01,1,10.0,0.6,2,12,32
+SKU00104,Bayview Apples Value Pack,Produce,SUP01,1,9.0,1.19,2,9,21
+SKU00105,Northside Carrots Value Pack,Produce,SUP01,1,4.0,0.52,2,10,25
+SKU00106,Maple Lane Avocados Value Pack,Produce,SUP01,1,9.0,1.33,2,16,46
+SKU00107,Green Acre Bananas Family Size,Produce,SUP01,1,9.0,3.75,2,6,11
+SKU00108,Maple Lane Carrots Value Pack,Produce,SUP01,1,9.0,0.64,2,13,34
+SKU00109,Harbor Bananas Family Size,Produce,SUP01,1,7.0,3.11,2,9,21
+SKU00110,Harbor Berries Large,Produce,SUP01,1,5.0,3.07,2,12,32
+SKU00111,Harbor Spinach Small,Produce,SUP01,1,8.0,3.93,2,9,20
+SKU00112,Golden Field Bananas Small,Produce,SUP01,1,8.0,0.65,2,7,15
+SKU00113,Bayview Carrots Large,Produce,SUP01,1,5.0,0.82,2,11,28
+SKU00114,Bayview Lettuce Large,Produce,SUP01,1,7.0,3.24,2,10,24
+SKU00115,Maple Lane Avocados Large,Produce,SUP01,1,5.0,3.81,2,11,28
+SKU00116,Bayview Avocados Large,Produce,SUP01,1,8.0,2.77,2,11,26
+SKU00117,Green Acre Apples Large,Produce,SUP01,1,7.0,1.91,2,18,54
+SKU00118,Green Acre Bananas Value Pack,Produce,SUP01,1,4.0,1.47,2,24,83
+SKU00119,Golden Field Tomatoes Family Size,Produce,SUP01,1,8.0,2.72,2,17,52
+SKU00120,Green Acre Tomatoes Value Pack,Produce,SUP01,1,5.0,2.56,2,13,35
+SKU00121,Coastal Bananas Regular,Produce,SUP01,1,6.0,2.16,2,8,18
+SKU00122,Harbor Avocados Regular,Produce,SUP01,1,7.0,2.96,2,18,53
+SKU00123,Golden Field Carrots Family Size,Produce,SUP01,1,6.0,3.26,2,11,27
+SKU00124,Green Acre Tomatoes Large,Produce,SUP01,1,8.0,1.76,2,17,52
+SKU00125,Maple Lane Carrots Large,Produce,SUP01,1,10.0,3.72,2,13,34
+SKU00126,Summit Avocados Regular,Produce,SUP01,1,9.0,1.6,2,12,30
+SKU00127,Bayview Tomatoes Small,Produce,SUP01,1,4.0,0.75,2,9,20
+SKU00128,Maple Lane Bananas Small,Produce,SUP01,1,5.0,1.67,2,17,52
+SKU00129,Summit Spinach Small,Produce,SUP01,1,9.0,0.55,2,11,26
+SKU00130,Summit Berries Large,Produce,SUP01,1,6.0,1.04,2,6,12
+SKU00131,Summit Bananas Large,Produce,SUP01,1,6.0,3.85,2,9,21
+SKU00132,Bayview Berries Large,Produce,SUP01,1,6.0,2.91,2,29,106
+SKU00133,Maple Lane Tomatoes Value Pack,Produce,SUP01,1,8.0,0.54,2,7,15
+SKU00134,Maple Lane Avocados Large,Produce,SUP01,1,5.0,1.08,2,16,45
+SKU00135,Coastal Lettuce Value Pack,Produce,SUP01,1,7.0,3.44,2,16,47
+SKU00136,Summit Apples Large,Produce,SUP01,1,7.0,1.87,2,19,60
+SKU00137,Maple Lane Berries Small,Produce,SUP01,1,7.0,2.14,2,20,64
+SKU00138,Northside Apples Regular,Produce,SUP01,1,10.0,0.66,2,10,25
+SKU00139,Green Acre Spinach Small,Produce,SUP01,1,7.0,2.55,2,7,15
+SKU00140,Harbor Bananas Regular,Produce,SUP01,1,5.0,3.45,2,5,10
+SKU00141,Golden Field Carrots Large,Produce,SUP01,1,8.0,3.17,2,13,34
+SKU00142,Summit Spinach Family Size,Produce,SUP01,1,7.0,1.68,2,13,34
+SKU00143,Northside Tomatoes Large,Produce,SUP01,1,9.0,3.48,2,14,37
+SKU00144,Bayview Lettuce Regular,Produce,SUP01,1,8.0,3.48,2,12,30
+SKU00145,Golden Field Tomatoes Value Pack,Produce,SUP01,1,7.0,0.87,2,8,17
+SKU00146,Coastal Lettuce Family Size,Produce,SUP01,1,8.0,1.12,2,12,30
+SKU00147,Northside Apples Regular,Produce,SUP01,1,4.0,3.75,2,16,47
+SKU00148,Bayview Spinach Small,Produce,SUP01,1,8.0,0.53,2,14,40
+SKU00149,Green Acre Carrots Large,Produce,SUP01,1,8.0,3.94,2,13,35
+SKU00150,Coastal Tomatoes Value Pack,Produce,SUP01,1,9.0,3.66,2,19,60
+SKU00151,Northside Lettuce Family Size,Produce,SUP01,1,9.0,3.53,2,5,10
+SKU00152,Golden Field Carrots Value Pack,Produce,SUP01,1,7.0,2.44,2,15,43
+SKU00153,Bayview Lettuce Small,Produce,SUP01,1,10.0,1.51,2,13,34
+SKU00154,Coastal Carrots Family Size,Produce,SUP01,1,6.0,0.93,2,23,77
+SKU00155,Golden Field Berries Value Pack,Produce,SUP01,1,7.0,3.95,2,8,17
+SKU00156,Northside Lettuce Regular,Produce,SUP01,1,6.0,3.28,2,13,34
+SKU00157,Green Acre Avocados Large,Produce,SUP01,1,9.0,3.74,2,19,58
+SKU00158,Green Acre Bananas Small,Produce,SUP01,1,6.0,0.67,2,15,44
+SKU00159,Coastal Carrots Family Size,Produce,SUP01,1,8.0,3.21,2,8,18
+SKU00160,Summit Carrots Regular,Produce,SUP01,1,9.0,0.67,2,9,21
+SKU00161,Harbor Avocados Regular,Produce,SUP01,1,10.0,0.52,2,10,23
+SKU00162,Northside Carrots Large,Produce,SUP01,1,4.0,1.9,2,13,35
+SKU00163,Golden Field Carrots Regular,Produce,SUP01,1,5.0,3.48,2,10,25
+SKU00164,Maple Lane Berries Value Pack,Produce,SUP01,1,6.0,2.57,2,21,69
+SKU00165,Harbor Spinach Large,Produce,SUP01,1,10.0,1.16,2,11,26
+SKU00166,Summit Spinach Large,Produce,SUP01,1,9.0,3.33,2,15,41
+SKU00167,Summit Spinach Family Size,Produce,SUP01,1,6.0,0.98,2,25,87
+SKU00168,Green Acre Lettuce Value Pack,Produce,SUP01,1,8.0,2.58,2,15,42
+SKU00169,Bayview Lettuce Regular,Produce,SUP01,1,7.0,0.97,2,13,33
+SKU00170,Harbor Bananas Regular,Produce,SUP01,1,5.0,0.56,2,22,71
+SKU00171,Coastal Carrots Value Pack,Produce,SUP01,1,6.0,1.97,2,9,20
+SKU00172,Coastal Berries Large,Produce,SUP01,1,7.0,1.5,2,7,14
+SKU00173,Bayview Apples Large,Produce,SUP01,1,6.0,3.68,2,12,30
+SKU00174,Coastal Carrots Regular,Produce,SUP01,1,8.0,2.79,2,10,24
+SKU00175,Maple Lane Apples Regular,Produce,SUP01,1,6.0,1.04,2,9,21
+SKU00176,Harbor Avocados Regular,Produce,SUP01,1,9.0,3.24,2,28,104
+SKU00177,Maple Lane Tomatoes Value Pack,Produce,SUP01,1,10.0,2.86,2,16,46
+SKU00178,Bayview Apples Small,Produce,SUP01,1,7.0,0.86,2,10,24
+SKU00179,Northside Lettuce Family Size,Produce,SUP01,1,7.0,2.02,2,10,24
+SKU00180,Coastal Lettuce Family Size,Produce,SUP01,1,4.0,0.64,2,17,49
+SKU00181,Golden Field Bananas Value Pack,Produce,SUP01,1,7.0,2.31,2,6,11
+SKU00182,Harbor Bananas Value Pack,Produce,SUP01,1,4.0,1.85,2,18,54
+SKU00183,Coastal Carrots Large,Produce,SUP01,1,5.0,1.56,2,17,51
+SKU00184,Green Acre Tomatoes Small,Produce,SUP01,1,4.0,0.89,2,11,27
+SKU00185,Green Acre Bananas Small,Produce,SUP01,1,7.0,2.21,2,8,18
+SKU00186,Bayview Tomatoes Large,Produce,SUP01,1,9.0,3.44,2,7,15
+SKU00187,Green Acre Spinach Large,Produce,SUP01,1,5.0,2.18,2,11,28
+SKU00188,Northside Apples Family Size,Produce,SUP01,1,6.0,3.76,2,9,20
+SKU00189,Bayview Tomatoes Value Pack,Produce,SUP01,1,8.0,1.03,2,8,18
+SKU00190,Northside Apples Small,Produce,SUP01,1,10.0,0.53,2,14,40
+SKU00191,Maple Lane Bananas Small,Produce,SUP01,1,4.0,2.67,2,16,45
+SKU00192,Harbor Avocados Regular,Produce,SUP01,1,8.0,3.47,2,17,50
+SKU00193,Northside Berries Large,Produce,SUP01,1,8.0,1.07,2,12,32
+SKU00194,Coastal Berries Regular,Produce,SUP01,1,5.0,3.72,2,10,25
+SKU00195,Coastal Avocados Value Pack,Produce,SUP01,1,10.0,1.77,2,8,18
+SKU00196,Green Acre Spinach Large,Produce,SUP01,1,9.0,2.6,2,9,20
+SKU00197,Golden Field Tomatoes Family Size,Produce,SUP01,1,6.0,0.77,2,19,58
+SKU00198,Summit Spinach Regular,Produce,SUP01,1,4.0,1.08,2,13,36
+SKU00199,Maple Lane Carrots Regular,Produce,SUP01,1,9.0,1.61,2,8,17
+SKU00200,Green Acre Avocados Regular,Produce,SUP01,1,4.0,1.0,2,13,34
+SKU00201,Harbor Apples Family Size,Produce,SUP01,1,7.0,3.97,2,8,18
+SKU00202,Coastal Bananas Large,Produce,SUP01,1,10.0,2.55,2,12,30
+SKU00203,Golden Field Lettuce Small,Produce,SUP01,1,10.0,2.38,2,12,31
+SKU00204,Green Acre Spinach Family Size,Produce,SUP01,1,4.0,2.58,2,8,18
+SKU00205,Northside Carrots Value Pack,Produce,SUP01,1,9.0,0.56,2,14,39
+SKU00206,Green Acre Apples Value Pack,Produce,SUP01,1,10.0,1.39,2,17,50
+SKU00207,Green Acre Avocados Large,Produce,SUP01,1,6.0,2.87,2,9,20
+SKU00208,Maple Lane Avocados Regular,Produce,SUP01,1,9.0,3.94,2,19,58
+SKU00209,Coastal Avocados Value Pack,Produce,SUP01,1,4.0,3.29,2,11,26
+SKU00210,Bayview Tomatoes Value Pack,Produce,SUP01,1,4.0,3.61,2,13,34
+SKU00211,Green Acre Carrots Large,Produce,SUP01,1,5.0,3.87,2,10,25
+SKU00212,Summit Apples Value Pack,Produce,SUP01,1,10.0,3.69,2,10,24
+SKU00213,Northside Tomatoes Value Pack,Produce,SUP01,1,9.0,3.57,2,8,17
+SKU00214,Bayview Avocados Small,Produce,SUP01,1,9.0,3.06,2,12,31
+SKU00215,Coastal Avocados Large,Produce,SUP01,1,4.0,3.66,2,14,37
+SKU00216,Maple Lane Berries Large,Produce,SUP01,1,4.0,1.22,2,9,21
+SKU00217,Bayview Bananas Regular,Produce,SUP01,1,10.0,1.82,2,23,78
+SKU00218,Coastal Lettuce Family Size,Produce,SUP01,1,6.0,1.62,2,22,74
+SKU00219,Golden Field Avocados Regular,Produce,SUP01,1,6.0,2.61,2,39,161
+SKU00220,Golden Field Tomatoes Small,Produce,SUP01,1,5.0,1.82,2,10,25
+SKU00221,Maple Lane Apples Regular,Produce,SUP01,1,5.0,2.9,2,13,35
+SKU00222,Harbor Lettuce Family Size,Produce,SUP01,1,5.0,0.85,2,6,12
+SKU00223,Golden Field Lettuce Regular,Produce,SUP01,1,5.0,1.21,2,12,30
+SKU00224,Bayview Avocados Small,Produce,SUP01,1,7.0,1.41,2,8,17
+SKU00225,Harbor Tomatoes Small,Produce,SUP01,1,10.0,2.78,2,13,35
+SKU00226,Coastal Bananas Regular,Produce,SUP01,1,5.0,1.53,2,6,12
+SKU00227,Northside Lettuce Family Size,Produce,SUP01,1,10.0,3.95,2,11,28
+SKU00228,Northside Lettuce Large,Produce,SUP01,1,4.0,0.98,2,8,18
+SKU00229,Green Acre Avocados Large,Produce,SUP01,1,4.0,3.46,2,18,56
+SKU00230,Bayview Avocados Large,Produce,SUP01,1,5.0,1.39,2,9,20
+SKU00231,Harbor Berries Regular,Produce,SUP01,1,8.0,3.07,2,11,26
+SKU00232,Maple Lane Spinach Value Pack,Produce,SUP01,1,6.0,3.16,2,14,38
+SKU00233,Harbor Apples Family Size,Produce,SUP01,1,10.0,0.92,2,11,28
+SKU00234,Summit Bananas Regular,Produce,SUP01,1,5.0,3.46,2,11,27
+SKU00235,Summit Tomatoes Small,Produce,SUP01,1,7.0,1.36,2,9,21
+SKU00236,Green Acre Berries Large,Produce,SUP01,1,10.0,1.69,2,17,50
+SKU00237,Summit Apples Regular,Produce,SUP01,1,5.0,1.06,2,14,39
+SKU00238,Harbor Lettuce Small,Produce,SUP01,1,9.0,2.31,2,9,20
+SKU00239,Bayview Avocados Regular,Produce,SUP01,1,7.0,2.02,2,23,79
+SKU00240,Northside Apples Small,Produce,SUP01,1,10.0,2.19,2,12,31
+SKU00241,Green Acre Apples Regular,Produce,SUP01,1,7.0,1.23,2,21,70
+SKU00242,Maple Lane Bananas Regular,Produce,SUP01,1,4.0,3.71,2,11,29
+SKU00243,Coastal Avocados Small,Produce,SUP01,1,7.0,1.9,2,16,47
+SKU00244,Summit Apples Value Pack,Produce,SUP01,1,10.0,3.36,2,10,25
+SKU00245,Northside Tomatoes Value Pack,Produce,SUP01,1,5.0,3.72,2,4,7
+SKU00246,Golden Field Bananas Value Pack,Produce,SUP01,1,6.0,3.28,2,8,17
+SKU00247,Harbor Berries Family Size,Produce,SUP01,1,9.0,1.24,2,27,97
+SKU00248,Golden Field Tomatoes Regular,Produce,SUP01,1,8.0,0.51,2,12,32
+SKU00249,Northside Spinach Value Pack,Produce,SUP01,1,4.0,2.1,2,8,16
+SKU00250,Bayview Apples Family Size,Produce,SUP01,1,8.0,1.88,2,12,31
+SKU00251,Summit Spinach Large,Produce,SUP01,1,9.0,2.11,2,15,42
+SKU00252,Summit Avocados Small,Produce,SUP01,1,7.0,3.83,2,10,25
+SKU00253,Golden Field Apples Small,Produce,SUP01,1,8.0,3.46,2,7,15
+SKU00254,Coastal Tomatoes Regular,Produce,SUP01,1,10.0,3.12,2,15,42
+SKU00255,Bayview Avocados Family Size,Produce,SUP01,1,8.0,1.56,2,15,41
+SKU00256,Summit Spinach Family Size,Produce,SUP01,1,9.0,1.91,2,20,64
+SKU00257,Green Acre Carrots Large,Produce,SUP01,1,7.0,3.67,2,13,36
+SKU00258,Green Acre Carrots Large,Produce,SUP01,1,6.0,1.93,2,16,46
+SKU00259,Northside Apples Value Pack,Produce,SUP01,1,4.0,2.84,2,15,42
+SKU00260,Summit Carrots Regular,Produce,SUP01,1,4.0,1.64,2,10,25
+SKU00261,Green Acre Berries Value Pack,Produce,SUP01,1,10.0,1.36,2,20,63
+SKU00262,Green Acre Apples Value Pack,Produce,SUP01,1,5.0,0.99,2,8,18
+SKU00263,Northside Carrots Value Pack,Produce,SUP01,1,10.0,1.21,2,15,42
+SKU00264,Golden Field Carrots Family Size,Produce,SUP01,1,10.0,2.64,2,15,42
+SKU00265,Northside Carrots Small,Produce,SUP01,1,6.0,3.92,2,12,31
+SKU00266,Bayview Carrots Large,Produce,SUP01,1,4.0,1.9,2,13,34
+SKU00267,Coastal Avocados Regular,Produce,SUP01,1,7.0,3.78,2,12,30
+SKU00268,Northside Spinach Value Pack,Produce,SUP01,1,7.0,2.21,2,15,43
+SKU00269,Maple Lane Spinach Value Pack,Produce,SUP01,1,5.0,3.69,2,12,32
+SKU00270,Northside Berries Value Pack,Produce,SUP01,1,10.0,3.11,2,14,39
+SKU00271,Green Acre Berries Small,Produce,SUP01,1,7.0,2.1,2,11,27
+SKU00272,Golden Field Carrots Family Size,Produce,SUP01,1,6.0,1.4,2,20,64
+SKU00273,Northside Tomatoes Regular,Produce,SUP01,1,5.0,3.36,2,14,38
+SKU00274,Golden Field Apples Regular,Produce,SUP01,1,4.0,1.68,2,18,54
+SKU00275,Green Acre Berries Regular,Produce,SUP01,1,4.0,3.21,2,14,38
+SKU00276,Harbor Tomatoes Large,Produce,SUP01,1,10.0,1.17,2,8,18
+SKU00277,Harbor Tomatoes Large,Produce,SUP01,1,8.0,3.77,2,13,34
+SKU00278,Summit Bananas Value Pack,Produce,SUP01,1,4.0,3.27,2,20,63
+SKU00279,Bayview Lettuce Regular,Produce,SUP01,1,8.0,0.89,2,12,31
+SKU00280,Golden Field Apples Small,Produce,SUP01,1,6.0,2.43,2,7,15
+SKU00281,Northside Carrots Family Size,Produce,SUP01,1,8.0,3.97,2,12,31
+SKU00282,Harbor Bananas Family Size,Produce,SUP01,1,9.0,3.92,2,18,56
+SKU00283,Northside Tomatoes Small,Produce,SUP01,1,6.0,0.68,2,18,56
+SKU00284,Maple Lane Spinach Regular,Produce,SUP01,1,9.0,3.41,2,14,39
+SKU00285,Coastal Tomatoes Regular,Produce,SUP01,1,6.0,3.12,2,9,21
+SKU00286,Green Acre Tomatoes Regular,Produce,SUP01,1,10.0,1.0,2,11,27
+SKU00287,Coastal Bananas Regular,Produce,SUP01,1,5.0,2.37,2,12,31
+SKU00288,Golden Field Bananas Regular,Produce,SUP01,1,4.0,2.03,2,9,19
+SKU00289,Harbor Bananas Regular,Produce,SUP01,1,8.0,3.38,2,11,27
+SKU00290,Harbor Apples Small,Produce,SUP01,1,10.0,3.38,2,11,28
+SKU00291,Bayview Berries Small,Produce,SUP01,1,4.0,1.88,2,11,27
+SKU00292,Golden Field Spinach Regular,Produce,SUP01,1,9.0,2.26,2,19,58
+SKU00293,Summit Tomatoes Regular,Produce,SUP01,1,6.0,1.27,2,12,31
+SKU00294,Summit Berries Value Pack,Produce,SUP01,1,4.0,0.8,2,10,23
+SKU00295,Green Acre Apples Small,Produce,SUP01,1,9.0,1.89,2,10,25
+SKU00296,Maple Lane Apples Value Pack,Produce,SUP01,1,8.0,2.07,2,17,50
+SKU00297,Green Acre Lettuce Value Pack,Produce,SUP01,1,10.0,3.56,2,12,32
+SKU00298,Golden Field Apples Large,Produce,SUP01,1,8.0,1.51,2,7,15
+SKU00299,Harbor Avocados Family Size,Produce,SUP01,1,7.0,3.4,2,7,15
+SKU00300,Bayview Bananas Large,Produce,SUP01,1,4.0,2.61,2,23,77
+SKU00301,Golden Field Cheddar Regular,Dairy,SUP02,1,13.0,4.79,2,6,11
+SKU00302,Northside Cream Small,Dairy,SUP02,1,12.0,2.35,2,6,12
+SKU00303,Green Acre Cheddar Large,Dairy,SUP02,1,15.0,4.38,2,12,30
+SKU00304,Northside Milk Small,Dairy,SUP02,1,10.0,5.47,2,13,34
+SKU00305,Maple Lane Yogurt Value Pack,Dairy,SUP02,1,20.0,3.35,2,12,30
+SKU00306,Maple Lane Mozzarella Large,Dairy,SUP02,1,7.0,2.08,2,15,41
+SKU00307,Bayview Yogurt Regular,Dairy,SUP02,1,17.0,2.07,2,21,67
+SKU00308,Bayview Yogurt Small,Dairy,SUP02,1,13.0,1.88,2,7,15
+SKU00309,Summit Kefir Small,Dairy,SUP02,1,11.0,2.8,2,10,24
+SKU00310,Golden Field Cheddar Regular,Dairy,SUP02,1,10.0,4.05,2,8,17
+SKU00311,Maple Lane Mozzarella Small,Dairy,SUP02,1,20.0,1.5,2,9,20
+SKU00312,Harbor Milk Large,Dairy,SUP02,1,16.0,1.61,2,7,14
+SKU00313,Coastal Kefir Small,Dairy,SUP02,1,19.0,3.63,2,16,48
+SKU00314,Bayview Milk Regular,Dairy,SUP02,1,13.0,2.62,2,13,36
+SKU00315,Harbor Cream Value Pack,Dairy,SUP02,1,19.0,1.85,2,8,18
+SKU00316,Northside Butter Large,Dairy,SUP02,1,14.0,5.85,2,7,15
+SKU00317,Maple Lane Butter Family Size,Dairy,SUP02,1,15.0,1.64,2,11,26
+SKU00318,Green Acre Yogurt Value Pack,Dairy,SUP02,1,8.0,5.33,2,12,32
+SKU00319,Golden Field Cheddar Family Size,Dairy,SUP02,1,13.0,3.16,2,7,15
+SKU00320,Bayview Mozzarella Value Pack,Dairy,SUP02,1,20.0,2.96,2,11,26
+SKU00321,Northside Butter Value Pack,Dairy,SUP02,1,15.0,3.31,2,6,12
+SKU00322,Northside Cream Regular,Dairy,SUP02,1,11.0,2.73,2,11,28
+SKU00323,Golden Field Milk Regular,Dairy,SUP02,1,9.0,4.62,2,10,24
+SKU00324,Maple Lane Yogurt Family Size,Dairy,SUP02,1,15.0,4.78,2,11,26
+SKU00325,Golden Field Kefir Value Pack,Dairy,SUP02,1,20.0,3.99,2,10,24
+SKU00326,Coastal Milk Family Size,Dairy,SUP02,1,21.0,2.96,2,13,33
+SKU00327,Coastal Cream Value Pack,Dairy,SUP02,1,7.0,1.19,2,12,30
+SKU00328,Coastal Cream Small,Dairy,SUP02,1,7.0,4.72,2,18,56
+SKU00329,Green Acre Butter Regular,Dairy,SUP02,1,13.0,1.03,2,5,9
+SKU00330,Coastal Cheddar Value Pack,Dairy,SUP02,1,20.0,2.87,2,11,28
+SKU00331,Harbor Cheddar Family Size,Dairy,SUP02,1,9.0,4.87,2,14,37
+SKU00332,Green Acre Cream Regular,Dairy,SUP02,1,21.0,5.82,2,5,9
+SKU00333,Maple Lane Yogurt Value Pack,Dairy,SUP02,1,15.0,5.39,2,8,18
+SKU00334,Bayview Kefir Large,Dairy,SUP02,1,14.0,3.82,2,5,10
+SKU00335,Summit Cream Value Pack,Dairy,SUP02,1,13.0,2.85,2,5,9
+SKU00336,Green Acre Milk Value Pack,Dairy,SUP02,1,18.0,5.19,2,9,21
+SKU00337,Summit Cheddar Family Size,Dairy,SUP02,1,20.0,1.12,2,12,30
+SKU00338,Golden Field Butter Large,Dairy,SUP02,1,17.0,1.82,2,12,30
+SKU00339,Harbor Butter Family Size,Dairy,SUP02,1,16.0,1.2,2,9,20
+SKU00340,Coastal Cream Value Pack,Dairy,SUP02,1,10.0,1.7,2,14,40
+SKU00341,Bayview Cheddar Small,Dairy,SUP02,1,8.0,5.74,2,13,35
+SKU00342,Green Acre Kefir Large,Dairy,SUP02,1,21.0,1.4,2,11,28
+SKU00343,Coastal Kefir Value Pack,Dairy,SUP02,1,16.0,3.15,2,13,34
+SKU00344,Northside Milk Regular,Dairy,SUP02,1,15.0,5.97,2,12,31
+SKU00345,Summit Milk Regular,Dairy,SUP02,1,17.0,2.51,2,24,80
+SKU00346,Bayview Milk Regular,Dairy,SUP02,1,21.0,5.19,2,10,24
+SKU00347,Harbor Kefir Value Pack,Dairy,SUP02,1,9.0,3.67,2,12,30
+SKU00348,Maple Lane Cream Family Size,Dairy,SUP02,1,12.0,3.23,2,9,20
+SKU00349,Green Acre Mozzarella Regular,Dairy,SUP02,1,11.0,1.95,2,14,39
+SKU00350,Green Acre Mozzarella Small,Dairy,SUP02,1,8.0,5.34,2,12,30
+SKU00351,Golden Field Kefir Small,Dairy,SUP02,1,21.0,5.21,2,14,39
+SKU00352,Summit Yogurt Value Pack,Dairy,SUP02,1,18.0,3.73,2,6,12
+SKU00353,Coastal Mozzarella Regular,Dairy,SUP02,1,21.0,4.52,2,11,27
+SKU00354,Bayview Butter Value Pack,Dairy,SUP02,1,12.0,2.81,2,4,7
+SKU00355,Harbor Milk Family Size,Dairy,SUP02,1,8.0,4.9,2,11,26
+SKU00356,Green Acre Mozzarella Value Pack,Dairy,SUP02,1,16.0,1.18,2,8,17
+SKU00357,Maple Lane Yogurt Regular,Dairy,SUP02,1,21.0,2.09,2,12,31
+SKU00358,Summit Mozzarella Value Pack,Dairy,SUP02,1,21.0,2.18,2,10,23
+SKU00359,Northside Yogurt Value Pack,Dairy,SUP02,1,7.0,1.98,2,9,21
+SKU00360,Northside Mozzarella Regular,Dairy,SUP02,1,15.0,4.13,2,13,35
+SKU00361,Golden Field Kefir Value Pack,Dairy,SUP02,1,16.0,5.32,2,12,32
+SKU00362,Green Acre Cheddar Small,Dairy,SUP02,1,8.0,2.13,2,16,46
+SKU00363,Golden Field Mozzarella Value Pack,Dairy,SUP02,1,12.0,4.85,2,14,40
+SKU00364,Bayview Yogurt Family Size,Dairy,SUP02,1,11.0,4.27,2,10,23
+SKU00365,Green Acre Butter Value Pack,Dairy,SUP02,1,10.0,4.61,2,8,17
+SKU00366,Summit Mozzarella Family Size,Dairy,SUP02,1,9.0,1.54,2,13,35
+SKU00367,Golden Field Cream Small,Dairy,SUP02,1,14.0,3.18,2,6,12
+SKU00368,Harbor Butter Large,Dairy,SUP02,1,14.0,3.11,2,4,7
+SKU00369,Summit Cream Regular,Dairy,SUP02,1,10.0,4.19,2,12,30
+SKU00370,Golden Field Mozzarella Small,Dairy,SUP02,1,14.0,5.48,2,11,28
+SKU00371,Summit Milk Value Pack,Dairy,SUP02,1,19.0,4.24,2,8,18
+SKU00372,Coastal Butter Large,Dairy,SUP02,1,16.0,5.28,2,9,21
+SKU00373,Northside Cheddar Large,Dairy,SUP02,1,16.0,4.36,2,11,26
+SKU00374,Summit Cheddar Large,Dairy,SUP02,1,13.0,5.06,2,8,18
+SKU00375,Harbor Eggs Large,Dairy,SUP02,1,13.0,2.08,2,10,25
+SKU00376,Northside Yogurt Regular,Dairy,SUP02,1,9.0,4.13,2,6,11
+SKU00377,Green Acre Mozzarella Family Size,Dairy,SUP02,1,11.0,1.55,2,5,9
+SKU00378,Maple Lane Yogurt Regular,Dairy,SUP02,1,9.0,2.46,2,6,12
+SKU00379,Green Acre Mozzarella Family Size,Dairy,SUP02,1,18.0,4.54,2,12,32
+SKU00380,Maple Lane Cheddar Family Size,Dairy,SUP02,1,14.0,1.74,2,8,17
+SKU00381,Green Acre Cheddar Regular,Dairy,SUP02,1,8.0,3.75,2,11,27
+SKU00382,Green Acre Milk Large,Dairy,SUP02,1,14.0,4.91,2,7,15
+SKU00383,Harbor Kefir Regular,Dairy,SUP02,1,13.0,5.1,2,7,15
+SKU00384,Northside Cheddar Small,Dairy,SUP02,1,9.0,3.34,2,8,18
+SKU00385,Summit Yogurt Value Pack,Dairy,SUP02,1,18.0,2.57,2,12,31
+SKU00386,Northside Yogurt Small,Dairy,SUP02,1,13.0,2.51,2,11,27
+SKU00387,Coastal Yogurt Large,Dairy,SUP02,1,18.0,5.65,2,5,10
+SKU00388,Summit Eggs Small,Dairy,SUP02,1,20.0,5.99,2,16,47
+SKU00389,Bayview Mozzarella Value Pack,Dairy,SUP02,1,20.0,4.96,2,4,7
+SKU00390,Maple Lane Milk Family Size,Dairy,SUP02,1,7.0,3.39,2,15,42
+SKU00391,Bayview Butter Large,Dairy,SUP02,1,15.0,3.76,2,13,34
+SKU00392,Coastal Milk Family Size,Dairy,SUP02,1,10.0,4.97,2,7,14
+SKU00393,Maple Lane Mozzarella Family Size,Dairy,SUP02,1,20.0,5.45,2,6,12
+SKU00394,Green Acre Butter Family Size,Dairy,SUP02,1,11.0,4.03,2,14,38
+SKU00395,Bayview Cheddar Value Pack,Dairy,SUP02,1,15.0,2.48,2,9,22
+SKU00396,Green Acre Yogurt Family Size,Dairy,SUP02,1,7.0,5.75,2,12,30
+SKU00397,Harbor Kefir Small,Dairy,SUP02,1,17.0,1.96,2,9,21
+SKU00398,Green Acre Kefir Value Pack,Dairy,SUP02,1,10.0,5.57,2,13,36
+SKU00399,Northside Eggs Value Pack,Dairy,SUP02,1,19.0,2.18,2,11,27
+SKU00400,Northside Mozzarella Large,Dairy,SUP02,1,10.0,3.15,2,8,18
+SKU00401,Summit Cheddar Family Size,Dairy,SUP02,1,18.0,4.86,2,6,12
+SKU00402,Summit Kefir Value Pack,Dairy,SUP02,1,10.0,1.02,2,10,24
+SKU00403,Northside Mozzarella Value Pack,Dairy,SUP02,1,7.0,2.04,2,15,41
+SKU00404,Summit Kefir Family Size,Dairy,SUP02,1,8.0,2.98,2,10,23
+SKU00405,Green Acre Cheddar Regular,Dairy,SUP02,1,9.0,1.98,2,6,12
+SKU00406,Bayview Butter Family Size,Dairy,SUP02,1,19.0,4.21,2,9,20
+SKU00407,Green Acre Mozzarella Small,Dairy,SUP02,1,13.0,3.02,2,8,18
+SKU00408,Harbor Yogurt Value Pack,Dairy,SUP02,1,17.0,4.77,2,11,28
+SKU00409,Bayview Butter Small,Dairy,SUP02,1,10.0,1.93,2,15,43
+SKU00410,Green Acre Cheddar Small,Dairy,SUP02,1,18.0,5.54,2,17,49
+SKU00411,Summit Cheddar Family Size,Dairy,SUP02,1,11.0,2.27,2,9,21
+SKU00412,Harbor Mozzarella Large,Dairy,SUP02,1,13.0,2.12,2,11,26
+SKU00413,Summit Butter Regular,Dairy,SUP02,1,7.0,1.81,2,6,11
+SKU00414,Bayview Kefir Small,Dairy,SUP02,1,10.0,5.59,2,10,25
+SKU00415,Green Acre Kefir Small,Dairy,SUP02,1,10.0,1.25,2,15,43
+SKU00416,Golden Field Cheddar Small,Dairy,SUP02,1,16.0,4.8,2,15,42
+SKU00417,Harbor Kefir Small,Dairy,SUP02,1,21.0,4.64,2,10,24
+SKU00418,Harbor Mozzarella Small,Dairy,SUP02,1,14.0,4.72,2,14,40
+SKU00419,Green Acre Eggs Family Size,Dairy,SUP02,1,11.0,1.59,2,12,31
+SKU00420,Northside Cream Family Size,Dairy,SUP02,1,14.0,3.91,2,6,12
+SKU00421,Maple Lane Kefir Value Pack,Dairy,SUP02,1,20.0,2.23,2,10,23
+SKU00422,Northside Eggs Regular,Dairy,SUP02,1,14.0,1.94,2,12,32
+SKU00423,Bayview Mozzarella Small,Dairy,SUP02,1,17.0,5.59,2,12,30
+SKU00424,Bayview Cheddar Regular,Dairy,SUP02,1,16.0,3.37,2,24,83
+SKU00425,Green Acre Milk Large,Dairy,SUP02,1,13.0,5.38,2,16,45
+SKU00426,Golden Field Kefir Family Size,Dairy,SUP02,1,12.0,5.9,2,11,28
+SKU00427,Maple Lane Cheddar Regular,Dairy,SUP02,1,18.0,2.68,2,11,27
+SKU00428,Northside Eggs Value Pack,Dairy,SUP02,1,19.0,1.12,2,14,40
+SKU00429,Coastal Eggs Regular,Dairy,SUP02,1,15.0,3.48,2,6,12
+SKU00430,Bayview Cheddar Value Pack,Dairy,SUP02,1,19.0,1.15,2,8,18
+SKU00431,Bayview Mozzarella Value Pack,Dairy,SUP02,1,7.0,4.75,2,10,23
+SKU00432,Golden Field Kefir Regular,Dairy,SUP02,1,18.0,5.43,2,10,23
+SKU00433,Golden Field Cream Large,Dairy,SUP02,1,18.0,2.23,2,7,14
+SKU00434,Bayview Milk Regular,Dairy,SUP02,1,21.0,4.55,2,6,11
+SKU00435,Northside Eggs Value Pack,Dairy,SUP02,1,14.0,3.38,2,11,27
+SKU00436,Harbor Eggs Regular,Dairy,SUP02,1,10.0,5.44,2,9,20
+SKU00437,Harbor Cheddar Value Pack,Dairy,SUP02,1,15.0,1.71,2,8,18
+SKU00438,Green Acre Mozzarella Family Size,Dairy,SUP02,1,20.0,2.66,2,7,15
+SKU00439,Northside Yogurt Small,Dairy,SUP02,1,8.0,1.6,2,13,34
+SKU00440,Harbor Mozzarella Small,Dairy,SUP02,1,8.0,1.66,2,8,18
+SKU00441,Summit Cream Small,Dairy,SUP02,1,18.0,4.15,2,8,16
+SKU00442,Northside Eggs Large,Dairy,SUP02,1,14.0,4.56,2,10,24
+SKU00443,Summit Cheddar Small,Dairy,SUP02,1,14.0,1.85,2,9,20
+SKU00444,Maple Lane Cheddar Large,Dairy,SUP02,1,9.0,2.23,2,8,17
+SKU00445,Summit Cheddar Value Pack,Dairy,SUP02,1,17.0,5.28,2,12,31
+SKU00446,Coastal Kefir Regular,Dairy,SUP02,1,11.0,2.08,2,8,18
+SKU00447,Summit Mozzarella Small,Dairy,SUP02,1,11.0,3.84,2,8,17
+SKU00448,Northside Cream Regular,Dairy,SUP02,1,16.0,4.05,2,15,43
+SKU00449,Coastal Yogurt Regular,Dairy,SUP02,1,17.0,4.37,2,7,15
+SKU00450,Golden Field Milk Family Size,Dairy,SUP02,1,13.0,3.05,2,8,18
+SKU00451,Coastal Yogurt Regular,Dairy,SUP02,1,13.0,4.71,2,7,14
+SKU00452,Harbor Kefir Value Pack,Dairy,SUP02,1,14.0,3.5,2,9,20
+SKU00453,Summit Mozzarella Value Pack,Dairy,SUP02,1,14.0,3.64,2,15,43
+SKU00454,Coastal Eggs Small,Dairy,SUP02,1,8.0,3.58,2,7,15
+SKU00455,Golden Field Mozzarella Regular,Dairy,SUP02,1,14.0,3.34,2,5,9
+SKU00456,Golden Field Butter Large,Dairy,SUP02,1,9.0,2.08,2,15,43
+SKU00457,Golden Field Milk Family Size,Dairy,SUP02,1,13.0,4.85,2,6,12
+SKU00458,Summit Milk Regular,Dairy,SUP02,1,15.0,1.77,2,6,11
+SKU00459,Coastal Yogurt Large,Dairy,SUP02,1,16.0,2.63,2,9,19
+SKU00460,Northside Butter Regular,Dairy,SUP02,1,18.0,2.15,2,9,21
+SKU00461,Coastal Cream Small,Dairy,SUP02,1,18.0,5.25,2,12,31
+SKU00462,Maple Lane Yogurt Family Size,Dairy,SUP02,1,11.0,2.25,2,6,11
+SKU00463,Summit Cream Family Size,Dairy,SUP02,1,21.0,5.95,2,11,27
+SKU00464,Northside Eggs Family Size,Dairy,SUP02,1,19.0,5.66,2,12,31
+SKU00465,Bayview Cream Family Size,Dairy,SUP02,1,19.0,2.52,2,16,46
+SKU00466,Green Acre Mozzarella Large,Dairy,SUP02,1,21.0,5.53,2,14,38
+SKU00467,Coastal Cheddar Small,Dairy,SUP02,1,11.0,3.74,2,13,35
+SKU00468,Green Acre Cream Large,Dairy,SUP02,1,16.0,3.04,2,13,33
+SKU00469,Maple Lane Cheddar Large,Dairy,SUP02,1,11.0,1.64,2,17,51
+SKU00470,Golden Field Kefir Value Pack,Dairy,SUP02,1,13.0,2.14,2,14,38
+SKU00471,Coastal Cream Small,Dairy,SUP02,1,7.0,2.58,2,10,25
+SKU00472,Northside Eggs Value Pack,Dairy,SUP02,1,11.0,1.32,2,8,18
+SKU00473,Coastal Cream Value Pack,Dairy,SUP02,1,7.0,5.24,2,12,31
+SKU00474,Golden Field Cream Regular,Dairy,SUP02,1,13.0,3.21,2,12,30
+SKU00475,Bayview Kefir Family Size,Dairy,SUP02,1,20.0,1.06,2,17,50
+SKU00476,Golden Field Mozzarella Regular,Dairy,SUP02,1,15.0,1.75,2,10,23
+SKU00477,Maple Lane Eggs Small,Dairy,SUP02,1,17.0,4.0,2,14,38
+SKU00478,Maple Lane Butter Large,Dairy,SUP02,1,11.0,3.39,2,7,15
+SKU00479,Summit Yogurt Family Size,Dairy,SUP02,1,7.0,2.76,2,17,50
+SKU00480,Northside Milk Regular,Dairy,SUP02,1,13.0,4.22,2,9,20
+SKU00481,Summit Kefir Large,Dairy,SUP02,1,19.0,4.56,2,7,15
+SKU00482,Maple Lane Butter Family Size,Dairy,SUP02,1,16.0,2.23,2,15,41
+SKU00483,Maple Lane Yogurt Large,Dairy,SUP02,1,13.0,3.07,2,9,21
+SKU00484,Green Acre Kefir Large,Dairy,SUP02,1,20.0,2.01,2,9,20
+SKU00485,Golden Field Milk Regular,Dairy,SUP02,1,20.0,5.76,2,13,34
+SKU00486,Maple Lane Kefir Family Size,Dairy,SUP02,1,21.0,5.53,2,10,25
+SKU00487,Green Acre Cream Family Size,Dairy,SUP02,1,8.0,5.25,2,8,17
+SKU00488,Coastal Cream Large,Dairy,SUP02,1,13.0,3.86,2,16,45
+SKU00489,Summit Eggs Family Size,Dairy,SUP02,1,8.0,4.65,2,9,21
+SKU00490,Golden Field Butter Family Size,Dairy,SUP02,1,14.0,2.56,2,6,11
+SKU00491,Green Acre Eggs Small,Dairy,SUP02,1,12.0,1.87,2,8,18
+SKU00492,Summit Butter Large,Dairy,SUP02,1,21.0,4.67,2,6,11
+SKU00493,Coastal Kefir Family Size,Dairy,SUP02,1,12.0,5.26,2,7,14
+SKU00494,Golden Field Cream Large,Dairy,SUP02,1,20.0,2.29,2,8,18
+SKU00495,Summit Mozzarella Large,Dairy,SUP02,1,9.0,1.44,2,7,14
+SKU00496,Maple Lane Cheddar Regular,Dairy,SUP02,1,8.0,3.38,2,8,17
+SKU00497,Green Acre Cheddar Large,Dairy,SUP02,1,12.0,5.23,2,10,25
+SKU00498,Northside Kefir Small,Dairy,SUP02,1,13.0,5.76,2,11,27
+SKU00499,Green Acre Milk Regular,Dairy,SUP02,1,20.0,3.45,2,9,21
+SKU00500,Northside Yogurt Small,Dairy,SUP02,1,17.0,1.24,2,9,21
+SKU00501,Bayview Yogurt Regular,Dairy,SUP02,1,13.0,3.07,2,11,28
+SKU00502,Northside Cheddar Large,Dairy,SUP02,1,7.0,4.07,2,9,22
+SKU00503,Northside Eggs Family Size,Dairy,SUP02,1,8.0,1.07,2,7,14
+SKU00504,Northside Butter Regular,Dairy,SUP02,1,12.0,5.05,2,18,55
+SKU00505,Maple Lane Cream Regular,Dairy,SUP02,1,15.0,1.11,2,10,25
+SKU00506,Maple Lane Cheddar Value Pack,Dairy,SUP02,1,13.0,1.5,2,11,27
+SKU00507,Maple Lane Mozzarella Regular,Dairy,SUP02,1,7.0,4.01,2,12,30
+SKU00508,Coastal Cheddar Family Size,Dairy,SUP02,1,18.0,4.16,2,11,26
+SKU00509,Coastal Mozzarella Family Size,Dairy,SUP02,1,7.0,3.22,2,9,20
+SKU00510,Golden Field Yogurt Family Size,Dairy,SUP02,1,12.0,5.94,2,12,31
+SKU00511,Harbor Butter Small,Dairy,SUP02,1,19.0,2.62,2,10,24
+SKU00512,Green Acre Mozzarella Regular,Dairy,SUP02,1,14.0,1.65,2,7,14
+SKU00513,Maple Lane Cream Small,Dairy,SUP02,1,8.0,3.12,2,11,27
+SKU00514,Summit Cream Value Pack,Dairy,SUP02,1,21.0,2.29,2,12,31
+SKU00515,Summit Kefir Small,Dairy,SUP02,1,13.0,2.4,2,10,24
+SKU00516,Maple Lane Butter Regular,Dairy,SUP02,1,14.0,5.88,2,5,8
+SKU00517,Summit Cheddar Small,Dairy,SUP02,1,7.0,2.96,2,9,20
+SKU00518,Summit Eggs Large,Dairy,SUP02,1,9.0,4.37,2,13,35
+SKU00519,Golden Field Cheddar Large,Dairy,SUP02,1,12.0,4.58,2,11,28
+SKU00520,Summit Cheddar Small,Dairy,SUP02,1,19.0,3.86,2,8,17
+SKU00521,Harbor Mozzarella Large,Dairy,SUP02,1,12.0,1.19,2,12,31
+SKU00522,Golden Field Milk Value Pack,Dairy,SUP02,1,10.0,4.74,2,7,14
+SKU00523,Northside Kefir Value Pack,Dairy,SUP02,1,21.0,4.03,2,10,25
+SKU00524,Bayview Eggs Family Size,Dairy,SUP02,1,21.0,2.71,2,8,18
+SKU00525,Harbor Cream Value Pack,Dairy,SUP02,1,14.0,1.89,2,11,28
+SKU00526,Northside Milk Small,Dairy,SUP02,1,20.0,2.32,2,14,39
+SKU00527,Coastal Milk Family Size,Dairy,SUP02,1,10.0,2.37,2,9,21
+SKU00528,Northside Yogurt Value Pack,Dairy,SUP02,1,12.0,2.93,2,10,25
+SKU00529,Northside Cheddar Regular,Dairy,SUP02,1,8.0,1.13,2,5,9
+SKU00530,Northside Kefir Large,Dairy,SUP02,1,21.0,5.64,2,7,15
+SKU00531,Maple Lane Cream Value Pack,Dairy,SUP02,1,11.0,4.87,2,10,24
+SKU00532,Summit Kefir Large,Dairy,SUP02,1,20.0,3.17,2,11,27
+SKU00533,Summit Kefir Family Size,Dairy,SUP02,1,11.0,5.65,2,11,26
+SKU00534,Coastal Mozzarella Large,Dairy,SUP02,1,18.0,1.47,2,6,11
+SKU00535,Green Acre Milk Family Size,Dairy,SUP02,1,18.0,5.0,2,8,18
+SKU00536,Golden Field Kefir Regular,Dairy,SUP02,1,8.0,2.38,2,17,50
+SKU00537,Maple Lane Milk Family Size,Dairy,SUP02,1,13.0,2.33,2,12,30
+SKU00538,Maple Lane Butter Small,Dairy,SUP02,1,20.0,2.35,2,12,31
+SKU00539,Coastal Butter Family Size,Dairy,SUP02,1,11.0,3.51,2,11,27
+SKU00540,Bayview Cheddar Regular,Dairy,SUP02,1,14.0,1.76,2,8,17
+SKU00541,Golden Field Cream Large,Dairy,SUP02,1,13.0,5.12,2,23,76
+SKU00542,Summit Mozzarella Small,Dairy,SUP02,1,18.0,5.84,2,11,26
+SKU00543,Green Acre Yogurt Value Pack,Dairy,SUP02,1,14.0,1.85,2,8,17
+SKU00544,Northside Cream Regular,Dairy,SUP02,1,10.0,5.65,2,11,28
+SKU00545,Northside Cream Regular,Dairy,SUP02,1,17.0,1.29,2,27,98
+SKU00546,Green Acre Kefir Small,Dairy,SUP02,1,8.0,3.56,2,8,16
+SKU00547,Harbor Eggs Regular,Dairy,SUP02,1,8.0,5.69,2,10,24
+SKU00548,Northside Yogurt Regular,Dairy,SUP02,1,11.0,3.94,2,11,28
+SKU00549,Bayview Butter Large,Dairy,SUP02,1,9.0,1.52,2,13,35
+SKU00550,Northside Butter Family Size,Dairy,SUP02,1,20.0,1.44,2,16,47
+SKU00551,Golden Field Rolls Family Size,Bakery,SUP03,1,5.0,2.92,1,21,54
+SKU00552,Summit Croissants Family Size,Bakery,SUP03,1,3.0,2.36,1,5,9
+SKU00553,Maple Lane Bagels Large,Bakery,SUP03,1,4.0,1.8,1,8,16
+SKU00554,Harbor Muffins Small,Bakery,SUP03,1,3.0,4.45,1,9,18
+SKU00555,Maple Lane Rolls Value Pack,Bakery,SUP03,1,4.0,5.44,1,4,6
+SKU00556,Maple Lane Bagels Value Pack,Bakery,SUP03,1,3.0,3.92,1,7,13
+SKU00557,Maple Lane Sourdough Large,Bakery,SUP03,1,3.0,2.65,1,9,19
+SKU00558,Green Acre Bagels Family Size,Bakery,SUP03,1,3.0,4.32,1,8,15
+SKU00559,Green Acre Croissants Family Size,Bakery,SUP03,1,4.0,4.97,1,7,13
+SKU00560,Northside Muffins Regular,Bakery,SUP03,1,5.0,3.85,1,7,14
+SKU00561,Coastal Baguette Regular,Bakery,SUP03,1,2.0,3.43,1,6,11
+SKU00562,Golden Field Rolls Value Pack,Bakery,SUP03,1,3.0,1.92,1,10,20
+SKU00563,Harbor Sourdough Family Size,Bakery,SUP03,1,5.0,3.78,1,5,9
+SKU00564,Maple Lane Rolls Large,Bakery,SUP03,1,4.0,4.26,1,6,11
+SKU00565,Golden Field Rolls Large,Bakery,SUP03,1,5.0,1.66,1,7,14
+SKU00566,Summit Bagels Small,Bakery,SUP03,1,5.0,4.42,1,8,15
+SKU00567,Harbor Bagels Value Pack,Bakery,SUP03,1,3.0,4.67,1,9,18
+SKU00568,Summit Sourdough Large,Bakery,SUP03,1,5.0,4.94,1,5,9
+SKU00569,Northside Bagels Small,Bakery,SUP03,1,5.0,4.69,1,5,9
+SKU00570,Green Acre Bagels Family Size,Bakery,SUP03,1,3.0,1.68,1,5,8
+SKU00571,Golden Field Sourdough Value Pack,Bakery,SUP03,1,2.0,4.78,1,4,7
+SKU00572,Northside Baguette Regular,Bakery,SUP03,1,3.0,3.69,1,5,9
+SKU00573,Harbor Bagels Family Size,Bakery,SUP03,1,4.0,3.44,1,10,22
+SKU00574,Summit Rolls Family Size,Bakery,SUP03,1,5.0,1.85,1,11,23
+SKU00575,Harbor Bagels Family Size,Bakery,SUP03,1,3.0,2.79,1,8,15
+SKU00576,Harbor Baguette Value Pack,Bakery,SUP03,1,3.0,5.64,1,9,18
+SKU00577,Coastal Sourdough Small,Bakery,SUP03,1,3.0,1.86,1,8,16
+SKU00578,Bayview Rolls Regular,Bakery,SUP03,1,2.0,2.39,1,8,15
+SKU00579,Bayview Croissants Value Pack,Bakery,SUP03,1,4.0,3.2,1,6,11
+SKU00580,Northside Sourdough Family Size,Bakery,SUP03,1,3.0,4.6,1,11,23
+SKU00581,Maple Lane Croissants Large,Bakery,SUP03,1,4.0,1.81,1,9,19
+SKU00582,Summit Sourdough Large,Bakery,SUP03,1,4.0,2.8,1,8,16
+SKU00583,Harbor Sourdough Value Pack,Bakery,SUP03,1,5.0,5.26,1,11,24
+SKU00584,Northside Sourdough Value Pack,Bakery,SUP03,1,2.0,5.34,1,6,11
+SKU00585,Bayview Muffins Family Size,Bakery,SUP03,1,3.0,5.08,1,3,5
+SKU00586,Harbor Muffins Value Pack,Bakery,SUP03,1,5.0,2.18,1,15,35
+SKU00587,Coastal Sourdough Regular,Bakery,SUP03,1,3.0,5.49,1,10,20
+SKU00588,Coastal Baguette Family Size,Bakery,SUP03,1,3.0,3.38,1,9,18
+SKU00589,Northside Muffins Regular,Bakery,SUP03,1,3.0,2.97,1,17,40
+SKU00590,Maple Lane Bagels Value Pack,Bakery,SUP03,1,3.0,2.17,1,11,23
+SKU00591,Green Acre Muffins Large,Bakery,SUP03,1,2.0,4.62,1,4,6
+SKU00592,Harbor Bagels Large,Bakery,SUP03,1,2.0,1.54,1,5,9
+SKU00593,Northside Baguette Small,Bakery,SUP03,1,5.0,1.7,1,6,11
+SKU00594,Harbor Sourdough Value Pack,Bakery,SUP03,1,4.0,4.9,1,11,23
+SKU00595,Golden Field Sourdough Regular,Bakery,SUP03,1,4.0,5.96,1,4,6
+SKU00596,Bayview Bagels Large,Bakery,SUP03,1,2.0,4.0,1,7,13
+SKU00597,Green Acre Baguette Family Size,Bakery,SUP03,1,5.0,5.52,1,9,18
+SKU00598,Green Acre Bagels Large,Bakery,SUP03,1,4.0,2.84,1,5,8
+SKU00599,Golden Field Rolls Large,Bakery,SUP03,1,4.0,5.89,1,11,24
+SKU00600,Green Acre Muffins Value Pack,Bakery,SUP03,1,3.0,1.98,1,6,11
+SKU00601,Coastal Muffins Small,Bakery,SUP03,1,2.0,5.69,1,11,23
+SKU00602,Harbor Bagels Family Size,Bakery,SUP03,1,5.0,1.94,1,5,9
+SKU00603,Coastal Baguette Small,Bakery,SUP03,1,2.0,4.61,1,6,11
+SKU00604,Northside Baguette Small,Bakery,SUP03,1,5.0,4.73,1,7,14
+SKU00605,Bayview Bagels Value Pack,Bakery,SUP03,1,4.0,5.81,1,4,7
+SKU00606,Green Acre Muffins Large,Bakery,SUP03,1,3.0,4.9,1,4,7
+SKU00607,Bayview Sourdough Small,Bakery,SUP03,1,2.0,3.93,1,4,6
+SKU00608,Maple Lane Muffins Small,Bakery,SUP03,1,2.0,3.32,1,5,9
+SKU00609,Maple Lane Muffins Regular,Bakery,SUP03,1,4.0,4.74,1,6,11
+SKU00610,Northside Baguette Family Size,Bakery,SUP03,1,4.0,3.92,1,8,16
+SKU00611,Maple Lane Sourdough Small,Bakery,SUP03,1,3.0,3.87,1,5,9
+SKU00612,Golden Field Baguette Regular,Bakery,SUP03,1,2.0,4.17,1,3,5
+SKU00613,Harbor Baguette Value Pack,Bakery,SUP03,1,5.0,4.17,1,4,7
+SKU00614,Northside Croissants Family Size,Bakery,SUP03,1,3.0,5.39,1,6,10
+SKU00615,Northside Muffins Regular,Bakery,SUP03,1,3.0,1.73,1,4,6
+SKU00616,Bayview Bagels Small,Bakery,SUP03,1,3.0,5.75,1,8,15
+SKU00617,Coastal Bagels Value Pack,Bakery,SUP03,1,2.0,3.02,1,7,13
+SKU00618,Maple Lane Croissants Value Pack,Bakery,SUP03,1,5.0,5.11,1,5,9
+SKU00619,Green Acre Croissants Small,Bakery,SUP03,1,2.0,5.65,1,5,9
+SKU00620,Summit Muffins Value Pack,Bakery,SUP03,1,4.0,2.45,1,7,14
+SKU00621,Summit Croissants Small,Bakery,SUP03,1,2.0,4.57,1,10,20
+SKU00622,Bayview Baguette Family Size,Bakery,SUP03,1,3.0,1.74,1,9,19
+SKU00623,Summit Rolls Small,Bakery,SUP03,1,4.0,4.39,1,9,18
+SKU00624,Summit Croissants Value Pack,Bakery,SUP03,1,2.0,1.94,1,10,21
+SKU00625,Northside Rolls Regular,Bakery,SUP03,1,2.0,2.52,1,5,8
+SKU00626,Coastal Bagels Regular,Bakery,SUP03,1,2.0,4.03,1,6,10
+SKU00627,Maple Lane Muffins Regular,Bakery,SUP03,1,5.0,2.18,1,9,18
+SKU00628,Harbor Rolls Value Pack,Bakery,SUP03,1,5.0,4.34,1,8,16
+SKU00629,Golden Field Muffins Large,Bakery,SUP03,1,4.0,1.57,1,4,6
+SKU00630,Coastal Muffins Small,Bakery,SUP03,1,5.0,3.2,1,14,32
+SKU00631,Maple Lane Muffins Regular,Bakery,SUP03,1,4.0,3.47,1,7,13
+SKU00632,Maple Lane Bagels Small,Bakery,SUP03,1,4.0,3.19,1,12,26
+SKU00633,Bayview Bagels Family Size,Bakery,SUP03,1,3.0,2.82,1,10,20
+SKU00634,Green Acre Croissants Small,Bakery,SUP03,1,4.0,5.78,1,11,23
+SKU00635,Golden Field Baguette Value Pack,Bakery,SUP03,1,2.0,2.68,1,6,11
+SKU00636,Maple Lane Sourdough Value Pack,Bakery,SUP03,1,4.0,4.55,1,10,21
+SKU00637,Green Acre Muffins Family Size,Bakery,SUP03,1,4.0,3.28,1,13,28
+SKU00638,Summit Sourdough Large,Bakery,SUP03,1,4.0,5.98,1,6,11
+SKU00639,Summit Muffins Family Size,Bakery,SUP03,1,5.0,5.22,1,8,15
+SKU00640,Green Acre Muffins Regular,Bakery,SUP03,1,4.0,5.37,1,9,18
+SKU00641,Northside Rolls Regular,Bakery,SUP03,1,2.0,2.38,1,7,13
+SKU00642,Golden Field Croissants Value Pack,Bakery,SUP03,1,3.0,2.25,1,7,13
+SKU00643,Harbor Croissants Value Pack,Bakery,SUP03,1,5.0,5.52,1,11,23
+SKU00644,Maple Lane Sourdough Value Pack,Bakery,SUP03,1,3.0,5.61,1,7,13
+SKU00645,Northside Croissants Value Pack,Bakery,SUP03,1,5.0,5.78,1,4,7
+SKU00646,Maple Lane Baguette Large,Bakery,SUP03,1,3.0,4.89,1,8,16
+SKU00647,Harbor Sourdough Large,Bakery,SUP03,1,4.0,2.55,1,6,11
+SKU00648,Harbor Croissants Regular,Bakery,SUP03,1,5.0,5.19,1,9,18
+SKU00649,Northside Baguette Small,Bakery,SUP03,1,3.0,3.72,1,4,6
+SKU00650,Bayview Rolls Large,Bakery,SUP03,1,5.0,5.56,1,10,20
+SKU00651,Coastal Rolls Regular,Bakery,SUP03,1,2.0,5.69,1,7,14
+SKU00652,Green Acre Croissants Family Size,Bakery,SUP03,1,4.0,3.04,1,5,9
+SKU00653,Summit Bagels Value Pack,Bakery,SUP03,1,2.0,3.73,1,9,17
+SKU00654,Golden Field Muffins Family Size,Bakery,SUP03,1,4.0,3.43,1,8,15
+SKU00655,Golden Field Bagels Regular,Bakery,SUP03,1,5.0,2.39,1,5,9
+SKU00656,Maple Lane Baguette Value Pack,Bakery,SUP03,1,4.0,5.38,1,10,21
+SKU00657,Maple Lane Rolls Regular,Bakery,SUP03,1,4.0,5.09,1,10,21
+SKU00658,Green Acre Rolls Small,Bakery,SUP03,1,5.0,3.39,1,9,18
+SKU00659,Bayview Baguette Small,Bakery,SUP03,1,3.0,5.67,1,9,19
+SKU00660,Bayview Muffins Large,Bakery,SUP03,1,2.0,2.52,1,8,16
+SKU00661,Summit Croissants Value Pack,Bakery,SUP03,1,3.0,2.61,1,12,26
+SKU00662,Golden Field Baguette Regular,Bakery,SUP03,1,5.0,1.82,1,5,9
+SKU00663,Bayview Croissants Regular,Bakery,SUP03,1,4.0,3.51,1,5,8
+SKU00664,Bayview Croissants Regular,Bakery,SUP03,1,4.0,3.75,1,6,11
+SKU00665,Maple Lane Baguette Family Size,Bakery,SUP03,1,4.0,3.04,1,10,21
+SKU00666,Golden Field Rolls Regular,Bakery,SUP03,1,2.0,4.12,1,6,10
+SKU00667,Maple Lane Baguette Regular,Bakery,SUP03,1,2.0,4.52,1,7,13
+SKU00668,Bayview Muffins Small,Bakery,SUP03,1,5.0,3.22,1,7,13
+SKU00669,Green Acre Rolls Large,Bakery,SUP03,1,5.0,2.25,1,7,14
+SKU00670,Golden Field Sourdough Value Pack,Bakery,SUP03,1,3.0,5.42,1,11,24
+SKU00671,Summit Muffins Small,Bakery,SUP03,1,3.0,5.16,1,6,11
+SKU00672,Harbor Croissants Large,Bakery,SUP03,1,5.0,2.53,1,5,9
+SKU00673,Golden Field Muffins Value Pack,Bakery,SUP03,1,5.0,2.61,1,6,11
+SKU00674,Harbor Rolls Value Pack,Bakery,SUP03,1,2.0,3.76,1,4,6
+SKU00675,Bayview Sourdough Large,Bakery,SUP03,1,4.0,3.81,1,6,11
+SKU00676,Northside Croissants Family Size,Bakery,SUP03,1,3.0,2.26,1,8,16
+SKU00677,Maple Lane Baguette Regular,Bakery,SUP03,1,2.0,3.27,1,5,8
+SKU00678,Coastal Sourdough Family Size,Bakery,SUP03,1,3.0,4.0,1,7,13
+SKU00679,Golden Field Bagels Large,Bakery,SUP03,1,3.0,2.32,1,12,27
+SKU00680,Northside Baguette Small,Bakery,SUP03,1,4.0,1.92,1,8,16
+SKU00681,Golden Field Bagels Regular,Bakery,SUP03,1,5.0,3.12,1,8,16
+SKU00682,Green Acre Bagels Family Size,Bakery,SUP03,1,2.0,3.74,1,6,10
+SKU00683,Coastal Bagels Small,Bakery,SUP03,1,4.0,5.27,1,7,13
+SKU00684,Golden Field Rolls Large,Bakery,SUP03,1,5.0,5.41,1,5,9
+SKU00685,Golden Field Baguette Large,Bakery,SUP03,1,4.0,4.44,1,10,21
+SKU00686,Golden Field Sourdough Large,Bakery,SUP03,1,3.0,1.83,1,5,9
+SKU00687,Golden Field Croissants Small,Bakery,SUP03,1,4.0,5.29,1,11,24
+SKU00688,Northside Sourdough Regular,Bakery,SUP03,1,5.0,5.49,1,3,5
+SKU00689,Green Acre Baguette Family Size,Bakery,SUP03,1,3.0,4.42,1,9,19
+SKU00690,Harbor Bagels Large,Bakery,SUP03,1,2.0,2.03,1,7,14
+SKU00691,Harbor Muffins Regular,Bakery,SUP03,1,3.0,2.47,1,5,9
+SKU00692,Green Acre Baguette Family Size,Bakery,SUP03,1,4.0,5.71,1,8,15
+SKU00693,Golden Field Rolls Family Size,Bakery,SUP03,1,2.0,4.83,1,7,13
+SKU00694,Maple Lane Rolls Small,Bakery,SUP03,1,4.0,4.32,1,5,8
+SKU00695,Golden Field Baguette Family Size,Bakery,SUP03,1,5.0,5.99,1,6,11
+SKU00696,Golden Field Sourdough Large,Bakery,SUP03,1,4.0,2.04,1,12,26
+SKU00697,Summit Bagels Large,Bakery,SUP03,1,4.0,2.33,1,4,7
+SKU00698,Harbor Sourdough Regular,Bakery,SUP03,1,5.0,4.62,1,6,11
+SKU00699,Bayview Sourdough Large,Bakery,SUP03,1,4.0,2.77,1,8,16
+SKU00700,Northside Croissants Small,Bakery,SUP03,1,5.0,2.8,1,11,23
+SKU00701,Golden Field Chicken Breast Value Pack,Meat & Seafood,SUP04,1,7.0,17.73,3,11,30
+SKU00702,Harbor Salmon Regular,Meat & Seafood,SUP04,1,4.0,15.38,3,8,17
+SKU00703,Green Acre Ground Beef Value Pack,Meat & Seafood,SUP04,1,5.0,10.48,3,5,10
+SKU00704,Maple Lane Shrimp Regular,Meat & Seafood,SUP04,1,6.0,13.1,3,12,34
+SKU00705,Golden Field Salmon Family Size,Meat & Seafood,SUP04,1,3.0,15.02,3,8,18
+SKU00706,Golden Field Salmon Family Size,Meat & Seafood,SUP04,1,4.0,6.93,3,10,26
+SKU00707,Coastal Ground Beef Large,Meat & Seafood,SUP04,1,3.0,14.75,3,10,27
+SKU00708,Golden Field Salmon Regular,Meat & Seafood,SUP04,1,5.0,15.41,3,9,22
+SKU00709,Golden Field Shrimp Regular,Meat & Seafood,SUP04,1,7.0,13.25,3,15,45
+SKU00710,Green Acre Shrimp Small,Meat & Seafood,SUP04,1,5.0,9.8,3,13,37
+SKU00711,Green Acre Ground Beef Large,Meat & Seafood,SUP04,1,3.0,9.81,3,8,19
+SKU00712,Maple Lane Salmon Family Size,Meat & Seafood,SUP04,1,5.0,17.03,3,12,34
+SKU00713,Maple Lane Pork Chops Value Pack,Meat & Seafood,SUP04,1,5.0,4.28,3,9,22
+SKU00714,Coastal Ground Beef Small,Meat & Seafood,SUP04,1,4.0,9.62,3,6,12
+SKU00715,Golden Field Chicken Breast Small,Meat & Seafood,SUP04,1,3.0,5.31,3,8,17
+SKU00716,Northside Ground Beef Large,Meat & Seafood,SUP04,1,5.0,7.11,3,11,31
+SKU00717,Bayview Turkey Regular,Meat & Seafood,SUP04,1,3.0,5.78,3,10,25
+SKU00718,Coastal Turkey Large,Meat & Seafood,SUP04,1,6.0,12.54,3,9,21
+SKU00719,Summit Chicken Breast Regular,Meat & Seafood,SUP04,1,7.0,6.86,3,21,75
+SKU00720,Golden Field Salmon Small,Meat & Seafood,SUP04,1,4.0,17.04,3,7,14
+SKU00721,Bayview Turkey Large,Meat & Seafood,SUP04,1,4.0,13.08,3,10,24
+SKU00722,Golden Field Chicken Breast Large,Meat & Seafood,SUP04,1,7.0,11.95,3,13,37
+SKU00723,Maple Lane Chicken Breast Large,Meat & Seafood,SUP04,1,5.0,13.43,3,6,13
+SKU00724,Northside Chicken Breast Value Pack,Meat & Seafood,SUP04,1,4.0,15.96,3,12,34
+SKU00725,Northside Shrimp Family Size,Meat & Seafood,SUP04,1,7.0,4.1,3,10,24
+SKU00726,Harbor Shrimp Family Size,Meat & Seafood,SUP04,1,3.0,12.26,3,9,22
+SKU00727,Bayview Pork Chops Large,Meat & Seafood,SUP04,1,4.0,13.76,3,11,29
+SKU00728,Golden Field Ground Beef Value Pack,Meat & Seafood,SUP04,1,5.0,16.35,3,6,12
+SKU00729,Maple Lane Salmon Family Size,Meat & Seafood,SUP04,1,4.0,5.2,3,11,28
+SKU00730,Summit Chicken Breast Small,Meat & Seafood,SUP04,1,7.0,7.11,3,5,9
+SKU00731,Coastal Ground Beef Family Size,Meat & Seafood,SUP04,1,4.0,9.86,3,8,17
+SKU00732,Golden Field Shrimp Small,Meat & Seafood,SUP04,1,7.0,16.25,3,12,33
+SKU00733,Harbor Shrimp Small,Meat & Seafood,SUP04,1,3.0,16.79,3,10,25
+SKU00734,Green Acre Salmon Family Size,Meat & Seafood,SUP04,1,3.0,4.17,3,8,18
+SKU00735,Summit Turkey Value Pack,Meat & Seafood,SUP04,1,3.0,12.29,3,7,16
+SKU00736,Coastal Pork Chops Regular,Meat & Seafood,SUP04,1,4.0,7.97,3,9,22
+SKU00737,Coastal Ground Beef Regular,Meat & Seafood,SUP04,1,5.0,13.11,3,6,12
+SKU00738,Northside Turkey Value Pack,Meat & Seafood,SUP04,1,5.0,15.47,3,9,22
+SKU00739,Summit Shrimp Regular,Meat & Seafood,SUP04,1,6.0,16.25,3,11,28
+SKU00740,Maple Lane Ground Beef Family Size,Meat & Seafood,SUP04,1,3.0,12.49,3,5,9
+SKU00741,Summit Ground Beef Large,Meat & Seafood,SUP04,1,3.0,11.68,3,16,52
+SKU00742,Green Acre Pork Chops Family Size,Meat & Seafood,SUP04,1,6.0,15.51,3,10,24
+SKU00743,Coastal Pork Chops Value Pack,Meat & Seafood,SUP04,1,5.0,10.62,3,12,33
+SKU00744,Green Acre Ground Beef Value Pack,Meat & Seafood,SUP04,1,7.0,5.37,3,8,18
+SKU00745,Summit Pork Chops Large,Meat & Seafood,SUP04,1,4.0,14.44,3,13,36
+SKU00746,Bayview Shrimp Family Size,Meat & Seafood,SUP04,1,5.0,5.55,3,14,43
+SKU00747,Maple Lane Shrimp Regular,Meat & Seafood,SUP04,1,4.0,16.45,3,13,39
+SKU00748,Bayview Shrimp Large,Meat & Seafood,SUP04,1,4.0,13.93,3,10,24
+SKU00749,Green Acre Chicken Breast Large,Meat & Seafood,SUP04,1,4.0,7.29,3,13,38
+SKU00750,Northside Shrimp Large,Meat & Seafood,SUP04,1,5.0,11.99,3,8,18
+SKU00751,Bayview Chicken Breast Regular,Meat & Seafood,SUP04,1,4.0,16.04,3,11,28
+SKU00752,Summit Salmon Large,Meat & Seafood,SUP04,1,6.0,4.9,3,6,12
+SKU00753,Bayview Ground Beef Small,Meat & Seafood,SUP04,1,7.0,13.89,3,9,22
+SKU00754,Coastal Chicken Breast Regular,Meat & Seafood,SUP04,1,3.0,12.9,3,18,59
+SKU00755,Green Acre Turkey Family Size,Meat & Seafood,SUP04,1,6.0,10.26,3,9,21
+SKU00756,Northside Pork Chops Family Size,Meat & Seafood,SUP04,1,7.0,7.48,3,7,15
+SKU00757,Bayview Chicken Breast Value Pack,Meat & Seafood,SUP04,1,6.0,14.96,3,9,21
+SKU00758,Maple Lane Salmon Large,Meat & Seafood,SUP04,1,6.0,6.12,3,6,12
+SKU00759,Golden Field Ground Beef Regular,Meat & Seafood,SUP04,1,5.0,10.19,3,15,47
+SKU00760,Green Acre Turkey Regular,Meat & Seafood,SUP04,1,4.0,10.24,3,15,47
+SKU00761,Summit Ground Beef Small,Meat & Seafood,SUP04,1,6.0,10.28,3,7,15
+SKU00762,Golden Field Turkey Small,Meat & Seafood,SUP04,1,7.0,14.13,3,8,18
+SKU00763,Harbor Turkey Family Size,Meat & Seafood,SUP04,1,4.0,12.55,3,6,11
+SKU00764,Maple Lane Ground Beef Regular,Meat & Seafood,SUP04,1,4.0,5.59,3,13,36
+SKU00765,Northside Shrimp Value Pack,Meat & Seafood,SUP04,1,6.0,8.43,3,8,18
+SKU00766,Bayview Salmon Family Size,Meat & Seafood,SUP04,1,5.0,16.87,3,7,16
+SKU00767,Bayview Turkey Small,Meat & Seafood,SUP04,1,5.0,4.66,3,5,9
+SKU00768,Northside Salmon Family Size,Meat & Seafood,SUP04,1,4.0,6.38,3,7,15
+SKU00769,Green Acre Ground Beef Small,Meat & Seafood,SUP04,1,7.0,14.65,3,11,30
+SKU00770,Harbor Shrimp Large,Meat & Seafood,SUP04,1,4.0,13.05,3,9,21
+SKU00771,Harbor Turkey Regular,Meat & Seafood,SUP04,1,4.0,7.57,3,13,37
+SKU00772,Golden Field Pork Chops Small,Meat & Seafood,SUP04,1,5.0,12.85,3,7,15
+SKU00773,Maple Lane Shrimp Value Pack,Meat & Seafood,SUP04,1,4.0,7.82,3,7,15
+SKU00774,Coastal Ground Beef Value Pack,Meat & Seafood,SUP04,1,4.0,10.36,3,10,27
+SKU00775,Summit Ground Beef Regular,Meat & Seafood,SUP04,1,5.0,5.8,3,12,34
+SKU00776,Summit Turkey Small,Meat & Seafood,SUP04,1,5.0,16.62,3,8,18
+SKU00777,Summit Chicken Breast Regular,Meat & Seafood,SUP04,1,6.0,14.65,3,7,16
+SKU00778,Golden Field Chicken Breast Small,Meat & Seafood,SUP04,1,6.0,9.27,3,21,74
+SKU00779,Golden Field Ground Beef Large,Meat & Seafood,SUP04,1,7.0,4.89,3,10,24
+SKU00780,Bayview Pork Chops Small,Meat & Seafood,SUP04,1,6.0,13.96,3,12,33
+SKU00781,Northside Ground Beef Regular,Meat & Seafood,SUP04,1,3.0,12.38,3,14,40
+SKU00782,Maple Lane Chicken Breast Regular,Meat & Seafood,SUP04,1,3.0,8.64,3,6,12
+SKU00783,Maple Lane Chicken Breast Family Size,Meat & Seafood,SUP04,1,7.0,8.37,3,10,24
+SKU00784,Harbor Turkey Value Pack,Meat & Seafood,SUP04,1,3.0,14.01,3,6,12
+SKU00785,Harbor Shrimp Regular,Meat & Seafood,SUP04,1,3.0,6.64,3,13,39
+SKU00786,Maple Lane Pork Chops Regular,Meat & Seafood,SUP04,1,7.0,13.41,3,16,52
+SKU00787,Golden Field Turkey Large,Meat & Seafood,SUP04,1,6.0,4.56,3,17,58
+SKU00788,Summit Salmon Family Size,Meat & Seafood,SUP04,1,3.0,11.1,3,11,31
+SKU00789,Maple Lane Ground Beef Value Pack,Meat & Seafood,SUP04,1,5.0,6.43,3,11,30
+SKU00790,Coastal Chicken Breast Value Pack,Meat & Seafood,SUP04,1,6.0,16.1,3,10,24
+SKU00791,Golden Field Ground Beef Regular,Meat & Seafood,SUP04,1,3.0,4.38,3,10,25
+SKU00792,Bayview Shrimp Regular,Meat & Seafood,SUP04,1,6.0,9.43,3,7,15
+SKU00793,Golden Field Chicken Breast Large,Meat & Seafood,SUP04,1,3.0,17.05,3,11,30
+SKU00794,Northside Turkey Value Pack,Meat & Seafood,SUP04,1,7.0,13.09,3,9,21
+SKU00795,Maple Lane Salmon Small,Meat & Seafood,SUP04,1,3.0,4.88,3,11,29
+SKU00796,Coastal Chicken Breast Family Size,Meat & Seafood,SUP04,1,4.0,13.82,3,8,17
+SKU00797,Coastal Pork Chops Family Size,Meat & Seafood,SUP04,1,3.0,14.47,3,11,28
+SKU00798,Golden Field Chicken Breast Value Pack,Meat & Seafood,SUP04,1,4.0,8.63,3,7,15
+SKU00799,Golden Field Shrimp Small,Meat & Seafood,SUP04,1,6.0,13.74,3,10,26
+SKU00800,Maple Lane Shrimp Value Pack,Meat & Seafood,SUP04,1,6.0,6.73,3,10,24
+SKU00801,Northside Salmon Small,Meat & Seafood,SUP04,1,5.0,5.57,3,9,21
+SKU00802,Northside Chicken Breast Large,Meat & Seafood,SUP04,1,3.0,5.86,3,8,19
+SKU00803,Green Acre Ground Beef Regular,Meat & Seafood,SUP04,1,4.0,8.51,3,11,28
+SKU00804,Coastal Pork Chops Family Size,Meat & Seafood,SUP04,1,7.0,8.2,3,10,25
+SKU00805,Coastal Pork Chops Regular,Meat & Seafood,SUP04,1,4.0,15.23,3,6,12
+SKU00806,Northside Salmon Small,Meat & Seafood,SUP04,1,7.0,11.74,3,9,22
+SKU00807,Coastal Salmon Family Size,Meat & Seafood,SUP04,1,3.0,15.26,3,9,23
+SKU00808,Maple Lane Ground Beef Regular,Meat & Seafood,SUP04,1,5.0,4.6,3,6,11
+SKU00809,Green Acre Shrimp Regular,Meat & Seafood,SUP04,1,3.0,10.68,3,6,12
+SKU00810,Harbor Ground Beef Large,Meat & Seafood,SUP04,1,3.0,14.69,3,6,12
+SKU00811,Northside Chicken Breast Value Pack,Meat & Seafood,SUP04,1,7.0,12.33,3,6,12
+SKU00812,Summit Shrimp Large,Meat & Seafood,SUP04,1,6.0,15.48,3,8,19
+SKU00813,Bayview Pork Chops Small,Meat & Seafood,SUP04,1,4.0,5.47,3,13,38
+SKU00814,Bayview Chicken Breast Small,Meat & Seafood,SUP04,1,4.0,5.32,3,8,18
+SKU00815,Maple Lane Pork Chops Small,Meat & Seafood,SUP04,1,6.0,9.89,3,8,17
+SKU00816,Green Acre Salmon Large,Meat & Seafood,SUP04,1,4.0,14.09,3,7,14
+SKU00817,Golden Field Salmon Regular,Meat & Seafood,SUP04,1,5.0,17.53,3,13,38
+SKU00818,Coastal Salmon Value Pack,Meat & Seafood,SUP04,1,5.0,4.37,3,9,22
+SKU00819,Bayview Ground Beef Large,Meat & Seafood,SUP04,1,4.0,17.99,3,7,16
+SKU00820,Northside Chicken Breast Value Pack,Meat & Seafood,SUP04,1,3.0,4.36,3,6,12
+SKU00821,Northside Chicken Breast Small,Meat & Seafood,SUP04,1,7.0,17.12,3,15,45
+SKU00822,Maple Lane Pork Chops Large,Meat & Seafood,SUP04,1,4.0,4.9,3,11,28
+SKU00823,Maple Lane Chicken Breast Small,Meat & Seafood,SUP04,1,3.0,8.36,3,6,13
+SKU00824,Coastal Salmon Family Size,Meat & Seafood,SUP04,1,6.0,15.22,3,10,25
+SKU00825,Green Acre Turkey Value Pack,Meat & Seafood,SUP04,1,5.0,15.88,3,6,12
+SKU00826,Golden Field Ground Beef Small,Meat & Seafood,SUP04,1,7.0,7.85,3,9,21
+SKU00827,Harbor Ground Beef Large,Meat & Seafood,SUP04,1,4.0,8.92,3,10,25
+SKU00828,Golden Field Turkey Value Pack,Meat & Seafood,SUP04,1,4.0,11.29,3,8,18
+SKU00829,Summit Shrimp Regular,Meat & Seafood,SUP04,1,3.0,5.45,3,15,47
+SKU00830,Bayview Shrimp Value Pack,Meat & Seafood,SUP04,1,6.0,12.25,3,9,21
+SKU00831,Northside Salmon Value Pack,Meat & Seafood,SUP04,1,3.0,5.63,3,8,18
+SKU00832,Harbor Ground Beef Regular,Meat & Seafood,SUP04,1,5.0,8.99,3,6,13
+SKU00833,Coastal Salmon Large,Meat & Seafood,SUP04,1,6.0,13.34,3,8,18
+SKU00834,Green Acre Salmon Regular,Meat & Seafood,SUP04,1,5.0,12.35,3,14,41
+SKU00835,Summit Ground Beef Large,Meat & Seafood,SUP04,1,6.0,13.06,3,13,36
+SKU00836,Northside Salmon Small,Meat & Seafood,SUP04,1,7.0,4.51,3,10,25
+SKU00837,Harbor Chicken Breast Regular,Meat & Seafood,SUP04,1,5.0,9.94,3,11,29
+SKU00838,Summit Turkey Large,Meat & Seafood,SUP04,1,5.0,17.36,3,9,23
+SKU00839,Green Acre Turkey Large,Meat & Seafood,SUP04,1,7.0,11.8,3,12,34
+SKU00840,Golden Field Shrimp Value Pack,Meat & Seafood,SUP04,1,5.0,17.22,3,11,30
+SKU00841,Green Acre Ground Beef Value Pack,Meat & Seafood,SUP04,1,3.0,13.78,3,11,29
+SKU00842,Summit Chicken Breast Regular,Meat & Seafood,SUP04,1,6.0,16.98,3,12,33
+SKU00843,Summit Chicken Breast Small,Meat & Seafood,SUP04,1,6.0,13.07,3,11,31
+SKU00844,Golden Field Turkey Large,Meat & Seafood,SUP04,1,5.0,16.7,3,11,31
+SKU00845,Maple Lane Shrimp Large,Meat & Seafood,SUP04,1,5.0,7.52,3,9,22
+SKU00846,Summit Chicken Breast Family Size,Meat & Seafood,SUP04,1,6.0,5.88,3,9,21
+SKU00847,Golden Field Chicken Breast Large,Meat & Seafood,SUP04,1,4.0,7.25,3,8,19
+SKU00848,Harbor Shrimp Family Size,Meat & Seafood,SUP04,1,3.0,15.9,3,5,10
+SKU00849,Bayview Salmon Regular,Meat & Seafood,SUP04,1,6.0,9.64,3,11,31
+SKU00850,Northside Pork Chops Family Size,Meat & Seafood,SUP04,1,3.0,16.3,3,9,23
+SKU00851,Bayview Shrimp Family Size,Meat & Seafood,SUP04,1,5.0,11.81,3,10,26
+SKU00852,Bayview Ground Beef Family Size,Meat & Seafood,SUP04,1,3.0,11.87,3,4,7
+SKU00853,Bayview Ground Beef Large,Meat & Seafood,SUP04,1,3.0,12.35,3,7,14
+SKU00854,Maple Lane Ground Beef Small,Meat & Seafood,SUP04,1,3.0,9.1,3,10,24
+SKU00855,Green Acre Salmon Small,Meat & Seafood,SUP04,1,6.0,14.59,3,9,22
+SKU00856,Coastal Shrimp Small,Meat & Seafood,SUP04,1,6.0,11.83,3,8,19
+SKU00857,Harbor Chicken Breast Small,Meat & Seafood,SUP04,1,7.0,14.95,3,9,21
+SKU00858,Green Acre Turkey Small,Meat & Seafood,SUP04,1,3.0,15.09,3,7,14
+SKU00859,Bayview Shrimp Regular,Meat & Seafood,SUP04,1,3.0,8.03,3,17,55
+SKU00860,Harbor Shrimp Small,Meat & Seafood,SUP04,1,6.0,8.22,3,9,21
+SKU00861,Maple Lane Turkey Value Pack,Meat & Seafood,SUP04,1,5.0,10.26,3,6,13
+SKU00862,Bayview Salmon Regular,Meat & Seafood,SUP04,1,5.0,10.05,3,11,29
+SKU00863,Bayview Turkey Small,Meat & Seafood,SUP04,1,7.0,11.9,3,5,9
+SKU00864,Northside Shrimp Small,Meat & Seafood,SUP04,1,7.0,11.88,3,7,15
+SKU00865,Green Acre Shrimp Regular,Meat & Seafood,SUP04,1,6.0,14.45,3,11,30
+SKU00866,Golden Field Salmon Regular,Meat & Seafood,SUP04,1,5.0,4.03,3,10,27
+SKU00867,Golden Field Pork Chops Regular,Meat & Seafood,SUP04,1,3.0,15.43,3,5,9
+SKU00868,Summit Shrimp Regular,Meat & Seafood,SUP04,1,4.0,15.96,3,6,13
+SKU00869,Coastal Pork Chops Regular,Meat & Seafood,SUP04,1,3.0,13.03,3,9,23
+SKU00870,Harbor Pork Chops Family Size,Meat & Seafood,SUP04,1,5.0,15.34,3,13,36
+SKU00871,Bayview Ground Beef Large,Meat & Seafood,SUP04,1,7.0,13.9,3,10,26
+SKU00872,Green Acre Turkey Large,Meat & Seafood,SUP04,1,7.0,14.58,3,5,10
+SKU00873,Maple Lane Ground Beef Small,Meat & Seafood,SUP04,1,5.0,14.72,3,6,12
+SKU00874,Golden Field Turkey Value Pack,Meat & Seafood,SUP04,1,3.0,9.33,3,8,19
+SKU00875,Coastal Salmon Family Size,Meat & Seafood,SUP04,1,3.0,6.15,3,9,22
+SKU00876,Coastal Salmon Large,Meat & Seafood,SUP04,1,3.0,4.23,3,8,18
+SKU00877,Harbor Chicken Breast Family Size,Meat & Seafood,SUP04,1,6.0,15.13,3,6,11
+SKU00878,Summit Pork Chops Value Pack,Meat & Seafood,SUP04,1,3.0,8.25,3,14,43
+SKU00879,Summit Pork Chops Large,Meat & Seafood,SUP04,1,7.0,7.15,3,8,19
+SKU00880,Summit Salmon Large,Meat & Seafood,SUP04,1,5.0,17.97,3,6,12
+SKU00881,Green Acre Turkey Large,Meat & Seafood,SUP04,1,7.0,11.74,3,14,42
+SKU00882,Green Acre Pork Chops Regular,Meat & Seafood,SUP04,1,4.0,15.19,3,6,11
+SKU00883,Golden Field Turkey Large,Meat & Seafood,SUP04,1,6.0,11.2,3,6,12
+SKU00884,Golden Field Pork Chops Small,Meat & Seafood,SUP04,1,7.0,6.58,3,13,37
+SKU00885,Northside Shrimp Family Size,Meat & Seafood,SUP04,1,7.0,10.76,3,12,34
+SKU00886,Green Acre Ground Beef Small,Meat & Seafood,SUP04,1,6.0,5.97,3,11,30
+SKU00887,Coastal Salmon Regular,Meat & Seafood,SUP04,1,4.0,9.42,3,6,12
+SKU00888,Bayview Ground Beef Family Size,Meat & Seafood,SUP04,1,6.0,5.03,3,14,43
+SKU00889,Summit Shrimp Family Size,Meat & Seafood,SUP04,1,5.0,14.11,3,8,19
+SKU00890,Coastal Shrimp Value Pack,Meat & Seafood,SUP04,1,4.0,10.78,3,11,29
+SKU00891,Bayview Ground Beef Large,Meat & Seafood,SUP04,1,7.0,8.59,3,8,19
+SKU00892,Bayview Chicken Breast Regular,Meat & Seafood,SUP04,1,3.0,17.97,3,11,28
+SKU00893,Green Acre Salmon Family Size,Meat & Seafood,SUP04,1,4.0,5.82,3,10,25
+SKU00894,Coastal Ground Beef Large,Meat & Seafood,SUP04,1,7.0,4.06,3,9,22
+SKU00895,Green Acre Ground Beef Family Size,Meat & Seafood,SUP04,1,3.0,7.16,3,8,18
+SKU00896,Bayview Ground Beef Large,Meat & Seafood,SUP04,1,6.0,16.46,3,10,26
+SKU00897,Golden Field Shrimp Large,Meat & Seafood,SUP04,1,4.0,6.24,3,15,46
+SKU00898,Northside Turkey Large,Meat & Seafood,SUP04,1,6.0,7.89,3,10,26
+SKU00899,Green Acre Turkey Large,Meat & Seafood,SUP04,1,6.0,11.85,3,12,33
+SKU00900,Green Acre Shrimp Value Pack,Meat & Seafood,SUP04,1,6.0,6.66,3,9,20
+SKU00901,Maple Lane Fries Large,Frozen,SUP05,0,,4.91,4,14,46
+SKU00902,Golden Field Peas Small,Frozen,SUP05,0,,7.75,4,7,15
+SKU00903,Northside Waffles Large,Frozen,SUP05,0,,3.94,4,5,10
+SKU00904,Golden Field Pizza Value Pack,Frozen,SUP05,0,,3.24,4,10,26
+SKU00905,Summit Waffles Regular,Frozen,SUP05,0,,4.73,4,11,30
+SKU00906,Northside Ice Cream Value Pack,Frozen,SUP05,0,,4.08,4,13,41
+SKU00907,Coastal Peas Large,Frozen,SUP05,0,,4.22,4,6,12
+SKU00908,Green Acre Dumplings Small,Frozen,SUP05,0,,4.92,4,11,31
+SKU00909,Golden Field Pizza Regular,Frozen,SUP05,0,,8.36,4,9,21
+SKU00910,Green Acre Peas Family Size,Frozen,SUP05,0,,3.68,4,9,23
+SKU00911,Northside Peas Regular,Frozen,SUP05,0,,4.66,4,11,29
+SKU00912,Green Acre Fries Regular,Frozen,SUP05,0,,6.28,4,10,25
+SKU00913,Harbor Ice Cream Value Pack,Frozen,SUP05,0,,8.15,4,9,23
+SKU00914,Maple Lane Fries Large,Frozen,SUP05,0,,3.95,4,13,40
+SKU00915,Harbor Waffles Small,Frozen,SUP05,0,,4.98,4,8,18
+SKU00916,Green Acre Pizza Small,Frozen,SUP05,0,,2.66,4,5,10
+SKU00917,Northside Fries Family Size,Frozen,SUP05,0,,4.67,4,19,71
+SKU00918,Golden Field Peas Family Size,Frozen,SUP05,0,,2.65,4,11,31
+SKU00919,Green Acre Waffles Value Pack,Frozen,SUP05,0,,4.1,4,11,31
+SKU00920,Bayview Ice Cream Small,Frozen,SUP05,0,,5.01,4,7,16
+SKU00921,Harbor Peas Large,Frozen,SUP05,0,,6.79,4,9,22
+SKU00922,Golden Field Pizza Small,Frozen,SUP05,0,,4.32,4,7,15
+SKU00923,Maple Lane Ice Cream Value Pack,Frozen,SUP05,0,,8.07,4,10,25
+SKU00924,Summit Fries Value Pack,Frozen,SUP05,0,,7.28,4,9,21
+SKU00925,Coastal Waffles Regular,Frozen,SUP05,0,,7.61,4,7,14
+SKU00926,Summit Dumplings Large,Frozen,SUP05,0,,6.47,4,13,38
+SKU00927,Summit Fries Small,Frozen,SUP05,0,,7.74,4,8,19
+SKU00928,Bayview Fries Value Pack,Frozen,SUP05,0,,3.74,4,9,23
+SKU00929,Harbor Waffles Large,Frozen,SUP05,0,,8.35,4,15,48
+SKU00930,Coastal Dumplings Large,Frozen,SUP05,0,,3.17,4,6,11
+SKU00931,Green Acre Peas Large,Frozen,SUP05,0,,7.57,4,13,41
+SKU00932,Summit Dumplings Regular,Frozen,SUP05,0,,3.32,4,11,32
+SKU00933,Maple Lane Dumplings Small,Frozen,SUP05,0,,7.02,4,10,25
+SKU00934,Harbor Fries Value Pack,Frozen,SUP05,0,,4.17,4,9,22
+SKU00935,Maple Lane Pizza Family Size,Frozen,SUP05,0,,5.16,4,8,18
+SKU00936,Golden Field Dumplings Large,Frozen,SUP05,0,,4.41,4,9,22
+SKU00937,Northside Peas Small,Frozen,SUP05,0,,3.16,4,9,23
+SKU00938,Coastal Ice Cream Regular,Frozen,SUP05,0,,2.62,4,5,9
+SKU00939,Maple Lane Pizza Large,Frozen,SUP05,0,,5.59,4,6,13
+SKU00940,Maple Lane Peas Family Size,Frozen,SUP05,0,,6.41,4,7,16
+SKU00941,Northside Fries Large,Frozen,SUP05,0,,7.72,4,8,18
+SKU00942,Summit Ice Cream Large,Frozen,SUP05,0,,6.93,4,10,26
+SKU00943,Maple Lane Waffles Small,Frozen,SUP05,0,,2.59,4,11,30
+SKU00944,Coastal Peas Value Pack,Frozen,SUP05,0,,3.58,4,13,39
+SKU00945,Summit Fries Small,Frozen,SUP05,0,,2.9,4,8,19
+SKU00946,Coastal Dumplings Family Size,Frozen,SUP05,0,,3.55,4,7,15
+SKU00947,Harbor Pizza Value Pack,Frozen,SUP05,0,,5.94,4,10,27
+SKU00948,Green Acre Dumplings Family Size,Frozen,SUP05,0,,7.45,4,8,20
+SKU00949,Harbor Peas Small,Frozen,SUP05,0,,3.45,4,11,29
+SKU00950,Harbor Dumplings Small,Frozen,SUP05,0,,2.14,4,7,15
+SKU00951,Bayview Dumplings Family Size,Frozen,SUP05,0,,8.55,4,10,26
+SKU00952,Summit Fries Large,Frozen,SUP05,0,,2.96,4,12,34
+SKU00953,Green Acre Pizza Family Size,Frozen,SUP05,0,,4.73,4,13,41
+SKU00954,Bayview Pizza Regular,Frozen,SUP05,0,,6.8,4,9,23
+SKU00955,Summit Waffles Large,Frozen,SUP05,0,,5.77,4,22,89
+SKU00956,Summit Dumplings Family Size,Frozen,SUP05,0,,5.81,4,7,16
+SKU00957,Green Acre Peas Value Pack,Frozen,SUP05,0,,6.37,4,8,18
+SKU00958,Coastal Ice Cream Family Size,Frozen,SUP05,0,,4.9,4,11,29
+SKU00959,Northside Peas Small,Frozen,SUP05,0,,6.8,4,5,10
+SKU00960,Bayview Waffles Family Size,Frozen,SUP05,0,,3.98,4,8,19
+SKU00961,Maple Lane Dumplings Large,Frozen,SUP05,0,,6.26,4,11,30
+SKU00962,Summit Ice Cream Family Size,Frozen,SUP05,0,,6.94,4,8,20
+SKU00963,Harbor Peas Large,Frozen,SUP05,0,,3.94,4,5,10
+SKU00964,Bayview Fries Regular,Frozen,SUP05,0,,6.23,4,10,28
+SKU00965,Bayview Waffles Small,Frozen,SUP05,0,,6.94,4,12,33
+SKU00966,Bayview Pizza Large,Frozen,SUP05,0,,2.2,4,8,18
+SKU00967,Harbor Ice Cream Regular,Frozen,SUP05,0,,4.27,4,10,27
+SKU00968,Coastal Pizza Regular,Frozen,SUP05,0,,6.34,4,10,26
+SKU00969,Green Acre Ice Cream Value Pack,Frozen,SUP05,0,,2.78,4,10,26
+SKU00970,Green Acre Dumplings Value Pack,Frozen,SUP05,0,,4.89,4,16,52
+SKU00971,Green Acre Fries Small,Frozen,SUP05,0,,4.93,4,9,22
+SKU00972,Harbor Dumplings Value Pack,Frozen,SUP05,0,,6.99,4,14,45
+SKU00973,Northside Fries Regular,Frozen,SUP05,0,,8.91,4,6,11
+SKU00974,Harbor Waffles Value Pack,Frozen,SUP05,0,,3.78,4,6,13
+SKU00975,Maple Lane Dumplings Large,Frozen,SUP05,0,,5.66,4,8,18
+SKU00976,Golden Field Fries Family Size,Frozen,SUP05,0,,4.18,4,12,34
+SKU00977,Maple Lane Pizza Large,Frozen,SUP05,0,,3.0,4,9,23
+SKU00978,Green Acre Waffles Family Size,Frozen,SUP05,0,,5.71,4,8,18
+SKU00979,Harbor Waffles Large,Frozen,SUP05,0,,5.83,4,12,36
+SKU00980,Coastal Pizza Large,Frozen,SUP05,0,,5.32,4,14,45
+SKU00981,Northside Ice Cream Large,Frozen,SUP05,0,,4.13,4,13,39
+SKU00982,Bayview Fries Large,Frozen,SUP05,0,,6.62,4,8,19
+SKU00983,Bayview Peas Value Pack,Frozen,SUP05,0,,4.42,4,9,23
+SKU00984,Maple Lane Pizza Regular,Frozen,SUP05,0,,5.92,4,8,19
+SKU00985,Summit Waffles Small,Frozen,SUP05,0,,8.37,4,9,24
+SKU00986,Green Acre Waffles Large,Frozen,SUP05,0,,5.57,4,8,19
+SKU00987,Golden Field Ice Cream Small,Frozen,SUP05,0,,4.4,4,10,25
+SKU00988,Northside Ice Cream Large,Frozen,SUP05,0,,2.65,4,8,20
+SKU00989,Coastal Peas Value Pack,Frozen,SUP05,0,,6.26,4,7,15
+SKU00990,Green Acre Peas Value Pack,Frozen,SUP05,0,,3.47,4,8,18
+SKU00991,Maple Lane Fries Value Pack,Frozen,SUP05,0,,4.98,4,6,13
+SKU00992,Northside Dumplings Value Pack,Frozen,SUP05,0,,7.0,4,6,12
+SKU00993,Harbor Dumplings Regular,Frozen,SUP05,0,,8.63,4,15,48
+SKU00994,Coastal Pizza Regular,Frozen,SUP05,0,,4.21,4,15,48
+SKU00995,Green Acre Waffles Value Pack,Frozen,SUP05,0,,4.41,4,9,22
+SKU00996,Northside Ice Cream Large,Frozen,SUP05,0,,3.11,4,6,12
+SKU00997,Harbor Pizza Family Size,Frozen,SUP05,0,,3.01,4,6,13
+SKU00998,Coastal Waffles Small,Frozen,SUP05,0,,2.53,4,7,16
+SKU00999,Coastal Pizza Family Size,Frozen,SUP05,0,,5.45,4,13,39
+SKU01000,Green Acre Ice Cream Small,Frozen,SUP05,0,,5.09,4,8,18
+SKU01001,Green Acre Peas Small,Frozen,SUP05,0,,2.5,4,6,12
+SKU01002,Northside Pizza Large,Frozen,SUP05,0,,8.93,4,11,29
+SKU01003,Coastal Fries Large,Frozen,SUP05,0,,2.56,4,15,51
+SKU01004,Bayview Pizza Regular,Frozen,SUP05,0,,2.1,4,11,29
+SKU01005,Maple Lane Ice Cream Family Size,Frozen,SUP05,0,,3.26,4,5,10
+SKU01006,Northside Peas Regular,Frozen,SUP05,0,,7.96,4,6,13
+SKU01007,Northside Dumplings Large,Frozen,SUP05,0,,5.47,4,19,71
+SKU01008,Green Acre Ice Cream Small,Frozen,SUP05,0,,6.29,4,8,19
+SKU01009,Coastal Peas Small,Frozen,SUP05,0,,2.3,4,9,23
+SKU01010,Coastal Peas Large,Frozen,SUP05,0,,3.75,4,6,13
+SKU01011,Coastal Pizza Regular,Frozen,SUP05,0,,3.55,4,11,32
+SKU01012,Summit Ice Cream Regular,Frozen,SUP05,0,,8.32,4,7,15
+SKU01013,Northside Fries Large,Frozen,SUP05,0,,6.64,4,10,25
+SKU01014,Summit Dumplings Value Pack,Frozen,SUP05,0,,5.58,4,13,38
+SKU01015,Maple Lane Dumplings Regular,Frozen,SUP05,0,,2.87,4,14,44
+SKU01016,Golden Field Dumplings Regular,Frozen,SUP05,0,,7.93,4,9,23
+SKU01017,Harbor Waffles Value Pack,Frozen,SUP05,0,,7.27,4,9,21
+SKU01018,Bayview Waffles Value Pack,Frozen,SUP05,0,,5.36,4,9,21
+SKU01019,Summit Peas Regular,Frozen,SUP05,0,,4.57,4,9,21
+SKU01020,Northside Ice Cream Value Pack,Frozen,SUP05,0,,6.68,4,5,9
+SKU01021,Bayview Ice Cream Family Size,Frozen,SUP05,0,,7.95,4,7,16
+SKU01022,Maple Lane Peas Value Pack,Frozen,SUP05,0,,4.77,4,10,27
+SKU01023,Bayview Fries Family Size,Frozen,SUP05,0,,3.13,4,7,15
+SKU01024,Summit Peas Small,Frozen,SUP05,0,,7.52,4,6,13
+SKU01025,Summit Waffles Value Pack,Frozen,SUP05,0,,3.27,4,9,23
+SKU01026,Coastal Ice Cream Family Size,Frozen,SUP05,0,,4.94,4,10,25
+SKU01027,Harbor Pizza Value Pack,Frozen,SUP05,0,,6.54,4,11,31
+SKU01028,Bayview Pizza Small,Frozen,SUP05,0,,5.15,4,6,12
+SKU01029,Northside Peas Regular,Frozen,SUP05,0,,4.17,4,6,13
+SKU01030,Summit Fries Value Pack,Frozen,SUP05,0,,5.77,4,9,24
+SKU01031,Green Acre Pizza Family Size,Frozen,SUP05,0,,2.71,4,7,15
+SKU01032,Green Acre Dumplings Value Pack,Frozen,SUP05,0,,3.31,4,8,19
+SKU01033,Green Acre Peas Regular,Frozen,SUP05,0,,6.35,4,9,23
+SKU01034,Golden Field Dumplings Value Pack,Frozen,SUP05,0,,4.07,4,14,43
+SKU01035,Bayview Dumplings Large,Frozen,SUP05,0,,8.35,4,10,26
+SKU01036,Northside Fries Family Size,Frozen,SUP05,0,,7.1,4,9,23
+SKU01037,Bayview Dumplings Regular,Frozen,SUP05,0,,7.79,4,9,23
+SKU01038,Northside Dumplings Large,Frozen,SUP05,0,,7.38,4,8,18
+SKU01039,Maple Lane Dumplings Regular,Frozen,SUP05,0,,4.23,4,10,25
+SKU01040,Maple Lane Waffles Value Pack,Frozen,SUP05,0,,7.59,4,6,13
+SKU01041,Bayview Ice Cream Large,Frozen,SUP05,0,,3.07,4,8,19
+SKU01042,Coastal Waffles Large,Frozen,SUP05,0,,7.59,4,10,28
+SKU01043,Summit Waffles Family Size,Frozen,SUP05,0,,4.99,4,9,23
+SKU01044,Summit Pizza Large,Frozen,SUP05,0,,2.14,4,8,19
+SKU01045,Harbor Fries Family Size,Frozen,SUP05,0,,7.57,4,9,21
+SKU01046,Summit Pizza Large,Frozen,SUP05,0,,2.23,4,8,19
+SKU01047,Golden Field Ice Cream Large,Frozen,SUP05,0,,2.22,4,9,22
+SKU01048,Northside Waffles Large,Frozen,SUP05,0,,4.91,4,7,16
+SKU01049,Bayview Ice Cream Family Size,Frozen,SUP05,0,,2.04,4,11,32
+SKU01050,Golden Field Pizza Small,Frozen,SUP05,0,,5.16,4,9,23
+SKU01051,Summit Dumplings Family Size,Frozen,SUP05,0,,8.02,4,7,16
+SKU01052,Northside Pizza Family Size,Frozen,SUP05,0,,3.74,4,8,20
+SKU01053,Coastal Ice Cream Regular,Frozen,SUP05,0,,5.22,4,8,19
+SKU01054,Golden Field Peas Family Size,Frozen,SUP05,0,,8.97,4,6,12
+SKU01055,Summit Waffles Small,Frozen,SUP05,0,,6.28,4,7,16
+SKU01056,Golden Field Fries Family Size,Frozen,SUP05,0,,8.29,4,11,32
+SKU01057,Maple Lane Pizza Value Pack,Frozen,SUP05,0,,5.39,4,12,35
+SKU01058,Summit Fries Value Pack,Frozen,SUP05,0,,2.73,4,8,18
+SKU01059,Green Acre Pizza Value Pack,Frozen,SUP05,0,,2.57,4,9,22
+SKU01060,Bayview Fries Large,Frozen,SUP05,0,,7.85,4,5,10
+SKU01061,Coastal Dumplings Value Pack,Frozen,SUP05,0,,8.19,4,10,26
+SKU01062,Harbor Fries Small,Frozen,SUP05,0,,3.44,4,7,15
+SKU01063,Maple Lane Pizza Small,Frozen,SUP05,0,,7.22,4,11,31
+SKU01064,Golden Field Peas Small,Frozen,SUP05,0,,2.43,4,9,22
+SKU01065,Summit Peas Family Size,Frozen,SUP05,0,,4.5,4,7,16
+SKU01066,Summit Peas Small,Frozen,SUP05,0,,5.97,4,12,36
+SKU01067,Harbor Waffles Regular,Frozen,SUP05,0,,8.83,4,7,15
+SKU01068,Harbor Ice Cream Small,Frozen,SUP05,0,,2.1,4,10,25
+SKU01069,Bayview Pizza Value Pack,Frozen,SUP05,0,,8.11,4,12,34
+SKU01070,Green Acre Fries Small,Frozen,SUP05,0,,5.9,4,12,35
+SKU01071,Summit Fries Family Size,Frozen,SUP05,0,,7.13,4,8,20
+SKU01072,Harbor Waffles Small,Frozen,SUP05,0,,3.2,4,9,23
+SKU01073,Maple Lane Fries Large,Frozen,SUP05,0,,6.59,4,8,19
+SKU01074,Golden Field Fries Value Pack,Frozen,SUP05,0,,5.33,4,8,18
+SKU01075,Golden Field Waffles Large,Frozen,SUP05,0,,7.98,4,9,22
+SKU01076,Northside Fries Small,Frozen,SUP05,0,,7.6,4,8,18
+SKU01077,Northside Pizza Small,Frozen,SUP05,0,,5.72,4,7,15
+SKU01078,Green Acre Waffles Small,Frozen,SUP05,0,,2.21,4,13,40
+SKU01079,Golden Field Fries Value Pack,Frozen,SUP05,0,,8.71,4,6,12
+SKU01080,Northside Ice Cream Regular,Frozen,SUP05,0,,7.72,4,8,19
+SKU01081,Summit Dumplings Regular,Frozen,SUP05,0,,7.71,4,6,13
+SKU01082,Bayview Pizza Family Size,Frozen,SUP05,0,,8.99,4,10,28
+SKU01083,Green Acre Waffles Family Size,Frozen,SUP05,0,,3.48,4,7,15
+SKU01084,Maple Lane Dumplings Large,Frozen,SUP05,0,,8.0,4,10,26
+SKU01085,Golden Field Waffles Value Pack,Frozen,SUP05,0,,4.49,4,7,15
+SKU01086,Harbor Waffles Small,Frozen,SUP05,0,,8.28,4,19,69
+SKU01087,Coastal Fries Value Pack,Frozen,SUP05,0,,8.96,4,10,26
+SKU01088,Green Acre Peas Small,Frozen,SUP05,0,,2.46,4,12,34
+SKU01089,Maple Lane Dumplings Large,Frozen,SUP05,0,,4.82,4,6,13
+SKU01090,Maple Lane Peas Large,Frozen,SUP05,0,,5.73,4,5,10
+SKU01091,Maple Lane Ice Cream Regular,Frozen,SUP05,0,,8.98,4,7,15
+SKU01092,Summit Waffles Small,Frozen,SUP05,0,,2.88,4,13,41
+SKU01093,Green Acre Ice Cream Family Size,Frozen,SUP05,0,,6.39,4,11,32
+SKU01094,Coastal Fries Family Size,Frozen,SUP05,0,,3.81,4,10,25
+SKU01095,Bayview Dumplings Large,Frozen,SUP05,0,,7.52,4,8,20
+SKU01096,Coastal Waffles Regular,Frozen,SUP05,0,,7.77,4,15,49
+SKU01097,Harbor Dumplings Family Size,Frozen,SUP05,0,,3.41,4,10,27
+SKU01098,Harbor Peas Small,Frozen,SUP05,0,,7.19,4,10,26
+SKU01099,Green Acre Fries Value Pack,Frozen,SUP05,0,,8.58,4,7,16
+SKU01100,Harbor Fries Large,Frozen,SUP05,0,,7.88,4,6,13
+SKU01101,Northside Pizza Value Pack,Frozen,SUP05,0,,5.58,4,10,28
+SKU01102,Harbor Fries Small,Frozen,SUP05,0,,2.87,4,11,29
+SKU01103,Harbor Peas Large,Frozen,SUP05,0,,8.65,4,6,13
+SKU01104,Summit Ice Cream Value Pack,Frozen,SUP05,0,,5.64,4,9,23
+SKU01105,Golden Field Peas Value Pack,Frozen,SUP05,0,,6.59,4,10,27
+SKU01106,Harbor Ice Cream Value Pack,Frozen,SUP05,0,,6.84,4,8,18
+SKU01107,Golden Field Peas Family Size,Frozen,SUP05,0,,7.19,4,7,15
+SKU01108,Bayview Waffles Large,Frozen,SUP05,0,,6.62,4,14,44
+SKU01109,Coastal Waffles Large,Frozen,SUP05,0,,5.33,4,12,36
+SKU01110,Harbor Ice Cream Small,Frozen,SUP05,0,,5.02,4,7,16
+SKU01111,Coastal Pizza Large,Frozen,SUP05,0,,3.16,4,10,25
+SKU01112,Golden Field Peas Small,Frozen,SUP05,0,,7.07,4,6,13
+SKU01113,Summit Fries Regular,Frozen,SUP05,0,,5.65,4,10,26
+SKU01114,Harbor Peas Regular,Frozen,SUP05,0,,5.3,4,8,18
+SKU01115,Golden Field Fries Large,Frozen,SUP05,0,,3.08,4,4,7
+SKU01116,Northside Pizza Large,Frozen,SUP05,0,,3.41,4,15,49
+SKU01117,Northside Dumplings Regular,Frozen,SUP05,0,,4.52,4,8,20
+SKU01118,Summit Dumplings Small,Frozen,SUP05,0,,7.3,4,7,15
+SKU01119,Maple Lane Waffles Family Size,Frozen,SUP05,0,,7.23,4,10,26
+SKU01120,Maple Lane Dumplings Regular,Frozen,SUP05,0,,5.28,4,8,19
+SKU01121,Golden Field Fries Large,Frozen,SUP05,0,,8.13,4,7,15
+SKU01122,Bayview Ice Cream Regular,Frozen,SUP05,0,,2.37,4,9,24
+SKU01123,Green Acre Pizza Family Size,Frozen,SUP05,0,,7.43,4,4,7
+SKU01124,Northside Fries Small,Frozen,SUP05,0,,2.02,4,10,25
+SKU01125,Northside Peas Family Size,Frozen,SUP05,0,,6.3,4,9,21
+SKU01126,Green Acre Ice Cream Large,Frozen,SUP05,0,,4.65,4,24,98
+SKU01127,Golden Field Pizza Small,Frozen,SUP05,0,,2.21,4,6,11
+SKU01128,Green Acre Waffles Value Pack,Frozen,SUP05,0,,7.82,4,12,35
+SKU01129,Summit Dumplings Small,Frozen,SUP05,0,,7.8,4,5,10
+SKU01130,Golden Field Peas Regular,Frozen,SUP05,0,,4.11,4,12,35
+SKU01131,Northside Peas Small,Frozen,SUP05,0,,8.38,4,9,23
+SKU01132,Coastal Fries Large,Frozen,SUP05,0,,4.67,4,5,9
+SKU01133,Northside Dumplings Family Size,Frozen,SUP05,0,,7.9,4,7,16
+SKU01134,Harbor Dumplings Family Size,Frozen,SUP05,0,,6.62,4,4,8
+SKU01135,Green Acre Ice Cream Family Size,Frozen,SUP05,0,,6.09,4,8,19
+SKU01136,Green Acre Waffles Value Pack,Frozen,SUP05,0,,4.95,4,6,13
+SKU01137,Northside Peas Regular,Frozen,SUP05,0,,3.22,4,8,18
+SKU01138,Coastal Dumplings Small,Frozen,SUP05,0,,6.61,4,10,25
+SKU01139,Coastal Peas Small,Frozen,SUP05,0,,3.95,4,5,9
+SKU01140,Coastal Pizza Small,Frozen,SUP05,0,,5.47,4,8,20
+SKU01141,Northside Dumplings Value Pack,Frozen,SUP05,0,,7.8,4,7,16
+SKU01142,Green Acre Ice Cream Large,Frozen,SUP05,0,,6.45,4,5,9
+SKU01143,Summit Peas Regular,Frozen,SUP05,0,,3.96,4,8,18
+SKU01144,Maple Lane Peas Small,Frozen,SUP05,0,,4.02,4,10,26
+SKU01145,Coastal Dumplings Value Pack,Frozen,SUP05,0,,8.97,4,8,18
+SKU01146,Maple Lane Pizza Regular,Frozen,SUP05,0,,4.5,4,14,46
+SKU01147,Harbor Ice Cream Regular,Frozen,SUP05,0,,7.39,4,6,13
+SKU01148,Maple Lane Waffles Large,Frozen,SUP05,0,,6.33,4,9,22
+SKU01149,Harbor Pizza Large,Frozen,SUP05,0,,4.88,4,6,12
+SKU01150,Bayview Ice Cream Family Size,Frozen,SUP05,0,,4.25,4,14,45
+SKU01151,Golden Field Peanut Butter Value Pack,Pantry,SUP05,0,,1.56,4,7,15
+SKU01152,Northside Flour Large,Pantry,SUP06,0,,2.65,5,14,44
+SKU01153,Green Acre Flour Small,Pantry,SUP05,0,,3.37,4,8,18
+SKU01154,Maple Lane Olive Oil Family Size,Pantry,SUP05,0,,4.26,4,9,22
+SKU01155,Summit Peanut Butter Regular,Pantry,SUP05,0,,4.21,4,5,10
+SKU01156,Northside Cereal Family Size,Pantry,SUP05,0,,3.79,4,8,20
+SKU01157,Harbor Pasta Family Size,Pantry,SUP06,0,,6.17,5,9,22
+SKU01158,Northside Soup Small,Pantry,SUP06,0,,0.98,5,9,23
+SKU01159,Bayview Rice Regular,Pantry,SUP05,0,,2.5,4,10,27
+SKU01160,Northside Rice Family Size,Pantry,SUP06,0,,2.56,5,5,9
+SKU01161,Summit Rice Small,Pantry,SUP06,0,,4.99,5,6,13
+SKU01162,Summit Peanut Butter Family Size,Pantry,SUP06,0,,5.29,5,9,22
+SKU01163,Summit Flour Value Pack,Pantry,SUP06,0,,2.3,5,10,26
+SKU01164,Maple Lane Pasta Small,Pantry,SUP05,0,,4.9,4,7,16
+SKU01165,Harbor Flour Large,Pantry,SUP06,0,,4.37,5,9,22
+SKU01166,Coastal Peanut Butter Small,Pantry,SUP06,0,,3.06,5,10,28
+SKU01167,Green Acre Beans Value Pack,Pantry,SUP05,0,,1.29,4,6,13
+SKU01168,Harbor Flour Family Size,Pantry,SUP05,0,,5.7,4,10,28
+SKU01169,Coastal Flour Family Size,Pantry,SUP05,0,,5.57,4,7,15
+SKU01170,Coastal Pasta Family Size,Pantry,SUP06,0,,6.28,5,9,22
+SKU01171,Bayview Soup Family Size,Pantry,SUP05,0,,2.06,4,7,14
+SKU01172,Coastal Peanut Butter Large,Pantry,SUP06,0,,1.93,5,8,19
+SKU01173,Bayview Olive Oil Family Size,Pantry,SUP06,0,,6.52,5,7,14
+SKU01174,Summit Beans Family Size,Pantry,SUP06,0,,2.8,5,5,9
+SKU01175,Green Acre Flour Small,Pantry,SUP05,0,,6.83,4,11,31
+SKU01176,Northside Pasta Family Size,Pantry,SUP06,0,,3.7,5,14,47
+SKU01177,Northside Cereal Small,Pantry,SUP05,0,,4.21,4,10,25
+SKU01178,Golden Field Beans Regular,Pantry,SUP05,0,,6.62,4,6,13
+SKU01179,Coastal Cereal Small,Pantry,SUP05,0,,4.66,4,8,18
+SKU01180,Northside Olive Oil Small,Pantry,SUP05,0,,2.44,4,10,27
+SKU01181,Bayview Cereal Regular,Pantry,SUP06,0,,2.48,5,9,23
+SKU01182,Harbor Peanut Butter Regular,Pantry,SUP05,0,,5.08,4,8,20
+SKU01183,Green Acre Cereal Regular,Pantry,SUP05,0,,0.81,4,9,21
+SKU01184,Harbor Beans Regular,Pantry,SUP06,0,,6.97,5,10,26
+SKU01185,Green Acre Peanut Butter Regular,Pantry,SUP06,0,,3.67,5,11,30
+SKU01186,Maple Lane Olive Oil Small,Pantry,SUP05,0,,1.57,4,6,12
+SKU01187,Maple Lane Olive Oil Value Pack,Pantry,SUP05,0,,1.47,4,7,16
+SKU01188,Green Acre Beans Family Size,Pantry,SUP06,0,,6.48,5,12,35
+SKU01189,Harbor Olive Oil Large,Pantry,SUP06,0,,3.33,5,15,52
+SKU01190,Northside Olive Oil Value Pack,Pantry,SUP05,0,,2.5,4,10,27
+SKU01191,Northside Soup Small,Pantry,SUP06,0,,2.54,5,11,30
+SKU01192,Green Acre Pasta Small,Pantry,SUP05,0,,1.62,4,9,23
+SKU01193,Maple Lane Flour Value Pack,Pantry,SUP05,0,,1.09,4,10,25
+SKU01194,Summit Peanut Butter Value Pack,Pantry,SUP06,0,,2.96,5,8,20
+SKU01195,Bayview Olive Oil Value Pack,Pantry,SUP06,0,,5.32,5,10,26
+SKU01196,Green Acre Olive Oil Family Size,Pantry,SUP05,0,,6.1,4,6,12
+SKU01197,Summit Olive Oil Large,Pantry,SUP06,0,,3.77,5,8,19
+SKU01198,Maple Lane Olive Oil Value Pack,Pantry,SUP05,0,,3.56,4,7,16
+SKU01199,Northside Beans Small,Pantry,SUP05,0,,2.64,4,5,9
+SKU01200,Bayview Olive Oil Small,Pantry,SUP05,0,,2.95,4,13,39
+SKU01201,Green Acre Beans Family Size,Pantry,SUP06,0,,6.39,5,10,26
+SKU01202,Green Acre Peanut Butter Regular,Pantry,SUP06,0,,4.46,5,10,26
+SKU01203,Green Acre Olive Oil Large,Pantry,SUP06,0,,4.17,5,9,22
+SKU01204,Golden Field Peanut Butter Small,Pantry,SUP05,0,,2.89,4,8,20
+SKU01205,Northside Pasta Family Size,Pantry,SUP06,0,,3.34,5,8,18
+SKU01206,Coastal Pasta Regular,Pantry,SUP06,0,,2.27,5,7,16
+SKU01207,Summit Peanut Butter Family Size,Pantry,SUP06,0,,1.11,5,6,13
+SKU01208,Summit Cereal Regular,Pantry,SUP06,0,,2.2,5,9,22
+SKU01209,Northside Cereal Small,Pantry,SUP06,0,,1.03,5,10,26
+SKU01210,Golden Field Olive Oil Value Pack,Pantry,SUP05,0,,1.49,4,6,12
+SKU01211,Golden Field Pasta Regular,Pantry,SUP06,0,,3.79,5,6,13
+SKU01212,Golden Field Olive Oil Large,Pantry,SUP06,0,,6.93,5,6,13
+SKU01213,Coastal Beans Large,Pantry,SUP05,0,,3.92,4,7,14
+SKU01214,Golden Field Rice Large,Pantry,SUP05,0,,2.49,4,6,13
+SKU01215,Golden Field Flour Regular,Pantry,SUP06,0,,5.2,5,8,19
+SKU01216,Bayview Flour Small,Pantry,SUP06,0,,3.57,5,8,18
+SKU01217,Harbor Olive Oil Large,Pantry,SUP05,0,,1.31,4,8,19
+SKU01218,Summit Cereal Regular,Pantry,SUP05,0,,6.99,4,7,16
+SKU01219,Golden Field Olive Oil Value Pack,Pantry,SUP06,0,,6.18,5,11,33
+SKU01220,Summit Beans Small,Pantry,SUP05,0,,5.04,4,6,13
+SKU01221,Harbor Peanut Butter Regular,Pantry,SUP05,0,,6.72,4,9,23
+SKU01222,Green Acre Soup Small,Pantry,SUP06,0,,3.77,5,10,26
+SKU01223,Maple Lane Cereal Large,Pantry,SUP05,0,,2.09,4,13,40
+SKU01224,Bayview Olive Oil Value Pack,Pantry,SUP06,0,,5.32,5,7,16
+SKU01225,Golden Field Olive Oil Large,Pantry,SUP05,0,,4.39,4,7,16
+SKU01226,Summit Peanut Butter Large,Pantry,SUP06,0,,6.63,5,9,24
+SKU01227,Harbor Rice Regular,Pantry,SUP06,0,,3.9,5,11,31
+SKU01228,Golden Field Beans Family Size,Pantry,SUP05,0,,2.5,4,10,27
+SKU01229,Summit Soup Large,Pantry,SUP06,0,,3.29,5,11,31
+SKU01230,Bayview Peanut Butter Family Size,Pantry,SUP05,0,,6.44,4,6,13
+SKU01231,Northside Pasta Family Size,Pantry,SUP06,0,,5.39,5,12,37
+SKU01232,Maple Lane Soup Small,Pantry,SUP05,0,,0.87,4,10,27
+SKU01233,Green Acre Pasta Value Pack,Pantry,SUP05,0,,3.43,4,4,6
+SKU01234,Bayview Beans Regular,Pantry,SUP05,0,,2.67,4,9,21
+SKU01235,Summit Olive Oil Small,Pantry,SUP06,0,,5.61,5,10,26
+SKU01236,Summit Pasta Value Pack,Pantry,SUP06,0,,1.58,5,18,66
+SKU01237,Coastal Cereal Large,Pantry,SUP06,0,,4.71,5,7,15
+SKU01238,Northside Peanut Butter Large,Pantry,SUP05,0,,6.29,4,7,16
+SKU01239,Maple Lane Peanut Butter Family Size,Pantry,SUP05,0,,1.51,4,7,16
+SKU01240,Green Acre Rice Large,Pantry,SUP06,0,,4.74,5,6,13
+SKU01241,Green Acre Cereal Family Size,Pantry,SUP05,0,,4.42,4,9,23
+SKU01242,Golden Field Peanut Butter Regular,Pantry,SUP06,0,,5.02,5,9,23
+SKU01243,Northside Cereal Small,Pantry,SUP05,0,,4.5,4,8,20
+SKU01244,Northside Flour Value Pack,Pantry,SUP06,0,,6.04,5,13,39
+SKU01245,Summit Peanut Butter Regular,Pantry,SUP06,0,,7.0,5,6,12
+SKU01246,Northside Olive Oil Large,Pantry,SUP05,0,,2.47,4,14,45
+SKU01247,Bayview Pasta Regular,Pantry,SUP06,0,,3.94,5,11,31
+SKU01248,Maple Lane Flour Large,Pantry,SUP05,0,,2.59,4,8,19
+SKU01249,Coastal Rice Family Size,Pantry,SUP05,0,,4.35,4,9,22
+SKU01250,Harbor Rice Family Size,Pantry,SUP05,0,,2.14,4,8,19
+SKU01251,Bayview Pasta Regular,Pantry,SUP06,0,,6.64,5,4,6
+SKU01252,Maple Lane Beans Family Size,Pantry,SUP06,0,,4.94,5,7,15
+SKU01253,Bayview Soup Regular,Pantry,SUP06,0,,1.8,5,8,18
+SKU01254,Coastal Flour Large,Pantry,SUP05,0,,2.92,4,9,23
+SKU01255,Bayview Beans Family Size,Pantry,SUP05,0,,2.58,4,5,10
+SKU01256,Summit Flour Family Size,Pantry,SUP05,0,,2.36,4,8,18
+SKU01257,Green Acre Peanut Butter Regular,Pantry,SUP05,0,,5.29,4,8,18
+SKU01258,Green Acre Olive Oil Value Pack,Pantry,SUP05,0,,1.13,4,8,18
+SKU01259,Coastal Soup Large,Pantry,SUP05,0,,5.76,4,6,13
+SKU01260,Maple Lane Peanut Butter Family Size,Pantry,SUP06,0,,5.09,5,7,16
+SKU01261,Summit Cereal Regular,Pantry,SUP06,0,,6.88,5,5,10
+SKU01262,Green Acre Olive Oil Value Pack,Pantry,SUP05,0,,2.31,4,6,13
+SKU01263,Summit Rice Small,Pantry,SUP05,0,,1.79,4,6,12
+SKU01264,Green Acre Rice Regular,Pantry,SUP05,0,,0.86,4,6,12
+SKU01265,Northside Cereal Small,Pantry,SUP06,0,,4.65,5,11,33
+SKU01266,Harbor Rice Regular,Pantry,SUP05,0,,6.21,4,8,19
+SKU01267,Bayview Pasta Large,Pantry,SUP06,0,,2.09,5,5,10
+SKU01268,Coastal Pasta Value Pack,Pantry,SUP06,0,,2.19,5,7,16
+SKU01269,Green Acre Rice Regular,Pantry,SUP05,0,,2.86,4,10,25
+SKU01270,Green Acre Rice Value Pack,Pantry,SUP05,0,,1.44,4,8,19
+SKU01271,Maple Lane Beans Family Size,Pantry,SUP06,0,,3.0,5,9,23
+SKU01272,Green Acre Soup Small,Pantry,SUP06,0,,3.72,5,6,13
+SKU01273,Golden Field Beans Regular,Pantry,SUP05,0,,4.91,4,9,24
+SKU01274,Green Acre Soup Small,Pantry,SUP05,0,,3.53,4,9,21
+SKU01275,Summit Peanut Butter Family Size,Pantry,SUP05,0,,3.3,4,7,16
+SKU01276,Golden Field Pasta Regular,Pantry,SUP05,0,,5.3,4,11,32
+SKU01277,Northside Peanut Butter Large,Pantry,SUP06,0,,3.82,5,7,15
+SKU01278,Bayview Cereal Value Pack,Pantry,SUP05,0,,6.01,4,12,34
+SKU01279,Summit Beans Family Size,Pantry,SUP06,0,,4.58,5,9,23
+SKU01280,Northside Flour Large,Pantry,SUP06,0,,0.96,5,13,40
+SKU01281,Maple Lane Pasta Small,Pantry,SUP05,0,,4.05,4,8,18
+SKU01282,Green Acre Beans Value Pack,Pantry,SUP06,0,,1.98,5,6,13
+SKU01283,Maple Lane Rice Regular,Pantry,SUP05,0,,1.73,4,8,18
+SKU01284,Bayview Olive Oil Regular,Pantry,SUP05,0,,6.99,4,10,27
+SKU01285,Maple Lane Soup Small,Pantry,SUP05,0,,6.88,4,11,31
+SKU01286,Bayview Olive Oil Large,Pantry,SUP05,0,,1.55,4,11,30
+SKU01287,Northside Pasta Large,Pantry,SUP05,0,,4.21,4,9,23
+SKU01288,Harbor Cereal Small,Pantry,SUP05,0,,1.8,4,5,9
+SKU01289,Green Acre Rice Value Pack,Pantry,SUP06,0,,3.98,5,7,17
+SKU01290,Northside Olive Oil Regular,Pantry,SUP06,0,,3.92,5,16,55
+SKU01291,Northside Rice Large,Pantry,SUP06,0,,3.94,5,11,32
+SKU01292,Green Acre Olive Oil Large,Pantry,SUP05,0,,1.73,4,5,9
+SKU01293,Summit Peanut Butter Small,Pantry,SUP05,0,,4.4,4,4,7
+SKU01294,Harbor Peanut Butter Value Pack,Pantry,SUP06,0,,3.36,5,11,30
+SKU01295,Bayview Flour Value Pack,Pantry,SUP05,0,,2.6,4,8,19
+SKU01296,Maple Lane Peanut Butter Regular,Pantry,SUP06,0,,3.06,5,10,26
+SKU01297,Golden Field Pasta Family Size,Pantry,SUP06,0,,4.79,5,4,7
+SKU01298,Maple Lane Rice Large,Pantry,SUP05,0,,2.63,4,9,24
+SKU01299,Golden Field Flour Value Pack,Pantry,SUP05,0,,3.59,4,8,20
+SKU01300,Northside Cereal Large,Pantry,SUP05,0,,5.99,4,9,22
+SKU01301,Golden Field Peanut Butter Family Size,Pantry,SUP06,0,,6.6,5,11,32
+SKU01302,Coastal Rice Family Size,Pantry,SUP06,0,,5.55,5,7,16
+SKU01303,Golden Field Flour Family Size,Pantry,SUP06,0,,2.7,5,11,31
+SKU01304,Golden Field Peanut Butter Large,Pantry,SUP06,0,,1.06,5,8,19
+SKU01305,Green Acre Peanut Butter Value Pack,Pantry,SUP06,0,,6.85,5,5,10
+SKU01306,Green Acre Flour Regular,Pantry,SUP05,0,,3.76,4,9,21
+SKU01307,Harbor Rice Small,Pantry,SUP05,0,,2.21,4,13,41
+SKU01308,Golden Field Pasta Large,Pantry,SUP05,0,,2.78,4,7,15
+SKU01309,Northside Beans Value Pack,Pantry,SUP06,0,,6.35,5,12,37
+SKU01310,Coastal Peanut Butter Regular,Pantry,SUP05,0,,4.88,4,4,7
+SKU01311,Bayview Flour Regular,Pantry,SUP05,0,,1.19,4,5,9
+SKU01312,Northside Cereal Large,Pantry,SUP06,0,,3.62,5,9,22
+SKU01313,Coastal Olive Oil Value Pack,Pantry,SUP05,0,,1.58,4,6,13
+SKU01314,Summit Beans Family Size,Pantry,SUP05,0,,3.07,4,6,13
+SKU01315,Harbor Soup Regular,Pantry,SUP06,0,,5.24,5,13,42
+SKU01316,Maple Lane Soup Small,Pantry,SUP05,0,,1.88,4,8,18
+SKU01317,Green Acre Cereal Small,Pantry,SUP06,0,,3.93,5,12,37
+SKU01318,Summit Cereal Regular,Pantry,SUP06,0,,0.82,5,8,19
+SKU01319,Harbor Pasta Value Pack,Pantry,SUP06,0,,0.94,5,6,13
+SKU01320,Coastal Beans Large,Pantry,SUP06,0,,4.57,5,8,19
+SKU01321,Harbor Rice Family Size,Pantry,SUP05,0,,6.26,4,6,13
+SKU01322,Bayview Beans Regular,Pantry,SUP05,0,,5.47,4,15,47
+SKU01323,Northside Flour Small,Pantry,SUP05,0,,1.86,4,9,22
+SKU01324,Green Acre Flour Small,Pantry,SUP06,0,,1.12,5,6,13
+SKU01325,Harbor Flour Small,Pantry,SUP06,0,,3.6,5,11,31
+SKU01326,Coastal Peanut Butter Value Pack,Pantry,SUP06,0,,3.31,5,6,12
+SKU01327,Bayview Cereal Small,Pantry,SUP06,0,,2.62,5,6,12
+SKU01328,Harbor Beans Large,Pantry,SUP06,0,,1.41,5,12,36
+SKU01329,Bayview Peanut Butter Large,Pantry,SUP06,0,,1.65,5,7,15
+SKU01330,Green Acre Pasta Regular,Pantry,SUP06,0,,5.76,5,9,22
+SKU01331,Bayview Beans Large,Pantry,SUP06,0,,5.22,5,8,19
+SKU01332,Green Acre Olive Oil Small,Pantry,SUP05,0,,3.51,4,8,19
+SKU01333,Green Acre Soup Regular,Pantry,SUP06,0,,2.7,5,11,32
+SKU01334,Bayview Peanut Butter Family Size,Pantry,SUP05,0,,3.96,4,8,20
+SKU01335,Harbor Flour Value Pack,Pantry,SUP05,0,,3.77,4,7,15
+SKU01336,Northside Pasta Value Pack,Pantry,SUP06,0,,5.46,5,9,24
+SKU01337,Golden Field Beans Large,Pantry,SUP05,0,,3.45,4,8,19
+SKU01338,Summit Beans Large,Pantry,SUP05,0,,1.76,4,9,22
+SKU01339,Northside Beans Small,Pantry,SUP05,0,,2.83,4,7,16
+SKU01340,Coastal Rice Large,Pantry,SUP06,0,,6.73,5,5,10
+SKU01341,Maple Lane Peanut Butter Value Pack,Pantry,SUP05,0,,3.17,4,8,19
+SKU01342,Golden Field Soup Family Size,Pantry,SUP05,0,,1.9,4,8,19
+SKU01343,Coastal Beans Regular,Pantry,SUP05,0,,6.91,4,7,14
+SKU01344,Green Acre Peanut Butter Small,Pantry,SUP05,0,,5.67,4,8,18
+SKU01345,Northside Cereal Family Size,Pantry,SUP05,0,,2.86,4,6,12
+SKU01346,Maple Lane Olive Oil Family Size,Pantry,SUP05,0,,5.53,4,11,30
+SKU01347,Coastal Flour Regular,Pantry,SUP06,0,,2.43,5,8,18
+SKU01348,Golden Field Pasta Family Size,Pantry,SUP05,0,,5.3,4,16,52
+SKU01349,Harbor Beans Family Size,Pantry,SUP06,0,,6.99,5,7,16
+SKU01350,Green Acre Soup Regular,Pantry,SUP05,0,,3.44,4,9,22
+SKU01351,Summit Flour Regular,Pantry,SUP06,0,,3.26,5,9,22
+SKU01352,Coastal Pasta Large,Pantry,SUP06,0,,2.83,5,10,27
+SKU01353,Summit Peanut Butter Value Pack,Pantry,SUP05,0,,1.06,4,11,29
+SKU01354,Green Acre Soup Family Size,Pantry,SUP05,0,,6.51,4,7,16
+SKU01355,Northside Cereal Family Size,Pantry,SUP06,0,,5.4,5,6,13
+SKU01356,Green Acre Olive Oil Regular,Pantry,SUP06,0,,5.61,5,6,13
+SKU01357,Summit Beans Value Pack,Pantry,SUP05,0,,2.52,4,10,26
+SKU01358,Harbor Cereal Value Pack,Pantry,SUP05,0,,4.41,4,6,13
+SKU01359,Harbor Flour Family Size,Pantry,SUP06,0,,5.44,5,10,28
+SKU01360,Green Acre Olive Oil Value Pack,Pantry,SUP05,0,,5.47,4,9,22
+SKU01361,Summit Peanut Butter Value Pack,Pantry,SUP05,0,,6.56,4,7,16
+SKU01362,Bayview Flour Regular,Pantry,SUP06,0,,5.88,5,5,10
+SKU01363,Harbor Peanut Butter Small,Pantry,SUP06,0,,6.38,5,8,19
+SKU01364,Coastal Rice Large,Pantry,SUP06,0,,5.66,5,8,20
+SKU01365,Northside Cereal Small,Pantry,SUP06,0,,6.98,5,11,32
+SKU01366,Golden Field Pasta Family Size,Pantry,SUP05,0,,5.03,4,7,16
+SKU01367,Summit Rice Regular,Pantry,SUP05,0,,5.94,4,8,18
+SKU01368,Summit Soup Family Size,Pantry,SUP05,0,,1.97,4,10,27
+SKU01369,Maple Lane Flour Small,Pantry,SUP06,0,,1.98,5,6,12
+SKU01370,Coastal Rice Large,Pantry,SUP06,0,,3.2,5,10,27
+SKU01371,Bayview Pasta Large,Pantry,SUP06,0,,3.35,5,6,12
+SKU01372,Northside Beans Family Size,Pantry,SUP06,0,,1.05,5,11,33
+SKU01373,Green Acre Cereal Regular,Pantry,SUP06,0,,1.71,5,7,16
+SKU01374,Summit Cereal Regular,Pantry,SUP06,0,,1.81,5,8,18
+SKU01375,Maple Lane Soup Regular,Pantry,SUP05,0,,5.6,4,6,12
+SKU01376,Green Acre Flour Family Size,Pantry,SUP05,0,,3.7,4,6,12
+SKU01377,Coastal Olive Oil Small,Pantry,SUP06,0,,2.99,5,10,27
+SKU01378,Bayview Peanut Butter Family Size,Pantry,SUP05,0,,0.84,4,8,19
+SKU01379,Summit Soup Value Pack,Pantry,SUP06,0,,5.87,5,11,30
+SKU01380,Golden Field Pasta Regular,Pantry,SUP06,0,,3.55,5,12,35
+SKU01381,Bayview Beans Family Size,Pantry,SUP06,0,,1.37,5,9,23
+SKU01382,Green Acre Pasta Value Pack,Pantry,SUP06,0,,1.76,5,6,13
+SKU01383,Maple Lane Rice Value Pack,Pantry,SUP06,0,,5.38,5,9,22
+SKU01384,Northside Rice Value Pack,Pantry,SUP06,0,,2.98,5,5,9
+SKU01385,Bayview Pasta Small,Pantry,SUP05,0,,4.36,4,6,13
+SKU01386,Green Acre Soup Value Pack,Pantry,SUP05,0,,4.09,4,15,49
+SKU01387,Summit Olive Oil Small,Pantry,SUP06,0,,1.19,5,10,26
+SKU01388,Harbor Pasta Small,Pantry,SUP05,0,,5.39,4,11,31
+SKU01389,Maple Lane Rice Family Size,Pantry,SUP06,0,,1.68,5,10,26
+SKU01390,Harbor Beans Family Size,Pantry,SUP05,0,,1.19,4,8,19
+SKU01391,Green Acre Soup Family Size,Pantry,SUP05,0,,1.6,4,6,11
+SKU01392,Bayview Cereal Large,Pantry,SUP06,0,,6.99,5,7,16
+SKU01393,Harbor Olive Oil Regular,Pantry,SUP06,0,,3.07,5,8,20
+SKU01394,Coastal Peanut Butter Value Pack,Pantry,SUP06,0,,1.69,5,9,22
+SKU01395,Summit Cereal Regular,Pantry,SUP05,0,,4.91,4,8,19
+SKU01396,Northside Olive Oil Value Pack,Pantry,SUP05,0,,2.35,4,15,49
+SKU01397,Northside Rice Small,Pantry,SUP06,0,,2.38,5,15,52
+SKU01398,Golden Field Cereal Small,Pantry,SUP05,0,,4.68,4,7,14
+SKU01399,Bayview Peanut Butter Family Size,Pantry,SUP06,0,,4.47,5,8,19
+SKU01400,Golden Field Pasta Large,Pantry,SUP05,0,,2.83,4,6,13
+SKU01401,Coastal Cereal Small,Pantry,SUP06,0,,2.0,5,12,37
+SKU01402,Golden Field Flour Large,Pantry,SUP05,0,,2.35,4,7,16
+SKU01403,Summit Pasta Regular,Pantry,SUP06,0,,6.47,5,7,16
+SKU01404,Green Acre Rice Value Pack,Pantry,SUP06,0,,5.83,5,10,27
+SKU01405,Maple Lane Peanut Butter Large,Pantry,SUP06,0,,2.95,5,5,10
+SKU01406,Maple Lane Olive Oil Regular,Pantry,SUP06,0,,4.56,5,6,12
+SKU01407,Harbor Pasta Value Pack,Pantry,SUP05,0,,4.21,4,5,9
+SKU01408,Golden Field Pasta Large,Pantry,SUP06,0,,2.6,5,11,31
+SKU01409,Golden Field Peanut Butter Family Size,Pantry,SUP05,0,,3.62,4,12,35
+SKU01410,Harbor Beans Regular,Pantry,SUP05,0,,1.89,4,7,16
+SKU01411,Coastal Peanut Butter Regular,Pantry,SUP06,0,,2.86,5,8,20
+SKU01412,Green Acre Beans Value Pack,Pantry,SUP06,0,,3.06,5,7,16
+SKU01413,Green Acre Soup Value Pack,Pantry,SUP06,0,,2.33,5,6,12
+SKU01414,Green Acre Flour Small,Pantry,SUP05,0,,6.25,4,6,12
+SKU01415,Harbor Flour Large,Pantry,SUP05,0,,6.15,4,9,22
+SKU01416,Green Acre Pasta Value Pack,Pantry,SUP06,0,,5.0,5,11,31
+SKU01417,Maple Lane Olive Oil Family Size,Pantry,SUP05,0,,3.18,4,5,9
+SKU01418,Summit Flour Family Size,Pantry,SUP05,0,,6.69,4,7,16
+SKU01419,Northside Cereal Large,Pantry,SUP06,0,,4.61,5,7,16
+SKU01420,Maple Lane Beans Large,Pantry,SUP05,0,,0.86,4,10,25
+SKU01421,Summit Flour Value Pack,Pantry,SUP06,0,,3.37,5,6,13
+SKU01422,Bayview Soup Large,Pantry,SUP05,0,,1.22,4,10,27
+SKU01423,Coastal Cereal Large,Pantry,SUP06,0,,4.25,5,8,19
+SKU01424,Golden Field Cereal Large,Pantry,SUP06,0,,5.2,5,9,24
+SKU01425,Summit Peanut Butter Regular,Pantry,SUP06,0,,4.84,5,11,33
+SKU01426,Green Acre Rice Large,Pantry,SUP05,0,,5.98,4,8,19
+SKU01427,Harbor Flour Large,Pantry,SUP05,0,,2.73,4,14,46
+SKU01428,Golden Field Soup Small,Pantry,SUP06,0,,4.57,5,8,19
+SKU01429,Maple Lane Pasta Small,Pantry,SUP05,0,,2.68,4,10,27
+SKU01430,Green Acre Soup Large,Pantry,SUP05,0,,1.24,4,10,26
+SKU01431,Summit Cereal Regular,Pantry,SUP06,0,,5.21,5,6,13
+SKU01432,Golden Field Rice Regular,Pantry,SUP06,0,,5.74,5,7,17
+SKU01433,Bayview Beans Family Size,Pantry,SUP06,0,,2.21,5,10,26
+SKU01434,Harbor Soup Large,Pantry,SUP05,0,,1.93,4,5,9
+SKU01435,Bayview Flour Large,Pantry,SUP06,0,,3.03,5,9,23
+SKU01436,Green Acre Flour Value Pack,Pantry,SUP05,0,,5.76,4,10,26
+SKU01437,Summit Flour Large,Pantry,SUP05,0,,0.9,4,8,18
+SKU01438,Green Acre Pasta Regular,Pantry,SUP06,0,,5.12,5,8,19
+SKU01439,Coastal Beans Family Size,Pantry,SUP05,0,,5.96,4,8,18
+SKU01440,Maple Lane Flour Regular,Pantry,SUP05,0,,4.2,4,6,12
+SKU01441,Coastal Cereal Small,Pantry,SUP05,0,,4.38,4,8,19
+SKU01442,Northside Peanut Butter Value Pack,Pantry,SUP06,0,,3.11,5,9,22
+SKU01443,Golden Field Peanut Butter Large,Pantry,SUP05,0,,0.89,4,9,22
+SKU01444,Green Acre Soup Family Size,Pantry,SUP05,0,,6.33,4,9,23
+SKU01445,Harbor Rice Large,Pantry,SUP06,0,,6.1,5,9,24
+SKU01446,Harbor Cereal Value Pack,Pantry,SUP06,0,,6.1,5,15,49
+SKU01447,Maple Lane Pasta Small,Pantry,SUP06,0,,1.19,5,7,15
+SKU01448,Golden Field Pasta Large,Pantry,SUP05,0,,6.4,4,8,18
+SKU01449,Harbor Cereal Family Size,Pantry,SUP05,0,,5.59,4,5,9
+SKU01450,Coastal Soup Family Size,Pantry,SUP06,0,,1.45,5,10,26
+SKU01451,Maple Lane Rice Value Pack,Pantry,SUP05,0,,1.41,4,9,22
+SKU01452,Maple Lane Beans Small,Pantry,SUP05,0,,1.23,4,7,15
+SKU01453,Maple Lane Peanut Butter Value Pack,Pantry,SUP05,0,,4.83,4,7,16
+SKU01454,Coastal Beans Regular,Pantry,SUP06,0,,2.51,5,12,34
+SKU01455,Summit Peanut Butter Value Pack,Pantry,SUP06,0,,1.77,5,8,20
+SKU01456,Golden Field Soup Family Size,Pantry,SUP05,0,,6.47,4,13,41
+SKU01457,Summit Pasta Family Size,Pantry,SUP06,0,,5.68,5,8,20
+SKU01458,Summit Cereal Small,Pantry,SUP06,0,,1.94,5,9,24
+SKU01459,Coastal Pasta Value Pack,Pantry,SUP06,0,,1.03,5,7,16
+SKU01460,Maple Lane Beans Family Size,Pantry,SUP06,0,,1.33,5,8,20
+SKU01461,Green Acre Flour Large,Pantry,SUP06,0,,2.29,5,20,78
+SKU01462,Harbor Rice Value Pack,Pantry,SUP05,0,,5.42,4,7,15
+SKU01463,Bayview Flour Large,Pantry,SUP05,0,,3.02,4,11,29
+SKU01464,Northside Peanut Butter Family Size,Pantry,SUP05,0,,5.77,4,4,8
+SKU01465,Green Acre Soup Large,Pantry,SUP05,0,,2.19,4,8,18
+SKU01466,Summit Flour Large,Pantry,SUP05,0,,5.29,4,9,22
+SKU01467,Coastal Peanut Butter Value Pack,Pantry,SUP06,0,,3.68,5,11,30
+SKU01468,Green Acre Pasta Family Size,Pantry,SUP05,0,,6.25,4,5,10
+SKU01469,Maple Lane Soup Large,Pantry,SUP05,0,,5.88,4,9,22
+SKU01470,Green Acre Rice Small,Pantry,SUP06,0,,5.59,5,7,16
+SKU01471,Golden Field Cereal Value Pack,Pantry,SUP05,0,,4.89,4,8,19
+SKU01472,Bayview Peanut Butter Family Size,Pantry,SUP05,0,,5.51,4,7,16
+SKU01473,Golden Field Beans Family Size,Pantry,SUP05,0,,5.17,4,9,22
+SKU01474,Harbor Beans Family Size,Pantry,SUP06,0,,3.99,5,7,16
+SKU01475,Summit Cereal Family Size,Pantry,SUP05,0,,4.05,4,7,16
+SKU01476,Northside Olive Oil Regular,Pantry,SUP06,0,,2.97,5,9,24
+SKU01477,Summit Beans Value Pack,Pantry,SUP05,0,,5.27,4,7,15
+SKU01478,Northside Olive Oil Small,Pantry,SUP06,0,,5.06,5,14,46
+SKU01479,Golden Field Cereal Family Size,Pantry,SUP06,0,,4.96,5,15,53
+SKU01480,Northside Beans Family Size,Pantry,SUP05,0,,4.21,4,10,25
+SKU01481,Maple Lane Soup Large,Pantry,SUP05,0,,3.73,4,7,14
+SKU01482,Bayview Soup Regular,Pantry,SUP06,0,,2.48,5,10,28
+SKU01483,Bayview Pasta Value Pack,Pantry,SUP06,0,,6.64,5,12,35
+SKU01484,Harbor Soup Family Size,Pantry,SUP05,0,,6.97,4,10,27
+SKU01485,Harbor Soup Regular,Pantry,SUP06,0,,1.07,5,6,12
+SKU01486,Golden Field Flour Large,Pantry,SUP05,0,,4.24,4,11,30
+SKU01487,Golden Field Cereal Small,Pantry,SUP06,0,,4.81,5,9,22
+SKU01488,Summit Cereal Regular,Pantry,SUP05,0,,5.92,4,5,9
+SKU01489,Green Acre Rice Small,Pantry,SUP06,0,,4.75,5,5,9
+SKU01490,Harbor Olive Oil Small,Pantry,SUP05,0,,1.83,4,7,16
+SKU01491,Golden Field Olive Oil Small,Pantry,SUP05,0,,5.22,4,5,9
+SKU01492,Northside Rice Regular,Pantry,SUP06,0,,5.67,5,10,28
+SKU01493,Bayview Olive Oil Small,Pantry,SUP06,0,,2.42,5,5,10
+SKU01494,Maple Lane Soup Small,Pantry,SUP05,0,,6.79,4,9,22
+SKU01495,Golden Field Cereal Value Pack,Pantry,SUP06,0,,0.97,5,7,15
+SKU01496,Harbor Rice Value Pack,Pantry,SUP06,0,,4.08,5,10,26
+SKU01497,Maple Lane Cereal Small,Pantry,SUP06,0,,1.66,5,7,16
+SKU01498,Bayview Beans Value Pack,Pantry,SUP05,0,,4.74,4,7,15
+SKU01499,Northside Peanut Butter Small,Pantry,SUP05,0,,6.76,4,12,33
+SKU01500,Golden Field Cereal Regular,Pantry,SUP05,0,,2.44,4,18,64
+SKU01501,Maple Lane Soup Family Size,Pantry,SUP05,0,,6.19,4,12,34
+SKU01502,Bayview Flour Small,Pantry,SUP05,0,,5.43,4,6,11
+SKU01503,Golden Field Olive Oil Small,Pantry,SUP06,0,,5.88,5,10,28
+SKU01504,Coastal Rice Small,Pantry,SUP05,0,,6.95,4,11,31
+SKU01505,Northside Cereal Regular,Pantry,SUP05,0,,2.46,4,6,12
+SKU01506,Green Acre Cereal Regular,Pantry,SUP06,0,,4.86,5,9,24
+SKU01507,Summit Flour Large,Pantry,SUP06,0,,1.72,5,6,12
+SKU01508,Harbor Olive Oil Regular,Pantry,SUP05,0,,1.15,4,7,15
+SKU01509,Northside Peanut Butter Family Size,Pantry,SUP05,0,,2.95,4,6,12
+SKU01510,Bayview Peanut Butter Small,Pantry,SUP05,0,,3.47,4,10,27
+SKU01511,Golden Field Pasta Small,Pantry,SUP05,0,,4.94,4,7,16
+SKU01512,Harbor Pasta Small,Pantry,SUP05,0,,3.88,4,5,10
+SKU01513,Summit Rice Regular,Pantry,SUP05,0,,5.59,4,9,23
+SKU01514,Golden Field Cereal Family Size,Pantry,SUP06,0,,3.19,5,7,17
+SKU01515,Golden Field Olive Oil Value Pack,Pantry,SUP05,0,,6.81,4,6,13
+SKU01516,Maple Lane Beans Regular,Pantry,SUP05,0,,1.79,4,6,13
+SKU01517,Golden Field Rice Large,Pantry,SUP05,0,,5.93,4,7,16
+SKU01518,Summit Flour Regular,Pantry,SUP05,0,,1.06,4,10,26
+SKU01519,Coastal Soup Large,Pantry,SUP05,0,,1.47,4,8,18
+SKU01520,Coastal Olive Oil Value Pack,Pantry,SUP05,0,,4.35,4,5,10
+SKU01521,Golden Field Soup Value Pack,Pantry,SUP05,0,,6.14,4,8,18
+SKU01522,Bayview Pasta Small,Pantry,SUP05,0,,4.33,4,12,33
+SKU01523,Harbor Rice Large,Pantry,SUP05,0,,4.86,4,9,23
+SKU01524,Maple Lane Pasta Value Pack,Pantry,SUP06,0,,5.51,5,13,41
+SKU01525,Harbor Rice Family Size,Pantry,SUP05,0,,1.55,4,17,61
+SKU01526,Green Acre Olive Oil Value Pack,Pantry,SUP05,0,,5.41,4,11,31
+SKU01527,Coastal Cereal Value Pack,Pantry,SUP06,0,,1.62,5,12,38
+SKU01528,Maple Lane Pasta Value Pack,Pantry,SUP06,0,,1.74,5,9,22
+SKU01529,Coastal Rice Small,Pantry,SUP05,0,,3.09,4,15,48
+SKU01530,Harbor Beans Small,Pantry,SUP06,0,,6.96,5,15,50
+SKU01531,Coastal Rice Regular,Pantry,SUP06,0,,2.16,5,9,22
+SKU01532,Bayview Peanut Butter Small,Pantry,SUP06,0,,5.63,5,10,27
+SKU01533,Bayview Cereal Small,Pantry,SUP05,0,,2.45,4,8,18
+SKU01534,Bayview Rice Large,Pantry,SUP05,0,,6.06,4,8,19
+SKU01535,Harbor Beans Small,Pantry,SUP06,0,,1.63,5,15,49
+SKU01536,Maple Lane Pasta Value Pack,Pantry,SUP06,0,,4.74,5,10,28
+SKU01537,Green Acre Soup Large,Pantry,SUP06,0,,2.86,5,10,27
+SKU01538,Bayview Peanut Butter Regular,Pantry,SUP06,0,,2.59,5,21,85
+SKU01539,Coastal Pasta Small,Pantry,SUP06,0,,0.88,5,8,20
+SKU01540,Maple Lane Pasta Large,Pantry,SUP06,0,,4.68,5,10,28
+SKU01541,Harbor Pasta Value Pack,Pantry,SUP05,0,,1.99,4,5,9
+SKU01542,Golden Field Flour Small,Pantry,SUP06,0,,1.39,5,9,24
+SKU01543,Bayview Pasta Regular,Pantry,SUP05,0,,2.96,4,10,25
+SKU01544,Harbor Pasta Small,Pantry,SUP05,0,,4.62,4,10,27
+SKU01545,Coastal Flour Regular,Pantry,SUP06,0,,1.2,5,4,8
+SKU01546,Summit Olive Oil Small,Pantry,SUP06,0,,4.23,5,10,27
+SKU01547,Maple Lane Beans Value Pack,Pantry,SUP05,0,,3.46,4,10,26
+SKU01548,Coastal Pasta Small,Pantry,SUP06,0,,3.08,5,6,12
+SKU01549,Harbor Cereal Regular,Pantry,SUP05,0,,2.42,4,12,33
+SKU01550,Bayview Pasta Family Size,Pantry,SUP05,0,,3.2,4,13,38
+SKU01551,Maple Lane Olive Oil Small,Pantry,SUP05,0,,1.15,4,8,18
+SKU01552,Summit Rice Regular,Pantry,SUP06,0,,1.21,5,7,16
+SKU01553,Green Acre Soup Small,Pantry,SUP05,0,,4.12,4,13,38
+SKU01554,Northside Beans Family Size,Pantry,SUP06,0,,5.3,5,4,7
+SKU01555,Northside Peanut Butter Regular,Pantry,SUP06,0,,6.73,5,9,23
+SKU01556,Green Acre Rice Large,Pantry,SUP05,0,,1.97,4,9,21
+SKU01557,Harbor Olive Oil Family Size,Pantry,SUP05,0,,4.59,4,8,20
+SKU01558,Maple Lane Flour Regular,Pantry,SUP06,0,,6.49,5,9,24
+SKU01559,Maple Lane Beans Family Size,Pantry,SUP05,0,,3.02,4,3,5
+SKU01560,Bayview Rice Small,Pantry,SUP05,0,,3.6,4,7,16
+SKU01561,Harbor Beans Value Pack,Pantry,SUP06,0,,5.07,5,11,31
+SKU01562,Northside Rice Large,Pantry,SUP05,0,,6.33,4,11,30
+SKU01563,Golden Field Flour Large,Pantry,SUP05,0,,2.94,4,8,18
+SKU01564,Coastal Olive Oil Large,Pantry,SUP05,0,,3.23,4,10,25
+SKU01565,Bayview Rice Value Pack,Pantry,SUP05,0,,5.18,4,7,14
+SKU01566,Northside Soup Large,Pantry,SUP05,0,,1.03,4,13,40
+SKU01567,Maple Lane Cereal Family Size,Pantry,SUP06,0,,2.03,5,7,16
+SKU01568,Summit Rice Regular,Pantry,SUP06,0,,4.66,5,11,31
+SKU01569,Maple Lane Rice Small,Pantry,SUP06,0,,2.01,5,6,12
+SKU01570,Harbor Pasta Large,Pantry,SUP05,0,,5.69,4,7,15
+SKU01571,Bayview Soup Value Pack,Pantry,SUP05,0,,3.94,4,7,15
+SKU01572,Green Acre Peanut Butter Family Size,Pantry,SUP06,0,,3.25,5,11,30
+SKU01573,Harbor Rice Value Pack,Pantry,SUP05,0,,1.0,4,11,31
+SKU01574,Green Acre Beans Small,Pantry,SUP05,0,,4.11,4,9,23
+SKU01575,Green Acre Cereal Large,Pantry,SUP06,0,,3.56,5,11,31
+SKU01576,Golden Field Pasta Small,Pantry,SUP06,0,,3.96,5,6,12
+SKU01577,Bayview Rice Regular,Pantry,SUP05,0,,3.6,4,4,7
+SKU01578,Coastal Soup Large,Pantry,SUP06,0,,5.87,5,6,12
+SKU01579,Northside Pasta Small,Pantry,SUP06,0,,3.41,5,6,13
+SKU01580,Maple Lane Olive Oil Large,Pantry,SUP06,0,,4.77,5,11,31
+SKU01581,Harbor Rice Family Size,Pantry,SUP06,0,,1.84,5,6,12
+SKU01582,Coastal Flour Value Pack,Pantry,SUP06,0,,4.62,5,12,36
+SKU01583,Maple Lane Rice Regular,Pantry,SUP06,0,,3.46,5,9,22
+SKU01584,Coastal Cereal Value Pack,Pantry,SUP06,0,,4.84,5,15,51
+SKU01585,Bayview Flour Regular,Pantry,SUP05,0,,6.29,4,17,61
+SKU01586,Harbor Olive Oil Family Size,Pantry,SUP05,0,,3.61,4,7,16
+SKU01587,Harbor Rice Value Pack,Pantry,SUP06,0,,1.03,5,14,44
+SKU01588,Bayview Pasta Regular,Pantry,SUP05,0,,4.48,4,7,15
+SKU01589,Harbor Olive Oil Family Size,Pantry,SUP06,0,,2.1,5,8,19
+SKU01590,Summit Olive Oil Small,Pantry,SUP06,0,,5.57,5,10,27
+SKU01591,Bayview Olive Oil Small,Pantry,SUP05,0,,6.0,4,8,18
+SKU01592,Golden Field Rice Value Pack,Pantry,SUP05,0,,2.87,4,10,26
+SKU01593,Summit Soup Value Pack,Pantry,SUP05,0,,6.43,4,8,18
+SKU01594,Green Acre Pasta Family Size,Pantry,SUP05,0,,5.79,4,15,48
+SKU01595,Northside Olive Oil Value Pack,Pantry,SUP05,0,,2.07,4,7,15
+SKU01596,Summit Peanut Butter Small,Pantry,SUP06,0,,5.1,5,7,16
+SKU01597,Northside Pasta Family Size,Pantry,SUP06,0,,1.77,5,15,52
+SKU01598,Coastal Soup Small,Pantry,SUP06,0,,5.09,5,6,13
+SKU01599,Golden Field Beans Family Size,Pantry,SUP06,0,,3.83,5,9,23
+SKU01600,Green Acre Rice Regular,Pantry,SUP05,0,,6.16,4,10,25
+SKU01601,Golden Field Iced Tea Regular,Beverages,SUP07,0,,6.9,4,15,51
+SKU01602,Green Acre Orange Juice Large,Beverages,SUP07,0,,2.6,4,18,63
+SKU01603,Harbor Sports Drink Regular,Beverages,SUP07,0,,4.18,4,11,31
+SKU01604,Golden Field Sports Drink Regular,Beverages,SUP07,0,,3.88,4,7,16
+SKU01605,Bayview Sparkling Water Large,Beverages,SUP07,0,,7.09,4,6,11
+SKU01606,Summit Sparkling Water Value Pack,Beverages,SUP07,0,,4.05,4,11,30
+SKU01607,Coastal Iced Tea Value Pack,Beverages,SUP07,0,,6.03,4,9,23
+SKU01608,Coastal Iced Tea Value Pack,Beverages,SUP07,0,,6.3,4,9,24
+SKU01609,Maple Lane Orange Juice Value Pack,Beverages,SUP07,0,,3.16,4,13,40
+SKU01610,Bayview Sparkling Water Large,Beverages,SUP07,0,,4.2,4,8,19
+SKU01611,Green Acre Iced Tea Value Pack,Beverages,SUP07,0,,1.73,4,8,18
+SKU01612,Golden Field Sports Drink Regular,Beverages,SUP07,0,,3.91,4,6,13
+SKU01613,Bayview Iced Tea Small,Beverages,SUP07,0,,7.14,4,14,44
+SKU01614,Summit Orange Juice Value Pack,Beverages,SUP07,0,,5.87,4,8,19
+SKU01615,Summit Orange Juice Regular,Beverages,SUP07,0,,7.11,4,11,30
+SKU01616,Northside Coffee Large,Beverages,SUP07,0,,5.88,4,8,19
+SKU01617,Northside Iced Tea Large,Beverages,SUP07,0,,2.05,4,16,56
+SKU01618,Maple Lane Iced Tea Regular,Beverages,SUP07,0,,1.72,4,10,27
+SKU01619,Bayview Orange Juice Large,Beverages,SUP07,0,,5.31,4,13,41
+SKU01620,Green Acre Orange Juice Small,Beverages,SUP07,0,,5.13,4,13,40
+SKU01621,Bayview Coffee Large,Beverages,SUP07,0,,4.81,4,10,25
+SKU01622,Green Acre Sports Drink Small,Beverages,SUP07,0,,2.3,4,7,16
+SKU01623,Harbor Iced Tea Small,Beverages,SUP07,0,,6.01,4,10,26
+SKU01624,Green Acre Sparkling Water Regular,Beverages,SUP07,0,,5.47,4,15,49
+SKU01625,Bayview Sparkling Water Regular,Beverages,SUP07,0,,3.92,4,18,66
+SKU01626,Maple Lane Iced Tea Large,Beverages,SUP07,0,,1.93,4,14,44
+SKU01627,Northside Orange Juice Small,Beverages,SUP07,0,,5.77,4,14,42
+SKU01628,Coastal Iced Tea Large,Beverages,SUP07,0,,5.62,4,7,16
+SKU01629,Northside Sparkling Water Value Pack,Beverages,SUP07,0,,1.62,4,9,23
+SKU01630,Harbor Sparkling Water Large,Beverages,SUP07,0,,1.78,4,12,33
+SKU01631,Golden Field Cola Regular,Beverages,SUP07,0,,7.4,4,9,24
+SKU01632,Harbor Iced Tea Regular,Beverages,SUP07,0,,4.45,4,29,132
+SKU01633,Maple Lane Sports Drink Regular,Beverages,SUP07,0,,4.36,4,13,38
+SKU01634,Golden Field Iced Tea Value Pack,Beverages,SUP07,0,,6.65,4,12,35
+SKU01635,Harbor Sparkling Water Regular,Beverages,SUP07,0,,4.17,4,7,16
+SKU01636,Summit Cola Family Size,Beverages,SUP07,0,,2.93,4,8,18
+SKU01637,Coastal Cola Large,Beverages,SUP07,0,,5.6,4,9,21
+SKU01638,Northside Coffee Large,Beverages,SUP07,0,,6.01,4,7,16
+SKU01639,Harbor Coffee Value Pack,Beverages,SUP07,0,,6.12,4,10,28
+SKU01640,Green Acre Coffee Regular,Beverages,SUP07,0,,4.8,4,8,19
+SKU01641,Northside Orange Juice Value Pack,Beverages,SUP07,0,,7.67,4,14,43
+SKU01642,Summit Coffee Large,Beverages,SUP07,0,,5.17,4,6,12
+SKU01643,Summit Iced Tea Large,Beverages,SUP07,0,,1.13,4,6,13
+SKU01644,Harbor Orange Juice Large,Beverages,SUP07,0,,2.58,4,11,31
+SKU01645,Summit Coffee Small,Beverages,SUP07,0,,7.05,4,19,71
+SKU01646,Bayview Sparkling Water Value Pack,Beverages,SUP07,0,,7.2,4,14,43
+SKU01647,Harbor Iced Tea Large,Beverages,SUP07,0,,7.94,4,10,28
+SKU01648,Harbor Iced Tea Family Size,Beverages,SUP07,0,,6.91,4,10,25
+SKU01649,Northside Sports Drink Small,Beverages,SUP07,0,,3.98,4,11,30
+SKU01650,Harbor Orange Juice Regular,Beverages,SUP07,0,,5.02,4,6,12
+SKU01651,Harbor Orange Juice Regular,Beverages,SUP07,0,,7.12,4,11,32
+SKU01652,Golden Field Orange Juice Small,Beverages,SUP07,0,,7.59,4,9,23
+SKU01653,Summit Iced Tea Value Pack,Beverages,SUP07,0,,6.46,4,8,18
+SKU01654,Golden Field Coffee Small,Beverages,SUP07,0,,6.22,4,9,23
+SKU01655,Harbor Cola Family Size,Beverages,SUP07,0,,5.49,4,11,32
+SKU01656,Summit Cola Regular,Beverages,SUP07,0,,7.78,4,17,58
+SKU01657,Northside Sparkling Water Value Pack,Beverages,SUP07,0,,3.27,4,13,38
+SKU01658,Green Acre Orange Juice Small,Beverages,SUP07,0,,4.49,4,18,67
+SKU01659,Northside Orange Juice Large,Beverages,SUP07,0,,5.87,4,9,21
+SKU01660,Coastal Iced Tea Large,Beverages,SUP07,0,,2.04,4,8,18
+SKU01661,Coastal Iced Tea Small,Beverages,SUP07,0,,6.15,4,20,78
+SKU01662,Golden Field Orange Juice Regular,Beverages,SUP07,0,,7.45,4,11,29
+SKU01663,Summit Orange Juice Small,Beverages,SUP07,0,,1.06,4,11,31
+SKU01664,Maple Lane Sparkling Water Family Size,Beverages,SUP07,0,,2.82,4,13,38
+SKU01665,Northside Orange Juice Small,Beverages,SUP07,0,,1.37,4,20,76
+SKU01666,Maple Lane Sparkling Water Regular,Beverages,SUP07,0,,6.95,4,12,33
+SKU01667,Golden Field Sports Drink Family Size,Beverages,SUP07,0,,4.06,4,11,32
+SKU01668,Green Acre Sparkling Water Small,Beverages,SUP07,0,,7.6,4,15,48
+SKU01669,Coastal Coffee Family Size,Beverages,SUP07,0,,4.41,4,13,38
+SKU01670,Golden Field Coffee Value Pack,Beverages,SUP07,0,,5.84,4,7,14
+SKU01671,Coastal Iced Tea Regular,Beverages,SUP07,0,,3.92,4,9,22
+SKU01672,Golden Field Sports Drink Family Size,Beverages,SUP07,0,,7.78,4,18,64
+SKU01673,Northside Coffee Value Pack,Beverages,SUP07,0,,6.2,4,9,23
+SKU01674,Golden Field Cola Large,Beverages,SUP07,0,,2.65,4,10,25
+SKU01675,Harbor Sports Drink Value Pack,Beverages,SUP07,0,,4.5,4,10,26
+SKU01676,Maple Lane Coffee Family Size,Beverages,SUP07,0,,3.93,4,10,26
+SKU01677,Coastal Sports Drink Family Size,Beverages,SUP07,0,,2.56,4,7,16
+SKU01678,Northside Cola Small,Beverages,SUP07,0,,3.64,4,9,23
+SKU01679,Maple Lane Sparkling Water Value Pack,Beverages,SUP07,0,,1.95,4,9,24
+SKU01680,Northside Sparkling Water Small,Beverages,SUP07,0,,7.04,4,13,41
+SKU01681,Golden Field Sparkling Water Regular,Beverages,SUP07,0,,5.95,4,16,54
+SKU01682,Harbor Cola Large,Beverages,SUP07,0,,1.6,4,10,26
+SKU01683,Summit Sparkling Water Regular,Beverages,SUP07,0,,6.93,4,17,60
+SKU01684,Bayview Sparkling Water Regular,Beverages,SUP07,0,,6.62,4,13,39
+SKU01685,Green Acre Sparkling Water Small,Beverages,SUP07,0,,0.89,4,11,31
+SKU01686,Bayview Sports Drink Family Size,Beverages,SUP07,0,,5.0,4,11,30
+SKU01687,Bayview Coffee Family Size,Beverages,SUP07,0,,1.24,4,15,50
+SKU01688,Summit Iced Tea Large,Beverages,SUP07,0,,6.51,4,10,27
+SKU01689,Bayview Sparkling Water Value Pack,Beverages,SUP07,0,,6.52,4,11,29
+SKU01690,Summit Iced Tea Small,Beverages,SUP07,0,,6.69,4,11,30
+SKU01691,Summit Cola Family Size,Beverages,SUP07,0,,1.52,4,6,12
+SKU01692,Summit Orange Juice Small,Beverages,SUP07,0,,7.4,4,9,21
+SKU01693,Summit Iced Tea Large,Beverages,SUP07,0,,5.62,4,8,19
+SKU01694,Coastal Orange Juice Large,Beverages,SUP07,0,,3.51,4,8,20
+SKU01695,Maple Lane Sports Drink Large,Beverages,SUP07,0,,3.85,4,8,19
+SKU01696,Maple Lane Coffee Value Pack,Beverages,SUP07,0,,1.78,4,7,16
+SKU01697,Coastal Orange Juice Family Size,Beverages,SUP07,0,,6.6,4,6,11
+SKU01698,Summit Sparkling Water Small,Beverages,SUP07,0,,6.88,4,21,82
+SKU01699,Green Acre Orange Juice Family Size,Beverages,SUP07,0,,3.93,4,26,112
+SKU01700,Golden Field Sparkling Water Small,Beverages,SUP07,0,,3.94,4,8,20
+SKU01701,Summit Sparkling Water Small,Beverages,SUP07,0,,5.56,4,11,32
+SKU01702,Bayview Cola Large,Beverages,SUP07,0,,6.74,4,10,25
+SKU01703,Northside Cola Small,Beverages,SUP07,0,,7.18,4,7,16
+SKU01704,Coastal Cola Large,Beverages,SUP07,0,,4.05,4,14,45
+SKU01705,Green Acre Sports Drink Value Pack,Beverages,SUP07,0,,4.09,4,12,36
+SKU01706,Maple Lane Coffee Regular,Beverages,SUP07,0,,1.69,4,11,32
+SKU01707,Golden Field Iced Tea Value Pack,Beverages,SUP07,0,,5.29,4,9,23
+SKU01708,Green Acre Sparkling Water Small,Beverages,SUP07,0,,4.1,4,6,13
+SKU01709,Bayview Orange Juice Large,Beverages,SUP07,0,,5.16,4,7,16
+SKU01710,Golden Field Sparkling Water Small,Beverages,SUP07,0,,6.97,4,12,36
+SKU01711,Harbor Iced Tea Small,Beverages,SUP07,0,,6.84,4,9,22
+SKU01712,Summit Cola Value Pack,Beverages,SUP07,0,,5.3,4,4,7
+SKU01713,Maple Lane Cola Small,Beverages,SUP07,0,,3.81,4,7,16
+SKU01714,Bayview Orange Juice Large,Beverages,SUP07,0,,3.6,4,10,27
+SKU01715,Northside Orange Juice Small,Beverages,SUP07,0,,4.96,4,9,22
+SKU01716,Maple Lane Iced Tea Large,Beverages,SUP07,0,,6.95,4,12,34
+SKU01717,Bayview Sparkling Water Family Size,Beverages,SUP07,0,,0.91,4,12,35
+SKU01718,Coastal Orange Juice Family Size,Beverages,SUP07,0,,3.19,4,7,15
+SKU01719,Green Acre Cola Regular,Beverages,SUP07,0,,0.86,4,16,56
+SKU01720,Harbor Cola Small,Beverages,SUP07,0,,5.2,4,12,35
+SKU01721,Maple Lane Cola Small,Beverages,SUP07,0,,0.92,4,12,34
+SKU01722,Summit Sparkling Water Family Size,Beverages,SUP07,0,,7.35,4,12,33
+SKU01723,Maple Lane Sparkling Water Regular,Beverages,SUP07,0,,7.17,4,13,40
+SKU01724,Maple Lane Sports Drink Regular,Beverages,SUP07,0,,1.12,4,11,32
+SKU01725,Golden Field Sports Drink Value Pack,Beverages,SUP07,0,,3.08,4,15,49
+SKU01726,Summit Sparkling Water Value Pack,Beverages,SUP07,0,,4.23,4,10,25
+SKU01727,Northside Cola Small,Beverages,SUP07,0,,5.0,4,13,41
+SKU01728,Northside Sports Drink Value Pack,Beverages,SUP07,0,,4.52,4,13,38
+SKU01729,Maple Lane Cola Small,Beverages,SUP07,0,,3.36,4,10,26
+SKU01730,Golden Field Orange Juice Regular,Beverages,SUP07,0,,3.57,4,7,16
+SKU01731,Northside Sparkling Water Large,Beverages,SUP07,0,,4.44,4,17,61
+SKU01732,Summit Iced Tea Family Size,Beverages,SUP07,0,,6.26,4,14,46
+SKU01733,Northside Cola Family Size,Beverages,SUP07,0,,5.94,4,7,16
+SKU01734,Northside Sparkling Water Family Size,Beverages,SUP07,0,,4.8,4,8,19
+SKU01735,Coastal Orange Juice Small,Beverages,SUP07,0,,1.94,4,9,23
+SKU01736,Golden Field Orange Juice Family Size,Beverages,SUP07,0,,4.35,4,9,22
+SKU01737,Harbor Sports Drink Regular,Beverages,SUP07,0,,4.59,4,10,27
+SKU01738,Maple Lane Coffee Large,Beverages,SUP07,0,,6.47,4,13,39
+SKU01739,Summit Orange Juice Small,Beverages,SUP07,0,,1.56,4,9,23
+SKU01740,Northside Cola Small,Beverages,SUP07,0,,5.37,4,10,27
+SKU01741,Harbor Sparkling Water Small,Beverages,SUP07,0,,5.54,4,7,16
+SKU01742,Coastal Orange Juice Large,Beverages,SUP07,0,,1.04,4,8,18
+SKU01743,Northside Iced Tea Family Size,Beverages,SUP07,0,,7.0,4,16,53
+SKU01744,Harbor Sparkling Water Family Size,Beverages,SUP07,0,,4.36,4,6,12
+SKU01745,Harbor Orange Juice Family Size,Beverages,SUP07,0,,3.69,4,5,9
+SKU01746,Coastal Orange Juice Small,Beverages,SUP07,0,,5.38,4,9,22
+SKU01747,Coastal Sports Drink Family Size,Beverages,SUP07,0,,7.93,4,8,18
+SKU01748,Summit Sparkling Water Regular,Beverages,SUP07,0,,5.13,4,6,12
+SKU01749,Harbor Cola Large,Beverages,SUP07,0,,7.67,4,10,25
+SKU01750,Green Acre Sports Drink Regular,Beverages,SUP07,0,,5.91,4,12,35
+SKU01751,Northside Sparkling Water Small,Beverages,SUP07,0,,2.48,4,9,22
+SKU01752,Northside Iced Tea Regular,Beverages,SUP07,0,,1.61,4,7,16
+SKU01753,Maple Lane Sports Drink Regular,Beverages,SUP07,0,,3.14,4,9,23
+SKU01754,Harbor Orange Juice Regular,Beverages,SUP07,0,,4.53,4,9,21
+SKU01755,Bayview Iced Tea Family Size,Beverages,SUP07,0,,5.7,4,9,22
+SKU01756,Golden Field Orange Juice Large,Beverages,SUP07,0,,3.32,4,18,64
+SKU01757,Bayview Iced Tea Value Pack,Beverages,SUP07,0,,3.16,4,7,16
+SKU01758,Harbor Sports Drink Small,Beverages,SUP07,0,,1.25,4,13,39
+SKU01759,Bayview Cola Small,Beverages,SUP07,0,,7.55,4,9,22
+SKU01760,Maple Lane Sports Drink Large,Beverages,SUP07,0,,2.7,4,7,16
+SKU01761,Bayview Iced Tea Regular,Beverages,SUP07,0,,3.12,4,6,12
+SKU01762,Golden Field Coffee Regular,Beverages,SUP07,0,,1.91,4,8,20
+SKU01763,Maple Lane Sports Drink Large,Beverages,SUP07,0,,5.13,4,5,9
+SKU01764,Harbor Cola Regular,Beverages,SUP07,0,,4.6,4,6,12
+SKU01765,Maple Lane Orange Juice Small,Beverages,SUP07,0,,6.68,4,9,23
+SKU01766,Bayview Coffee Value Pack,Beverages,SUP07,0,,7.91,4,18,65
+SKU01767,Bayview Coffee Regular,Beverages,SUP07,0,,5.6,4,7,16
+SKU01768,Golden Field Sparkling Water Family Size,Beverages,SUP07,0,,7.18,4,16,55
+SKU01769,Harbor Iced Tea Small,Beverages,SUP07,0,,5.08,4,12,34
+SKU01770,Northside Sparkling Water Family Size,Beverages,SUP07,0,,3.82,4,10,26
+SKU01771,Golden Field Cola Regular,Beverages,SUP07,0,,2.68,4,10,25
+SKU01772,Green Acre Sparkling Water Regular,Beverages,SUP07,0,,7.82,4,12,34
+SKU01773,Bayview Coffee Value Pack,Beverages,SUP07,0,,5.82,4,18,64
+SKU01774,Golden Field Sparkling Water Family Size,Beverages,SUP07,0,,7.32,4,9,23
+SKU01775,Summit Sparkling Water Value Pack,Beverages,SUP07,0,,5.9,4,8,19
+SKU01776,Northside Iced Tea Large,Beverages,SUP07,0,,5.1,4,7,14
+SKU01777,Maple Lane Coffee Value Pack,Beverages,SUP07,0,,5.94,4,10,27
+SKU01778,Summit Sports Drink Value Pack,Beverages,SUP07,0,,5.09,4,8,19
+SKU01779,Bayview Sparkling Water Value Pack,Beverages,SUP07,0,,5.96,4,17,58
+SKU01780,Summit Orange Juice Regular,Beverages,SUP07,0,,4.76,4,17,58
+SKU01781,Green Acre Sports Drink Regular,Beverages,SUP07,0,,2.07,4,6,12
+SKU01782,Northside Cola Regular,Beverages,SUP07,0,,1.49,4,13,39
+SKU01783,Green Acre Iced Tea Value Pack,Beverages,SUP07,0,,5.1,4,8,19
+SKU01784,Green Acre Coffee Family Size,Beverages,SUP07,0,,3.4,4,9,22
+SKU01785,Maple Lane Sports Drink Regular,Beverages,SUP07,0,,1.0,4,17,57
+SKU01786,Golden Field Sports Drink Small,Beverages,SUP07,0,,6.46,4,12,36
+SKU01787,Summit Sports Drink Small,Beverages,SUP07,0,,2.78,4,14,45
+SKU01788,Coastal Sports Drink Regular,Beverages,SUP07,0,,5.33,4,11,31
+SKU01789,Maple Lane Sparkling Water Small,Beverages,SUP07,0,,1.22,4,7,16
+SKU01790,Harbor Sparkling Water Regular,Beverages,SUP07,0,,7.33,4,10,26
+SKU01791,Maple Lane Coffee Small,Beverages,SUP07,0,,6.09,4,10,25
+SKU01792,Maple Lane Sports Drink Value Pack,Beverages,SUP07,0,,6.14,4,11,30
+SKU01793,Harbor Sports Drink Large,Beverages,SUP07,0,,4.61,4,5,9
+SKU01794,Golden Field Coffee Large,Beverages,SUP07,0,,6.64,4,11,30
+SKU01795,Northside Sparkling Water Large,Beverages,SUP07,0,,1.33,4,11,32
+SKU01796,Golden Field Iced Tea Small,Beverages,SUP07,0,,5.97,4,16,53
+SKU01797,Maple Lane Sports Drink Large,Beverages,SUP07,0,,1.0,4,8,18
+SKU01798,Bayview Sparkling Water Large,Beverages,SUP07,0,,7.9,4,12,36
+SKU01799,Maple Lane Cola Value Pack,Beverages,SUP07,0,,1.52,4,4,7
+SKU01800,Bayview Orange Juice Large,Beverages,SUP07,0,,2.61,4,9,23
+SKU01801,Coastal Sports Drink Value Pack,Beverages,SUP07,0,,2.45,4,7,15
+SKU01802,Harbor Cola Small,Beverages,SUP07,0,,2.0,4,17,61
+SKU01803,Green Acre Sparkling Water Value Pack,Beverages,SUP07,0,,7.19,4,10,26
+SKU01804,Summit Sparkling Water Family Size,Beverages,SUP07,0,,2.22,4,9,23
+SKU01805,Harbor Sports Drink Value Pack,Beverages,SUP07,0,,3.55,4,11,29
+SKU01806,Coastal Cola Large,Beverages,SUP07,0,,2.9,4,15,48
+SKU01807,Northside Orange Juice Large,Beverages,SUP07,0,,3.89,4,7,15
+SKU01808,Northside Sparkling Water Regular,Beverages,SUP07,0,,6.97,4,10,27
+SKU01809,Coastal Iced Tea Regular,Beverages,SUP07,0,,2.03,4,9,23
+SKU01810,Bayview Sparkling Water Regular,Beverages,SUP07,0,,1.25,4,11,29
+SKU01811,Green Acre Coffee Value Pack,Beverages,SUP07,0,,7.62,4,10,26
+SKU01812,Summit Sparkling Water Family Size,Beverages,SUP07,0,,5.59,4,7,14
+SKU01813,Golden Field Orange Juice Regular,Beverages,SUP07,0,,6.54,4,8,18
+SKU01814,Golden Field Coffee Regular,Beverages,SUP07,0,,7.95,4,7,16
+SKU01815,Northside Sports Drink Family Size,Beverages,SUP07,0,,6.84,4,16,53
+SKU01816,Maple Lane Sports Drink Regular,Beverages,SUP07,0,,5.35,4,13,39
+SKU01817,Green Acre Coffee Regular,Beverages,SUP07,0,,2.1,4,10,27
+SKU01818,Northside Cola Large,Beverages,SUP07,0,,4.93,4,13,38
+SKU01819,Bayview Coffee Value Pack,Beverages,SUP07,0,,2.7,4,8,18
+SKU01820,Summit Orange Juice Regular,Beverages,SUP07,0,,2.49,4,7,15
+SKU01821,Maple Lane Cola Value Pack,Beverages,SUP07,0,,4.92,4,9,24
+SKU01822,Northside Coffee Regular,Beverages,SUP07,0,,1.12,4,7,15
+SKU01823,Coastal Iced Tea Small,Beverages,SUP07,0,,1.86,4,11,30
+SKU01824,Northside Iced Tea Large,Beverages,SUP07,0,,5.69,4,11,29
+SKU01825,Maple Lane Coffee Large,Beverages,SUP07,0,,3.56,4,8,19
+SKU01826,Coastal Sports Drink Regular,Beverages,SUP07,0,,5.49,4,8,18
+SKU01827,Summit Sparkling Water Regular,Beverages,SUP07,0,,7.05,4,11,31
+SKU01828,Coastal Sports Drink Value Pack,Beverages,SUP07,0,,3.08,4,13,39
+SKU01829,Maple Lane Sports Drink Large,Beverages,SUP07,0,,4.04,4,18,63
+SKU01830,Northside Sports Drink Small,Beverages,SUP07,0,,3.84,4,9,24
+SKU01831,Bayview Coffee Large,Beverages,SUP07,0,,2.48,4,12,36
+SKU01832,Green Acre Coffee Small,Beverages,SUP07,0,,3.84,4,18,63
+SKU01833,Green Acre Coffee Large,Beverages,SUP07,0,,6.93,4,16,55
+SKU01834,Harbor Sparkling Water Regular,Beverages,SUP07,0,,6.3,4,22,90
+SKU01835,Northside Iced Tea Regular,Beverages,SUP07,0,,6.09,4,16,54
+SKU01836,Golden Field Sports Drink Large,Beverages,SUP07,0,,6.62,4,6,12
+SKU01837,Bayview Sports Drink Value Pack,Beverages,SUP07,0,,2.19,4,19,72
+SKU01838,Coastal Sports Drink Large,Beverages,SUP07,0,,4.03,4,9,22
+SKU01839,Bayview Coffee Small,Beverages,SUP07,0,,3.81,4,11,32
+SKU01840,Coastal Iced Tea Small,Beverages,SUP07,0,,4.65,4,7,15
+SKU01841,Green Acre Iced Tea Regular,Beverages,SUP07,0,,6.1,4,9,23
+SKU01842,Golden Field Sports Drink Regular,Beverages,SUP07,0,,0.84,4,9,23
+SKU01843,Coastal Sports Drink Value Pack,Beverages,SUP07,0,,3.14,4,12,34
+SKU01844,Coastal Sports Drink Large,Beverages,SUP07,0,,5.77,4,9,24
+SKU01845,Green Acre Sparkling Water Small,Beverages,SUP07,0,,2.68,4,6,13
+SKU01846,Bayview Orange Juice Small,Beverages,SUP07,0,,5.54,4,6,13
+SKU01847,Bayview Orange Juice Family Size,Beverages,SUP07,0,,4.35,4,9,22
+SKU01848,Golden Field Orange Juice Value Pack,Beverages,SUP07,0,,1.74,4,12,34
+SKU01849,Northside Coffee Family Size,Beverages,SUP07,0,,3.49,4,10,28
+SKU01850,Summit Sports Drink Small,Beverages,SUP07,0,,7.87,4,6,13
+SKU01851,Coastal Cola Family Size,Beverages,SUP07,0,,1.09,4,15,50
+SKU01852,Golden Field Cola Family Size,Beverages,SUP07,0,,4.5,4,10,25
+SKU01853,Coastal Iced Tea Value Pack,Beverages,SUP07,0,,6.67,4,9,22
+SKU01854,Golden Field Sports Drink Family Size,Beverages,SUP07,0,,5.95,4,8,18
+SKU01855,Green Acre Orange Juice Regular,Beverages,SUP07,0,,2.23,4,10,28
+SKU01856,Green Acre Coffee Small,Beverages,SUP07,0,,5.55,4,9,22
+SKU01857,Summit Sparkling Water Regular,Beverages,SUP07,0,,2.18,4,13,38
+SKU01858,Northside Sports Drink Regular,Beverages,SUP07,0,,2.4,4,18,65
+SKU01859,Summit Cola Family Size,Beverages,SUP07,0,,6.43,4,13,41
+SKU01860,Golden Field Iced Tea Family Size,Beverages,SUP07,0,,4.27,4,16,56
+SKU01861,Coastal Iced Tea Small,Beverages,SUP07,0,,5.87,4,8,19
+SKU01862,Northside Sparkling Water Large,Beverages,SUP07,0,,7.91,4,12,33
+SKU01863,Harbor Orange Juice Value Pack,Beverages,SUP07,0,,5.13,4,10,26
+SKU01864,Maple Lane Iced Tea Large,Beverages,SUP07,0,,6.94,4,9,22
+SKU01865,Summit Iced Tea Family Size,Beverages,SUP07,0,,4.03,4,5,10
+SKU01866,Harbor Sports Drink Family Size,Beverages,SUP07,0,,1.17,4,11,31
+SKU01867,Bayview Coffee Value Pack,Beverages,SUP07,0,,0.96,4,10,25
+SKU01868,Golden Field Sparkling Water Small,Beverages,SUP07,0,,3.11,4,8,19
+SKU01869,Northside Sports Drink Family Size,Beverages,SUP07,0,,6.99,4,10,26
+SKU01870,Northside Cola Small,Beverages,SUP07,0,,2.52,4,9,21
+SKU01871,Green Acre Coffee Small,Beverages,SUP07,0,,5.53,4,7,15
+SKU01872,Bayview Cola Family Size,Beverages,SUP07,0,,5.97,4,15,49
+SKU01873,Summit Sparkling Water Family Size,Beverages,SUP07,0,,7.51,4,14,44
+SKU01874,Green Acre Cola Family Size,Beverages,SUP07,0,,1.64,4,11,31
+SKU01875,Maple Lane Orange Juice Small,Beverages,SUP07,0,,2.72,4,7,16
+SKU01876,Northside Coffee Small,Beverages,SUP07,0,,5.45,4,6,13
+SKU01877,Summit Coffee Small,Beverages,SUP07,0,,7.34,4,7,16
+SKU01878,Harbor Orange Juice Large,Beverages,SUP07,0,,5.55,4,11,29
+SKU01879,Coastal Cola Regular,Beverages,SUP07,0,,4.06,4,10,26
+SKU01880,Golden Field Coffee Family Size,Beverages,SUP07,0,,1.71,4,8,19
+SKU01881,Green Acre Cola Large,Beverages,SUP07,0,,3.7,4,11,29
+SKU01882,Northside Orange Juice Regular,Beverages,SUP07,0,,2.04,4,23,96
+SKU01883,Harbor Sports Drink Small,Beverages,SUP07,0,,3.15,4,31,147
+SKU01884,Bayview Coffee Small,Beverages,SUP07,0,,3.63,4,8,18
+SKU01885,Maple Lane Coffee Large,Beverages,SUP07,0,,7.77,4,9,22
+SKU01886,Northside Sparkling Water Regular,Beverages,SUP07,0,,3.87,4,12,33
+SKU01887,Harbor Sports Drink Large,Beverages,SUP07,0,,5.54,4,15,49
+SKU01888,Northside Sports Drink Value Pack,Beverages,SUP07,0,,5.43,4,11,30
+SKU01889,Harbor Sparkling Water Family Size,Beverages,SUP07,0,,4.74,4,7,15
+SKU01890,Coastal Iced Tea Value Pack,Beverages,SUP07,0,,1.19,4,11,31
+SKU01891,Summit Iced Tea Small,Beverages,SUP07,0,,4.23,4,12,36
+SKU01892,Northside Orange Juice Small,Beverages,SUP07,0,,1.07,4,10,25
+SKU01893,Golden Field Sports Drink Family Size,Beverages,SUP07,0,,4.32,4,9,21
+SKU01894,Golden Field Coffee Family Size,Beverages,SUP07,0,,1.82,4,10,26
+SKU01895,Northside Iced Tea Large,Beverages,SUP07,0,,6.34,4,9,24
+SKU01896,Bayview Cola Value Pack,Beverages,SUP07,0,,2.13,4,11,30
+SKU01897,Coastal Orange Juice Value Pack,Beverages,SUP07,0,,7.38,4,13,38
+SKU01898,Maple Lane Cola Regular,Beverages,SUP07,0,,6.85,4,7,16
+SKU01899,Harbor Coffee Regular,Beverages,SUP07,0,,1.85,4,8,19
+SKU01900,Golden Field Sports Drink Value Pack,Beverages,SUP07,0,,3.87,4,7,16
+SKU01901,Northside Popcorn Regular,Snacks,SUP07,0,,4.78,4,12,34
+SKU01902,Harbor Pretzels Family Size,Snacks,SUP07,0,,3.2,4,7,16
+SKU01903,Harbor Granola Bars Regular,Snacks,SUP06,0,,2.04,5,10,28
+SKU01904,Green Acre Pretzels Family Size,Snacks,SUP06,0,,4.42,5,9,23
+SKU01905,Bayview Popcorn Regular,Snacks,SUP06,0,,5.0,5,9,24
+SKU01906,Golden Field Granola Bars Regular,Snacks,SUP07,0,,2.29,4,10,26
+SKU01907,Golden Field Crackers Small,Snacks,SUP06,0,,4.84,5,10,26
+SKU01908,Golden Field Popcorn Regular,Snacks,SUP07,0,,4.06,4,11,31
+SKU01909,Harbor Chips Large,Snacks,SUP07,0,,3.63,4,13,40
+SKU01910,Green Acre Chips Value Pack,Snacks,SUP06,0,,2.85,5,15,51
+SKU01911,Harbor Popcorn Small,Snacks,SUP06,0,,2.13,5,9,24
+SKU01912,Summit Granola Bars Small,Snacks,SUP06,0,,4.97,5,5,10
+SKU01913,Golden Field Trail Mix Value Pack,Snacks,SUP06,0,,4.33,5,12,35
+SKU01914,Summit Popcorn Small,Snacks,SUP07,0,,1.04,4,8,19
+SKU01915,Harbor Granola Bars Regular,Snacks,SUP07,0,,1.89,4,9,21
+SKU01916,Coastal Crackers Value Pack,Snacks,SUP06,0,,3.86,5,8,18
+SKU01917,Harbor Crackers Family Size,Snacks,SUP07,0,,3.57,4,8,19
+SKU01918,Green Acre Popcorn Regular,Snacks,SUP07,0,,2.67,4,11,32
+SKU01919,Coastal Pretzels Large,Snacks,SUP07,0,,3.92,4,12,33
+SKU01920,Harbor Granola Bars Family Size,Snacks,SUP07,0,,2.93,4,8,18
+SKU01921,Harbor Popcorn Value Pack,Snacks,SUP07,0,,4.81,4,14,42
+SKU01922,Green Acre Chips Small,Snacks,SUP07,0,,4.13,4,10,25
+SKU01923,Green Acre Trail Mix Value Pack,Snacks,SUP06,0,,2.41,5,17,62
+SKU01924,Bayview Granola Bars Large,Snacks,SUP06,0,,2.92,5,8,19
+SKU01925,Bayview Granola Bars Value Pack,Snacks,SUP06,0,,3.01,5,11,32
+SKU01926,Maple Lane Granola Bars Regular,Snacks,SUP06,0,,4.16,5,11,30
+SKU01927,Harbor Granola Bars Small,Snacks,SUP07,0,,1.09,4,9,23
+SKU01928,Coastal Pretzels Family Size,Snacks,SUP06,0,,1.43,5,6,12
+SKU01929,Summit Trail Mix Regular,Snacks,SUP07,0,,3.01,4,9,21
+SKU01930,Harbor Chips Large,Snacks,SUP06,0,,3.93,5,11,31
+SKU01931,Bayview Trail Mix Large,Snacks,SUP06,0,,3.94,5,10,26
+SKU01932,Maple Lane Crackers Family Size,Snacks,SUP07,0,,3.33,4,7,15
+SKU01933,Golden Field Pretzels Small,Snacks,SUP07,0,,3.79,4,15,48
+SKU01934,Golden Field Chips Value Pack,Snacks,SUP07,0,,3.69,4,14,42
+SKU01935,Harbor Trail Mix Small,Snacks,SUP07,0,,2.41,4,18,64
+SKU01936,Green Acre Pretzels Small,Snacks,SUP07,0,,1.92,4,7,15
+SKU01937,Maple Lane Crackers Regular,Snacks,SUP07,0,,1.69,4,12,33
+SKU01938,Harbor Pretzels Regular,Snacks,SUP07,0,,1.18,4,5,10
+SKU01939,Coastal Popcorn Large,Snacks,SUP07,0,,4.29,4,11,32
+SKU01940,Northside Granola Bars Value Pack,Snacks,SUP06,0,,2.53,5,11,30
+SKU01941,Coastal Granola Bars Large,Snacks,SUP06,0,,2.22,5,9,24
+SKU01942,Harbor Pretzels Small,Snacks,SUP06,0,,1.03,5,9,23
+SKU01943,Summit Crackers Regular,Snacks,SUP07,0,,1.88,4,10,25
+SKU01944,Coastal Chips Regular,Snacks,SUP07,0,,2.29,4,12,33
+SKU01945,Coastal Trail Mix Value Pack,Snacks,SUP06,0,,2.17,5,8,19
+SKU01946,Bayview Chips Regular,Snacks,SUP06,0,,4.54,5,6,12
+SKU01947,Summit Chips Value Pack,Snacks,SUP07,0,,4.91,4,7,16
+SKU01948,Coastal Popcorn Small,Snacks,SUP06,0,,2.44,5,10,26
+SKU01949,Coastal Popcorn Value Pack,Snacks,SUP07,0,,1.11,4,9,23
+SKU01950,Northside Chips Regular,Snacks,SUP07,0,,4.39,4,11,29
+SKU01951,Maple Lane Granola Bars Large,Snacks,SUP07,0,,2.51,4,11,31
+SKU01952,Coastal Crackers Family Size,Snacks,SUP07,0,,2.76,4,10,26
+SKU01953,Coastal Trail Mix Value Pack,Snacks,SUP07,0,,4.24,4,24,100
+SKU01954,Coastal Popcorn Regular,Snacks,SUP07,0,,3.81,4,4,7
+SKU01955,Golden Field Chips Value Pack,Snacks,SUP06,0,,4.94,5,9,23
+SKU01956,Golden Field Granola Bars Value Pack,Snacks,SUP06,0,,4.94,5,10,26
+SKU01957,Harbor Granola Bars Regular,Snacks,SUP06,0,,4.59,5,11,31
+SKU01958,Summit Chips Family Size,Snacks,SUP06,0,,2.66,5,11,31
+SKU01959,Maple Lane Granola Bars Regular,Snacks,SUP07,0,,3.74,4,9,22
+SKU01960,Maple Lane Popcorn Regular,Snacks,SUP07,0,,3.97,4,15,49
+SKU01961,Green Acre Trail Mix Large,Snacks,SUP07,0,,1.22,4,13,40
+SKU01962,Coastal Trail Mix Small,Snacks,SUP07,0,,4.35,4,7,16
+SKU01963,Summit Trail Mix Value Pack,Snacks,SUP07,0,,3.31,4,9,23
+SKU01964,Harbor Crackers Large,Snacks,SUP07,0,,4.8,4,14,42
+SKU01965,Northside Chips Small,Snacks,SUP06,0,,4.66,5,13,41
+SKU01966,Summit Crackers Family Size,Snacks,SUP07,0,,2.02,4,15,49
+SKU01967,Bayview Trail Mix Regular,Snacks,SUP06,0,,3.8,5,12,34
+SKU01968,Golden Field Trail Mix Small,Snacks,SUP06,0,,1.86,5,11,30
+SKU01969,Maple Lane Trail Mix Family Size,Snacks,SUP06,0,,1.57,5,11,31
+SKU01970,Bayview Pretzels Value Pack,Snacks,SUP07,0,,3.62,4,8,18
+SKU01971,Green Acre Popcorn Large,Snacks,SUP06,0,,4.09,5,8,18
+SKU01972,Summit Popcorn Large,Snacks,SUP06,0,,4.97,5,14,46
+SKU01973,Coastal Popcorn Large,Snacks,SUP07,0,,2.87,4,8,20
+SKU01974,Northside Popcorn Value Pack,Snacks,SUP06,0,,4.65,5,10,26
+SKU01975,Coastal Popcorn Family Size,Snacks,SUP06,0,,2.81,5,7,16
+SKU01976,Harbor Crackers Value Pack,Snacks,SUP07,0,,2.99,4,9,21
+SKU01977,Northside Granola Bars Regular,Snacks,SUP07,0,,1.13,4,13,38
+SKU01978,Bayview Trail Mix Regular,Snacks,SUP07,0,,1.99,4,8,18
+SKU01979,Northside Crackers Value Pack,Snacks,SUP06,0,,1.45,5,8,19
+SKU01980,Green Acre Chips Large,Snacks,SUP07,0,,3.21,4,6,13
+SKU01981,Bayview Crackers Large,Snacks,SUP06,0,,1.72,5,10,27
+SKU01982,Northside Granola Bars Family Size,Snacks,SUP07,0,,2.74,4,6,12
+SKU01983,Bayview Pretzels Regular,Snacks,SUP07,0,,2.09,4,11,30
+SKU01984,Golden Field Pretzels Value Pack,Snacks,SUP06,0,,4.08,5,12,35
+SKU01985,Green Acre Popcorn Value Pack,Snacks,SUP06,0,,1.23,5,8,20
+SKU01986,Maple Lane Trail Mix Regular,Snacks,SUP07,0,,1.47,4,11,30
+SKU01987,Golden Field Granola Bars Small,Snacks,SUP07,0,,3.62,4,9,22
+SKU01988,Northside Popcorn Regular,Snacks,SUP06,0,,4.29,5,9,22
+SKU01989,Summit Chips Large,Snacks,SUP07,0,,1.37,4,9,22
+SKU01990,Golden Field Crackers Large,Snacks,SUP07,0,,4.26,4,12,34
+SKU01991,Maple Lane Crackers Large,Snacks,SUP06,0,,3.17,5,11,31
+SKU01992,Northside Popcorn Value Pack,Snacks,SUP06,0,,4.43,5,12,35
+SKU01993,Coastal Popcorn Value Pack,Snacks,SUP06,0,,2.7,5,9,24
+SKU01994,Harbor Popcorn Small,Snacks,SUP07,0,,2.39,4,10,27
+SKU01995,Northside Crackers Value Pack,Snacks,SUP07,0,,2.02,4,12,33
+SKU01996,Summit Pretzels Small,Snacks,SUP06,0,,3.91,5,10,26
+SKU01997,Coastal Trail Mix Family Size,Snacks,SUP06,0,,1.21,5,10,28
+SKU01998,Harbor Crackers Value Pack,Snacks,SUP07,0,,3.74,4,5,10
+SKU01999,Green Acre Granola Bars Value Pack,Snacks,SUP06,0,,1.81,5,8,18
+SKU02000,Maple Lane Pretzels Regular,Snacks,SUP06,0,,3.02,5,15,50
+SKU02001,Bayview Trail Mix Value Pack,Snacks,SUP06,0,,3.77,5,7,16
+SKU02002,Golden Field Trail Mix Regular,Snacks,SUP07,0,,3.85,4,13,38
+SKU02003,Green Acre Crackers Large,Snacks,SUP07,0,,3.54,4,9,23
+SKU02004,Green Acre Trail Mix Value Pack,Snacks,SUP06,0,,2.52,5,7,16
+SKU02005,Green Acre Popcorn Value Pack,Snacks,SUP07,0,,2.42,4,8,19
+SKU02006,Green Acre Crackers Family Size,Snacks,SUP06,0,,4.12,5,8,20
+SKU02007,Coastal Trail Mix Small,Snacks,SUP06,0,,1.53,5,16,56
+SKU02008,Summit Popcorn Regular,Snacks,SUP07,0,,3.22,4,10,28
+SKU02009,Golden Field Granola Bars Family Size,Snacks,SUP06,0,,4.89,5,6,13
+SKU02010,Summit Popcorn Large,Snacks,SUP07,0,,2.27,4,5,10
+SKU02011,Coastal Popcorn Regular,Snacks,SUP07,0,,4.16,4,9,23
+SKU02012,Maple Lane Popcorn Small,Snacks,SUP06,0,,4.87,5,11,32
+SKU02013,Harbor Granola Bars Family Size,Snacks,SUP06,0,,3.41,5,8,19
+SKU02014,Northside Pretzels Family Size,Snacks,SUP06,0,,3.97,5,16,56
+SKU02015,Coastal Granola Bars Regular,Snacks,SUP07,0,,1.28,4,6,12
+SKU02016,Harbor Chips Regular,Snacks,SUP07,0,,3.03,4,8,19
+SKU02017,Green Acre Chips Family Size,Snacks,SUP06,0,,3.19,5,11,32
+SKU02018,Golden Field Trail Mix Large,Snacks,SUP06,0,,2.05,5,8,19
+SKU02019,Green Acre Pretzels Regular,Snacks,SUP06,0,,4.37,5,8,20
+SKU02020,Golden Field Trail Mix Small,Snacks,SUP07,0,,1.51,4,14,44
+SKU02021,Harbor Trail Mix Small,Snacks,SUP06,0,,3.36,5,7,16
+SKU02022,Harbor Trail Mix Small,Snacks,SUP07,0,,2.05,4,7,16
+SKU02023,Golden Field Trail Mix Small,Snacks,SUP06,0,,3.59,5,6,12
+SKU02024,Coastal Popcorn Value Pack,Snacks,SUP06,0,,2.09,5,12,36
+SKU02025,Northside Crackers Family Size,Snacks,SUP06,0,,1.24,5,9,23
+SKU02026,Northside Granola Bars Regular,Snacks,SUP07,0,,3.82,4,13,38
+SKU02027,Golden Field Granola Bars Value Pack,Snacks,SUP06,0,,1.41,5,13,39
+SKU02028,Bayview Crackers Family Size,Snacks,SUP07,0,,3.34,4,9,21
+SKU02029,Coastal Trail Mix Regular,Snacks,SUP07,0,,2.44,4,7,14
+SKU02030,Coastal Granola Bars Family Size,Snacks,SUP07,0,,4.82,4,13,39
+SKU02031,Golden Field Trail Mix Value Pack,Snacks,SUP06,0,,3.04,5,7,16
+SKU02032,Coastal Chips Small,Snacks,SUP07,0,,2.64,4,6,13
+SKU02033,Coastal Crackers Value Pack,Snacks,SUP07,0,,4.54,4,5,10
+SKU02034,Coastal Pretzels Large,Snacks,SUP07,0,,3.61,4,15,50
+SKU02035,Maple Lane Trail Mix Large,Snacks,SUP07,0,,4.38,4,9,22
+SKU02036,Green Acre Crackers Large,Snacks,SUP06,0,,1.02,5,8,18
+SKU02037,Northside Chips Large,Snacks,SUP07,0,,1.28,4,11,31
+SKU02038,Golden Field Chips Regular,Snacks,SUP06,0,,1.86,5,12,35
+SKU02039,Green Acre Chips Family Size,Snacks,SUP06,0,,1.67,5,13,39
+SKU02040,Golden Field Chips Regular,Snacks,SUP07,0,,4.73,4,10,26
+SKU02041,Northside Granola Bars Value Pack,Snacks,SUP07,0,,3.62,4,9,21
+SKU02042,Coastal Chips Small,Snacks,SUP06,0,,4.35,5,6,12
+SKU02043,Northside Granola Bars Regular,Snacks,SUP06,0,,1.42,5,12,36
+SKU02044,Green Acre Pretzels Regular,Snacks,SUP07,0,,3.76,4,6,12
+SKU02045,Green Acre Chips Value Pack,Snacks,SUP06,0,,3.04,5,9,22
+SKU02046,Harbor Granola Bars Small,Snacks,SUP07,0,,3.55,4,7,15
+SKU02047,Golden Field Crackers Small,Snacks,SUP06,0,,4.12,5,12,34
+SKU02048,Maple Lane Popcorn Value Pack,Snacks,SUP07,0,,4.61,4,9,22
+SKU02049,Bayview Chips Value Pack,Snacks,SUP07,0,,4.71,4,11,32
+SKU02050,Maple Lane Crackers Regular,Snacks,SUP07,0,,4.78,4,6,12
+SKU02051,Summit Granola Bars Value Pack,Snacks,SUP07,0,,3.24,4,7,14
+SKU02052,Harbor Granola Bars Value Pack,Snacks,SUP06,0,,1.22,5,8,19
+SKU02053,Green Acre Granola Bars Large,Snacks,SUP06,0,,1.93,5,14,46
+SKU02054,Golden Field Chips Value Pack,Snacks,SUP07,0,,2.11,4,12,36
+SKU02055,Maple Lane Chips Family Size,Snacks,SUP07,0,,3.18,4,11,29
+SKU02056,Maple Lane Chips Large,Snacks,SUP06,0,,4.86,5,13,40
+SKU02057,Summit Chips Regular,Snacks,SUP06,0,,1.01,5,8,18
+SKU02058,Maple Lane Pretzels Family Size,Snacks,SUP07,0,,2.32,4,13,39
+SKU02059,Green Acre Popcorn Regular,Snacks,SUP07,0,,4.79,4,9,23
+SKU02060,Green Acre Crackers Large,Snacks,SUP06,0,,2.55,5,9,23
+SKU02061,Coastal Trail Mix Large,Snacks,SUP06,0,,3.36,5,12,37
+SKU02062,Golden Field Crackers Regular,Snacks,SUP06,0,,1.0,5,15,53
+SKU02063,Bayview Chips Large,Snacks,SUP07,0,,1.33,4,5,9
+SKU02064,Green Acre Chips Large,Snacks,SUP07,0,,4.36,4,13,39
+SKU02065,Coastal Crackers Regular,Snacks,SUP06,0,,3.86,5,12,37
+SKU02066,Golden Field Granola Bars Family Size,Snacks,SUP06,0,,2.57,5,6,13
+SKU02067,Coastal Crackers Family Size,Snacks,SUP07,0,,4.74,4,9,24
+SKU02068,Golden Field Granola Bars Regular,Snacks,SUP06,0,,3.84,5,8,18
+SKU02069,Summit Chips Regular,Snacks,SUP06,0,,3.18,5,10,27
+SKU02070,Coastal Granola Bars Small,Snacks,SUP06,0,,1.51,5,10,27
+SKU02071,Green Acre Pretzels Value Pack,Snacks,SUP07,0,,2.7,4,8,18
+SKU02072,Green Acre Granola Bars Large,Snacks,SUP07,0,,4.94,4,11,31
+SKU02073,Harbor Crackers Regular,Snacks,SUP07,0,,4.91,4,12,36
+SKU02074,Green Acre Crackers Family Size,Snacks,SUP07,0,,1.31,4,6,12
+SKU02075,Green Acre Popcorn Value Pack,Snacks,SUP07,0,,4.76,4,11,32
+SKU02076,Bayview Pretzels Small,Snacks,SUP07,0,,2.36,4,8,18
+SKU02077,Northside Trail Mix Value Pack,Snacks,SUP06,0,,1.18,5,13,42
+SKU02078,Harbor Trail Mix Large,Snacks,SUP06,0,,2.81,5,14,44
+SKU02079,Green Acre Crackers Small,Snacks,SUP07,0,,3.99,4,12,34
+SKU02080,Summit Granola Bars Small,Snacks,SUP06,0,,2.04,5,5,9
+SKU02081,Golden Field Granola Bars Family Size,Snacks,SUP06,0,,2.18,5,6,13
+SKU02082,Coastal Chips Family Size,Snacks,SUP07,0,,1.51,4,10,26
+SKU02083,Golden Field Crackers Regular,Snacks,SUP06,0,,2.59,5,15,50
+SKU02084,Bayview Trail Mix Large,Snacks,SUP06,0,,3.84,5,6,13
+SKU02085,Coastal Chips Regular,Snacks,SUP07,0,,2.68,4,16,56
+SKU02086,Golden Field Trail Mix Large,Snacks,SUP06,0,,3.6,5,8,20
+SKU02087,Maple Lane Pretzels Value Pack,Snacks,SUP06,0,,2.03,5,12,34
+SKU02088,Golden Field Chips Small,Snacks,SUP06,0,,4.08,5,12,37
+SKU02089,Northside Pretzels Regular,Snacks,SUP06,0,,2.13,5,7,15
+SKU02090,Golden Field Popcorn Large,Snacks,SUP07,0,,2.02,4,14,45
+SKU02091,Maple Lane Trail Mix Small,Snacks,SUP06,0,,3.05,5,11,33
+SKU02092,Golden Field Popcorn Value Pack,Snacks,SUP07,0,,3.5,4,10,28
+SKU02093,Maple Lane Popcorn Regular,Snacks,SUP06,0,,1.96,5,6,13
+SKU02094,Bayview Popcorn Large,Snacks,SUP07,0,,1.93,4,7,15
+SKU02095,Bayview Granola Bars Family Size,Snacks,SUP07,0,,3.75,4,16,53
+SKU02096,Green Acre Chips Regular,Snacks,SUP07,0,,4.86,4,12,33
+SKU02097,Golden Field Pretzels Large,Snacks,SUP06,0,,1.3,5,9,22
+SKU02098,Summit Pretzels Large,Snacks,SUP07,0,,3.16,4,10,26
+SKU02099,Northside Trail Mix Family Size,Snacks,SUP07,0,,3.04,4,10,26
+SKU02100,Bayview Chips Value Pack,Snacks,SUP07,0,,2.5,4,8,20
+SKU02101,Golden Field Granola Bars Value Pack,Snacks,SUP06,0,,3.67,5,11,33
+SKU02102,Harbor Popcorn Value Pack,Snacks,SUP06,0,,4.62,5,20,80
+SKU02103,Golden Field Crackers Regular,Snacks,SUP07,0,,2.79,4,10,28
+SKU02104,Harbor Chips Value Pack,Snacks,SUP06,0,,2.04,5,9,23
+SKU02105,Northside Trail Mix Regular,Snacks,SUP07,0,,2.59,4,7,16
+SKU02106,Summit Pretzels Value Pack,Snacks,SUP07,0,,2.71,4,6,12
+SKU02107,Summit Crackers Family Size,Snacks,SUP07,0,,1.95,4,14,42
+SKU02108,Maple Lane Chips Large,Snacks,SUP07,0,,2.66,4,7,16
+SKU02109,Northside Trail Mix Family Size,Snacks,SUP07,0,,2.31,4,8,19
+SKU02110,Northside Granola Bars Small,Snacks,SUP06,0,,3.79,5,14,45
+SKU02111,Coastal Granola Bars Family Size,Snacks,SUP06,0,,1.92,5,11,32
+SKU02112,Coastal Pretzels Family Size,Snacks,SUP07,0,,4.57,4,6,12
+SKU02113,Coastal Pretzels Large,Snacks,SUP07,0,,3.67,4,16,54
+SKU02114,Harbor Chips Value Pack,Snacks,SUP07,0,,4.98,4,5,10
+SKU02115,Coastal Granola Bars Small,Snacks,SUP06,0,,1.62,5,8,18
+SKU02116,Bayview Chips Small,Snacks,SUP06,0,,2.58,5,14,44
+SKU02117,Summit Popcorn Value Pack,Snacks,SUP07,0,,3.75,4,10,26
+SKU02118,Maple Lane Popcorn Regular,Snacks,SUP07,0,,4.04,4,15,48
+SKU02119,Northside Chips Small,Snacks,SUP07,0,,4.31,4,7,15
+SKU02120,Summit Popcorn Value Pack,Snacks,SUP07,0,,4.74,4,8,18
+SKU02121,Summit Crackers Regular,Snacks,SUP07,0,,2.95,4,15,48
+SKU02122,Coastal Crackers Family Size,Snacks,SUP06,0,,2.07,5,11,31
+SKU02123,Bayview Trail Mix Family Size,Snacks,SUP07,0,,4.7,4,15,48
+SKU02124,Bayview Chips Large,Snacks,SUP07,0,,2.57,4,7,15
+SKU02125,Harbor Popcorn Small,Snacks,SUP07,0,,2.6,4,9,23
+SKU02126,Northside Crackers Regular,Snacks,SUP06,0,,3.97,5,9,23
+SKU02127,Bayview Crackers Small,Snacks,SUP06,0,,3.75,5,13,40
+SKU02128,Summit Chips Regular,Snacks,SUP07,0,,1.01,4,8,18
+SKU02129,Summit Chips Regular,Snacks,SUP07,0,,1.88,4,17,58
+SKU02130,Maple Lane Crackers Small,Snacks,SUP07,0,,3.77,4,14,46
+SKU02131,Northside Chips Value Pack,Snacks,SUP07,0,,4.58,4,13,39
+SKU02132,Harbor Pretzels Regular,Snacks,SUP06,0,,1.82,5,13,41
+SKU02133,Coastal Chips Value Pack,Snacks,SUP06,0,,2.22,5,9,23
+SKU02134,Harbor Chips Large,Snacks,SUP07,0,,1.25,4,12,35
+SKU02135,Maple Lane Crackers Regular,Snacks,SUP06,0,,3.8,5,8,19
+SKU02136,Maple Lane Crackers Large,Snacks,SUP07,0,,1.77,4,14,45
+SKU02137,Harbor Crackers Large,Snacks,SUP07,0,,1.85,4,9,22
+SKU02138,Maple Lane Granola Bars Small,Snacks,SUP06,0,,2.6,5,13,39
+SKU02139,Green Acre Pretzels Large,Snacks,SUP06,0,,3.69,5,17,61
+SKU02140,Maple Lane Pretzels Large,Snacks,SUP07,0,,3.51,4,13,39
+SKU02141,Harbor Chips Small,Snacks,SUP06,0,,4.62,5,10,26
+SKU02142,Maple Lane Crackers Small,Snacks,SUP07,0,,3.1,4,9,22
+SKU02143,Summit Crackers Small,Snacks,SUP06,0,,4.58,5,8,18
+SKU02144,Green Acre Crackers Value Pack,Snacks,SUP07,0,,2.94,4,11,30
+SKU02145,Golden Field Trail Mix Value Pack,Snacks,SUP06,0,,1.48,5,7,16
+SKU02146,Northside Pretzels Small,Snacks,SUP07,0,,2.69,4,9,23
+SKU02147,Green Acre Trail Mix Large,Snacks,SUP06,0,,3.54,5,8,20
+SKU02148,Summit Pretzels Value Pack,Snacks,SUP06,0,,2.64,5,12,36
+SKU02149,Bayview Chips Large,Snacks,SUP07,0,,1.43,4,9,22
+SKU02150,Green Acre Granola Bars Regular,Snacks,SUP07,0,,4.89,4,11,29
+SKU02151,Golden Field Detergent Large,Household,SUP08,0,,10.7,7,12,37
+SKU02152,Golden Field Dish Soap Large,Household,SUP08,0,,11.12,7,8,21
+SKU02153,Harbor Detergent Family Size,Household,SUP08,0,,11.84,7,6,13
+SKU02154,Golden Field Sponges Family Size,Household,SUP08,0,,8.55,7,5,9
+SKU02155,Summit Detergent Large,Household,SUP08,0,,14.12,7,8,19
+SKU02156,Maple Lane Dish Soap Small,Household,SUP08,0,,11.26,7,10,29
+SKU02157,Summit Trash Bags Value Pack,Household,SUP08,0,,8.5,7,7,16
+SKU02158,Summit Trash Bags Regular,Household,SUP08,0,,3.15,7,7,15
+SKU02159,Summit Sponges Value Pack,Household,SUP08,0,,6.34,7,5,9
+SKU02160,Maple Lane Dish Soap Regular,Household,SUP08,0,,12.96,7,9,23
+SKU02161,Summit Sponges Small,Household,SUP08,0,,9.17,7,6,12
+SKU02162,Northside Detergent Regular,Household,SUP08,0,,14.53,7,6,13
+SKU02163,Green Acre Paper Towels Regular,Household,SUP08,0,,13.47,7,6,12
+SKU02164,Harbor Sponges Family Size,Household,SUP08,0,,12.19,7,8,18
+SKU02165,Bayview Trash Bags Large,Household,SUP08,0,,4.24,7,6,14
+SKU02166,Coastal Trash Bags Regular,Household,SUP08,0,,6.18,7,7,17
+SKU02167,Coastal Sponges Family Size,Household,SUP08,0,,7.64,7,8,19
+SKU02168,Harbor Dish Soap Small,Household,SUP08,0,,12.3,7,7,17
+SKU02169,Golden Field Paper Towels Value Pack,Household,SUP08,0,,14.66,7,5,10
+SKU02170,Green Acre Detergent Small,Household,SUP08,0,,14.38,7,7,15
+SKU02171,Golden Field Trash Bags Family Size,Household,SUP08,0,,13.95,7,7,15
+SKU02172,Golden Field Detergent Family Size,Household,SUP08,0,,12.97,7,7,17
+SKU02173,Golden Field Detergent Small,Household,SUP08,0,,8.54,7,8,18
+SKU02174,Bayview Trash Bags Regular,Household,SUP08,0,,7.83,7,8,18
+SKU02175,Maple Lane Detergent Family Size,Household,SUP08,0,,5.68,7,6,13
+SKU02176,Harbor Detergent Family Size,Household,SUP08,0,,7.84,7,16,60
+SKU02177,Maple Lane Sponges Small,Household,SUP08,0,,4.27,7,6,13
+SKU02178,Harbor Trash Bags Large,Household,SUP08,0,,12.06,7,8,19
+SKU02179,Golden Field Sponges Family Size,Household,SUP08,0,,12.39,7,6,13
+SKU02180,Harbor Dish Soap Regular,Household,SUP08,0,,14.11,7,5,10
+SKU02181,Harbor Sponges Value Pack,Household,SUP08,0,,8.85,7,8,20
+SKU02182,Golden Field Paper Towels Value Pack,Household,SUP08,0,,9.24,7,7,17
+SKU02183,Coastal Paper Towels Value Pack,Household,SUP08,0,,4.11,7,7,16
+SKU02184,Maple Lane Detergent Family Size,Household,SUP08,0,,5.63,7,10,27
+SKU02185,Golden Field Dish Soap Regular,Household,SUP08,0,,13.18,7,8,19
+SKU02186,Coastal Dish Soap Large,Household,SUP08,0,,8.51,7,8,21
+SKU02187,Golden Field Dish Soap Small,Household,SUP08,0,,14.07,7,5,9
+SKU02188,Golden Field Sponges Large,Household,SUP08,0,,3.37,7,6,12
+SKU02189,Green Acre Dish Soap Family Size,Household,SUP08,0,,7.4,7,4,6
+SKU02190,Coastal Paper Towels Value Pack,Household,SUP08,0,,12.67,7,7,15
+SKU02191,Coastal Trash Bags Family Size,Household,SUP08,0,,10.35,7,6,12
+SKU02192,Northside Sponges Small,Household,SUP08,0,,14.12,7,8,18
+SKU02193,Summit Dish Soap Value Pack,Household,SUP08,0,,14.34,7,5,10
+SKU02194,Harbor Paper Towels Regular,Household,SUP08,0,,4.37,7,10,29
+SKU02195,Northside Dish Soap Value Pack,Household,SUP08,0,,6.44,7,7,15
+SKU02196,Coastal Sponges Family Size,Household,SUP08,0,,9.16,7,7,16
+SKU02197,Summit Trash Bags Regular,Household,SUP08,0,,10.45,7,4,7
+SKU02198,Golden Field Detergent Family Size,Household,SUP08,0,,12.29,7,6,12
+SKU02199,Northside Trash Bags Value Pack,Household,SUP08,0,,5.9,7,6,13
+SKU02200,Summit Detergent Regular,Household,SUP08,0,,13.27,7,4,7
+SKU02201,Golden Field Detergent Large,Household,SUP08,0,,13.67,7,13,43
+SKU02202,Northside Sponges Family Size,Household,SUP08,0,,12.32,7,9,24
+SKU02203,Summit Sponges Value Pack,Household,SUP08,0,,7.2,7,7,16
+SKU02204,Maple Lane Dish Soap Large,Household,SUP08,0,,2.29,7,5,10
+SKU02205,Northside Trash Bags Small,Household,SUP08,0,,9.59,7,7,17
+SKU02206,Green Acre Dish Soap Large,Household,SUP08,0,,2.02,7,4,7
+SKU02207,Golden Field Dish Soap Large,Household,SUP08,0,,7.69,7,13,40
+SKU02208,Green Acre Sponges Family Size,Household,SUP08,0,,8.82,7,6,12
+SKU02209,Bayview Sponges Regular,Household,SUP08,0,,3.0,7,7,17
+SKU02210,Bayview Sponges Family Size,Household,SUP08,0,,10.44,7,6,13
+SKU02211,Harbor Detergent Value Pack,Household,SUP08,0,,2.66,7,5,10
+SKU02212,Golden Field Dish Soap Value Pack,Household,SUP08,0,,10.61,7,8,20
+SKU02213,Coastal Dish Soap Small,Household,SUP08,0,,5.38,7,6,13
+SKU02214,Summit Dish Soap Small,Household,SUP08,0,,11.48,7,8,21
+SKU02215,Maple Lane Paper Towels Family Size,Household,SUP08,0,,10.24,7,7,16
+SKU02216,Harbor Dish Soap Family Size,Household,SUP08,0,,4.31,7,9,23
+SKU02217,Harbor Sponges Small,Household,SUP08,0,,4.55,7,5,10
+SKU02218,Golden Field Trash Bags Regular,Household,SUP08,0,,2.64,7,7,15
+SKU02219,Golden Field Sponges Regular,Household,SUP08,0,,13.24,7,8,18
+SKU02220,Bayview Dish Soap Large,Household,SUP08,0,,2.07,7,7,16
+SKU02221,Bayview Paper Towels Small,Household,SUP08,0,,5.38,7,7,17
+SKU02222,Bayview Paper Towels Large,Household,SUP08,0,,2.19,7,7,17
+SKU02223,Golden Field Sponges Regular,Household,SUP08,0,,6.15,7,8,19
+SKU02224,Harbor Sponges Regular,Household,SUP08,0,,10.9,7,9,25
+SKU02225,Bayview Detergent Small,Household,SUP08,0,,6.19,7,10,29
+SKU02226,Summit Sponges Value Pack,Household,SUP08,0,,3.56,7,9,23
+SKU02227,Northside Dish Soap Small,Household,SUP08,0,,8.38,7,5,9
+SKU02228,Green Acre Sponges Large,Household,SUP08,0,,5.54,7,5,10
+SKU02229,Coastal Sponges Regular,Household,SUP08,0,,2.99,7,8,19
+SKU02230,Coastal Detergent Large,Household,SUP08,0,,10.95,7,8,19
+SKU02231,Green Acre Sponges Small,Household,SUP08,0,,6.54,7,5,9
+SKU02232,Harbor Detergent Small,Household,SUP08,0,,3.66,7,6,12
+SKU02233,Harbor Trash Bags Regular,Household,SUP08,0,,12.09,7,8,20
+SKU02234,Summit Paper Towels Small,Household,SUP08,0,,9.91,7,11,32
+SKU02235,Northside Sponges Large,Household,SUP08,0,,3.66,7,7,17
+SKU02236,Green Acre Trash Bags Regular,Household,SUP08,0,,2.42,7,7,15
+SKU02237,Maple Lane Detergent Large,Household,SUP08,0,,2.15,7,10,27
+SKU02238,Northside Paper Towels Family Size,Household,SUP08,0,,8.37,7,6,13
+SKU02239,Bayview Dish Soap Large,Household,SUP08,0,,3.47,7,8,18
+SKU02240,Green Acre Dish Soap Large,Household,SUP08,0,,4.73,7,6,13
+SKU02241,Northside Detergent Small,Household,SUP08,0,,3.67,7,13,42
+SKU02242,Bayview Trash Bags Small,Household,SUP08,0,,6.55,7,7,17
+SKU02243,Bayview Paper Towels Regular,Household,SUP08,0,,11.3,7,5,10
+SKU02244,Maple Lane Trash Bags Small,Household,SUP08,0,,4.54,7,7,16
+SKU02245,Harbor Detergent Value Pack,Household,SUP08,0,,12.43,7,6,13
+SKU02246,Harbor Sponges Family Size,Household,SUP08,0,,11.76,7,4,7
+SKU02247,Bayview Sponges Value Pack,Household,SUP08,0,,6.67,7,7,16
+SKU02248,Coastal Sponges Regular,Household,SUP08,0,,4.9,7,7,16
+SKU02249,Golden Field Dish Soap Family Size,Household,SUP08,0,,11.92,7,6,13
+SKU02250,Bayview Trash Bags Large,Household,SUP08,0,,6.36,7,8,20
+SKU02251,Maple Lane Trash Bags Large,Household,SUP08,0,,10.58,7,8,18
+SKU02252,Harbor Trash Bags Family Size,Household,SUP08,0,,9.38,7,8,19
+SKU02253,Summit Trash Bags Family Size,Household,SUP08,0,,12.12,7,8,19
+SKU02254,Maple Lane Detergent Family Size,Household,SUP08,0,,7.38,7,9,24
+SKU02255,Green Acre Sponges Regular,Household,SUP08,0,,5.09,7,6,13
+SKU02256,Green Acre Detergent Small,Household,SUP08,0,,7.1,7,7,17
+SKU02257,Coastal Detergent Small,Household,SUP08,0,,5.51,7,9,24
+SKU02258,Harbor Sponges Regular,Household,SUP08,0,,7.48,7,9,24
+SKU02259,Coastal Sponges Small,Household,SUP08,0,,3.03,7,9,25
+SKU02260,Golden Field Dish Soap Value Pack,Household,SUP08,0,,10.83,7,5,10
+SKU02261,Harbor Trash Bags Small,Household,SUP08,0,,7.83,7,7,16
+SKU02262,Green Acre Dish Soap Value Pack,Household,SUP08,0,,5.09,7,8,20
+SKU02263,Bayview Paper Towels Large,Household,SUP08,0,,5.28,7,4,7
+SKU02264,Coastal Paper Towels Regular,Household,SUP08,0,,10.01,7,11,34
+SKU02265,Bayview Dish Soap Value Pack,Household,SUP08,0,,13.51,7,8,19
+SKU02266,Maple Lane Paper Towels Regular,Household,SUP08,0,,11.68,7,10,28
+SKU02267,Bayview Detergent Large,Household,SUP08,0,,9.8,7,9,22
+SKU02268,Bayview Dish Soap Large,Household,SUP08,0,,4.31,7,7,16
+SKU02269,Summit Paper Towels Value Pack,Household,SUP08,0,,12.17,7,7,15
+SKU02270,Green Acre Trash Bags Small,Household,SUP08,0,,12.25,7,6,14
+SKU02271,Coastal Sponges Value Pack,Household,SUP08,0,,14.9,7,6,13
+SKU02272,Maple Lane Paper Towels Value Pack,Household,SUP08,0,,14.33,7,12,37
+SKU02273,Golden Field Sponges Large,Household,SUP08,0,,12.09,7,5,10
+SKU02274,Maple Lane Paper Towels Regular,Household,SUP08,0,,7.2,7,6,13
+SKU02275,Maple Lane Trash Bags Value Pack,Household,SUP08,0,,13.39,7,7,15
+SKU02276,Coastal Detergent Value Pack,Household,SUP08,0,,4.32,7,10,26
+SKU02277,Harbor Paper Towels Family Size,Household,SUP08,0,,3.17,7,9,23
+SKU02278,Golden Field Sponges Regular,Household,SUP08,0,,3.06,7,5,10
+SKU02279,Northside Trash Bags Value Pack,Household,SUP08,0,,11.03,7,7,17
+SKU02280,Green Acre Dish Soap Small,Household,SUP08,0,,3.92,7,6,12
+SKU02281,Northside Trash Bags Small,Household,SUP08,0,,12.52,7,9,22
+SKU02282,Golden Field Trash Bags Family Size,Household,SUP08,0,,14.69,7,12,36
+SKU02283,Green Acre Paper Towels Regular,Household,SUP08,0,,9.77,7,8,20
+SKU02284,Green Acre Trash Bags Small,Household,SUP08,0,,13.47,7,6,13
+SKU02285,Coastal Dish Soap Regular,Household,SUP08,0,,4.78,7,11,32
+SKU02286,Green Acre Sponges Value Pack,Household,SUP08,0,,9.75,7,7,17
+SKU02287,Golden Field Detergent Regular,Household,SUP08,0,,7.28,7,8,21
+SKU02288,Harbor Detergent Family Size,Household,SUP08,0,,9.14,7,7,17
+SKU02289,Harbor Trash Bags Regular,Household,SUP08,0,,5.96,7,3,5
+SKU02290,Harbor Paper Towels Family Size,Household,SUP08,0,,4.24,7,7,16
+SKU02291,Green Acre Trash Bags Regular,Household,SUP08,0,,10.25,7,5,9
+SKU02292,Coastal Paper Towels Large,Household,SUP08,0,,3.99,7,7,15
+SKU02293,Northside Detergent Value Pack,Household,SUP08,0,,2.47,7,6,13
+SKU02294,Maple Lane Paper Towels Family Size,Household,SUP08,0,,11.78,7,9,22
+SKU02295,Green Acre Dish Soap Large,Household,SUP08,0,,5.11,7,14,47
+SKU02296,Harbor Sponges Regular,Household,SUP08,0,,4.28,7,6,13
+SKU02297,Bayview Sponges Small,Household,SUP08,0,,6.48,7,6,14
+SKU02298,Maple Lane Trash Bags Regular,Household,SUP08,0,,7.29,7,8,21
+SKU02299,Maple Lane Detergent Family Size,Household,SUP08,0,,6.79,7,10,28
+SKU02300,Green Acre Dish Soap Family Size,Household,SUP08,0,,7.27,7,7,16
+SKU02301,Coastal Dish Soap Family Size,Household,SUP08,0,,4.85,7,6,13
+SKU02302,Golden Field Sponges Family Size,Household,SUP08,0,,7.33,7,6,13
+SKU02303,Northside Paper Towels Small,Household,SUP08,0,,7.72,7,10,28
+SKU02304,Northside Dish Soap Family Size,Household,SUP08,0,,14.52,7,6,12
+SKU02305,Summit Dish Soap Value Pack,Household,SUP08,0,,5.66,7,7,16
+SKU02306,Golden Field Detergent Value Pack,Household,SUP08,0,,12.52,7,6,13
+SKU02307,Coastal Dish Soap Value Pack,Household,SUP08,0,,7.68,7,10,29
+SKU02308,Harbor Trash Bags Small,Household,SUP08,0,,3.52,7,9,22
+SKU02309,Northside Trash Bags Value Pack,Household,SUP08,0,,11.04,7,8,18
+SKU02310,Maple Lane Sponges Family Size,Household,SUP08,0,,7.83,7,9,23
+SKU02311,Green Acre Dish Soap Small,Household,SUP08,0,,6.29,7,8,20
+SKU02312,Golden Field Trash Bags Large,Household,SUP08,0,,6.84,7,5,9
+SKU02313,Maple Lane Trash Bags Large,Household,SUP08,0,,10.04,7,11,31
+SKU02314,Harbor Sponges Regular,Household,SUP08,0,,11.18,7,4,7
+SKU02315,Summit Dish Soap Small,Household,SUP08,0,,8.57,7,6,12
+SKU02316,Green Acre Trash Bags Value Pack,Household,SUP08,0,,8.95,7,10,28
+SKU02317,Maple Lane Dish Soap Value Pack,Household,SUP08,0,,2.73,7,11,31
+SKU02318,Maple Lane Trash Bags Small,Household,SUP08,0,,2.41,7,11,31
+SKU02319,Summit Trash Bags Regular,Household,SUP08,0,,8.92,7,7,17
+SKU02320,Summit Dish Soap Family Size,Household,SUP08,0,,12.75,7,9,24
+SKU02321,Coastal Trash Bags Large,Household,SUP08,0,,14.7,7,4,8
+SKU02322,Northside Paper Towels Regular,Household,SUP08,0,,13.47,7,8,19
+SKU02323,Maple Lane Paper Towels Family Size,Household,SUP08,0,,7.57,7,8,19
+SKU02324,Northside Paper Towels Value Pack,Household,SUP08,0,,8.03,7,8,19
+SKU02325,Maple Lane Trash Bags Family Size,Household,SUP08,0,,5.2,7,5,9
+SKU02326,Maple Lane Detergent Small,Household,SUP08,0,,2.12,7,9,25
+SKU02327,Maple Lane Paper Towels Value Pack,Household,SUP08,0,,11.05,7,11,31
+SKU02328,Golden Field Trash Bags Large,Household,SUP08,0,,10.89,7,6,13
+SKU02329,Harbor Dish Soap Regular,Household,SUP08,0,,12.98,7,7,15
+SKU02330,Coastal Paper Towels Regular,Household,SUP08,0,,11.24,7,6,12
+SKU02331,Golden Field Dish Soap Regular,Household,SUP08,0,,13.81,7,8,20
+SKU02332,Coastal Sponges Family Size,Household,SUP08,0,,8.81,7,8,20
+SKU02333,Harbor Sponges Value Pack,Household,SUP08,0,,3.03,7,7,15
+SKU02334,Harbor Detergent Value Pack,Household,SUP08,0,,7.18,7,9,23
+SKU02335,Northside Detergent Small,Household,SUP08,0,,13.71,7,7,15
+SKU02336,Northside Sponges Regular,Household,SUP08,0,,2.58,7,9,22
+SKU02337,Green Acre Paper Towels Family Size,Household,SUP08,0,,9.9,7,4,8
+SKU02338,Northside Paper Towels Small,Household,SUP08,0,,5.44,7,5,10
+SKU02339,Bayview Sponges Family Size,Household,SUP08,0,,3.16,7,6,13
+SKU02340,Bayview Paper Towels Value Pack,Household,SUP08,0,,12.23,7,5,10
+SKU02341,Northside Sponges Large,Household,SUP08,0,,14.93,7,10,29
+SKU02342,Summit Detergent Value Pack,Household,SUP08,0,,13.14,7,8,19
+SKU02343,Bayview Detergent Small,Household,SUP08,0,,4.54,7,8,20
+SKU02344,Maple Lane Dish Soap Regular,Household,SUP08,0,,9.75,7,5,9
+SKU02345,Green Acre Dish Soap Family Size,Household,SUP08,0,,6.18,7,6,13
+SKU02346,Green Acre Paper Towels Family Size,Household,SUP08,0,,11.64,7,6,13
+SKU02347,Northside Sponges Large,Household,SUP08,0,,2.4,7,7,16
+SKU02348,Summit Trash Bags Large,Household,SUP08,0,,6.69,7,6,13
+SKU02349,Coastal Dish Soap Value Pack,Household,SUP08,0,,3.21,7,4,7
+SKU02350,Harbor Detergent Value Pack,Household,SUP08,0,,8.85,7,8,18
+SKU02351,Coastal Deodorant Small,Personal Care,SUP08,0,,3.32,7,5,10
+SKU02352,Golden Field Shampoo Regular,Personal Care,SUP08,0,,8.0,7,5,9
+SKU02353,Harbor Toothpaste Small,Personal Care,SUP08,0,,11.7,7,11,32
+SKU02354,Golden Field Lotion Large,Personal Care,SUP08,0,,6.8,7,5,10
+SKU02355,Golden Field Deodorant Value Pack,Personal Care,SUP08,0,,4.02,7,5,9
+SKU02356,Summit Toothpaste Value Pack,Personal Care,SUP08,0,,5.82,7,8,20
+SKU02357,Harbor Toothpaste Family Size,Personal Care,SUP08,0,,6.75,7,5,10
+SKU02358,Bayview Body Wash Value Pack,Personal Care,SUP08,0,,3.55,7,8,18
+SKU02359,Coastal Deodorant Value Pack,Personal Care,SUP08,0,,8.09,7,9,22
+SKU02360,Maple Lane Deodorant Value Pack,Personal Care,SUP08,0,,5.49,7,8,20
+SKU02361,Bayview Lotion Family Size,Personal Care,SUP08,0,,8.1,7,7,17
+SKU02362,Northside Toothpaste Family Size,Personal Care,SUP08,0,,2.94,7,8,18
+SKU02363,Harbor Body Wash Small,Personal Care,SUP08,0,,2.26,7,8,18
+SKU02364,Golden Field Shampoo Large,Personal Care,SUP08,0,,8.25,7,5,9
+SKU02365,Coastal Shampoo Family Size,Personal Care,SUP08,0,,11.44,7,6,12
+SKU02366,Bayview Shampoo Family Size,Personal Care,SUP08,0,,2.5,7,4,7
+SKU02367,Bayview Toothpaste Regular,Personal Care,SUP08,0,,5.68,7,10,29
+SKU02368,Bayview Shampoo Regular,Personal Care,SUP08,0,,5.5,7,10,26
+SKU02369,Green Acre Lotion Family Size,Personal Care,SUP08,0,,11.14,7,6,13
+SKU02370,Bayview Shampoo Small,Personal Care,SUP08,0,,4.3,7,11,32
+SKU02371,Harbor Toothpaste Value Pack,Personal Care,SUP08,0,,8.79,7,6,12
+SKU02372,Maple Lane Toothpaste Large,Personal Care,SUP08,0,,5.97,7,4,8
+SKU02373,Bayview Shampoo Value Pack,Personal Care,SUP08,0,,5.03,7,4,7
+SKU02374,Green Acre Toothpaste Family Size,Personal Care,SUP08,0,,2.25,7,6,13
+SKU02375,Bayview Lotion Value Pack,Personal Care,SUP08,0,,6.88,7,7,16
+SKU02376,Coastal Body Wash Family Size,Personal Care,SUP08,0,,2.36,7,9,22
+SKU02377,Golden Field Shampoo Family Size,Personal Care,SUP08,0,,11.84,7,7,16
+SKU02378,Bayview Shampoo Value Pack,Personal Care,SUP08,0,,9.46,7,6,13
+SKU02379,Bayview Deodorant Large,Personal Care,SUP08,0,,6.64,7,10,29
+SKU02380,Summit Lotion Large,Personal Care,SUP08,0,,4.58,7,5,10
+SKU02381,Green Acre Shampoo Regular,Personal Care,SUP08,0,,4.45,7,4,6
+SKU02382,Golden Field Deodorant Large,Personal Care,SUP08,0,,3.63,7,5,10
+SKU02383,Summit Body Wash Regular,Personal Care,SUP08,0,,2.29,7,5,9
+SKU02384,Northside Lotion Family Size,Personal Care,SUP08,0,,6.16,7,10,27
+SKU02385,Green Acre Deodorant Small,Personal Care,SUP08,0,,5.81,7,4,7
+SKU02386,Coastal Body Wash Small,Personal Care,SUP08,0,,2.06,7,7,15
+SKU02387,Coastal Lotion Value Pack,Personal Care,SUP08,0,,9.84,7,5,9
+SKU02388,Coastal Shampoo Value Pack,Personal Care,SUP08,0,,5.28,7,5,10
+SKU02389,Harbor Deodorant Regular,Personal Care,SUP08,0,,10.26,7,10,28
+SKU02390,Harbor Shampoo Family Size,Personal Care,SUP08,0,,9.82,7,10,28
+SKU02391,Coastal Shampoo Family Size,Personal Care,SUP08,0,,7.97,7,7,15
+SKU02392,Maple Lane Deodorant Small,Personal Care,SUP08,0,,5.05,7,7,15
+SKU02393,Green Acre Deodorant Small,Personal Care,SUP08,0,,11.61,7,9,23
+SKU02394,Maple Lane Lotion Large,Personal Care,SUP08,0,,2.29,7,7,16
+SKU02395,Coastal Toothpaste Small,Personal Care,SUP08,0,,6.71,7,6,14
+SKU02396,Golden Field Toothpaste Family Size,Personal Care,SUP08,0,,10.29,7,8,20
+SKU02397,Harbor Toothpaste Large,Personal Care,SUP08,0,,9.78,7,10,26
+SKU02398,Summit Shampoo Regular,Personal Care,SUP08,0,,7.39,7,9,24
+SKU02399,Northside Toothpaste Family Size,Personal Care,SUP08,0,,11.85,7,7,15
+SKU02400,Bayview Deodorant Family Size,Personal Care,SUP08,0,,10.5,7,7,17
+SKU02401,Green Acre Deodorant Regular,Personal Care,SUP08,0,,10.53,7,6,12
+SKU02402,Bayview Toothpaste Value Pack,Personal Care,SUP08,0,,2.64,7,6,12
+SKU02403,Coastal Lotion Small,Personal Care,SUP08,0,,8.01,7,6,13
+SKU02404,Golden Field Deodorant Value Pack,Personal Care,SUP08,0,,2.46,7,7,17
+SKU02405,Coastal Lotion Large,Personal Care,SUP08,0,,11.92,7,8,21
+SKU02406,Coastal Shampoo Small,Personal Care,SUP08,0,,6.88,7,5,10
+SKU02407,Golden Field Lotion Small,Personal Care,SUP08,0,,6.05,7,7,17
+SKU02408,Golden Field Lotion Large,Personal Care,SUP08,0,,10.66,7,5,9
+SKU02409,Harbor Shampoo Regular,Personal Care,SUP08,0,,5.92,7,5,10
+SKU02410,Green Acre Deodorant Value Pack,Personal Care,SUP08,0,,8.52,7,11,33
+SKU02411,Northside Deodorant Value Pack,Personal Care,SUP08,0,,4.45,7,5,10
+SKU02412,Northside Body Wash Small,Personal Care,SUP08,0,,6.65,7,5,9
+SKU02413,Golden Field Lotion Large,Personal Care,SUP08,0,,8.42,7,4,7
+SKU02414,Northside Deodorant Large,Personal Care,SUP08,0,,4.54,7,9,23
+SKU02415,Maple Lane Shampoo Regular,Personal Care,SUP08,0,,10.87,7,10,27
+SKU02416,Coastal Lotion Family Size,Personal Care,SUP08,0,,2.96,7,5,10
+SKU02417,Green Acre Toothpaste Large,Personal Care,SUP08,0,,8.78,7,4,8
+SKU02418,Green Acre Deodorant Large,Personal Care,SUP08,0,,7.21,7,8,20
+SKU02419,Golden Field Shampoo Value Pack,Personal Care,SUP08,0,,8.24,7,8,21
+SKU02420,Golden Field Lotion Regular,Personal Care,SUP08,0,,8.13,7,7,16
+SKU02421,Green Acre Lotion Large,Personal Care,SUP08,0,,7.48,7,7,16
+SKU02422,Bayview Deodorant Regular,Personal Care,SUP08,0,,2.54,7,5,9
+SKU02423,Golden Field Lotion Regular,Personal Care,SUP08,0,,8.3,7,6,13
+SKU02424,Green Acre Shampoo Regular,Personal Care,SUP08,0,,10.33,7,5,10
+SKU02425,Summit Shampoo Small,Personal Care,SUP08,0,,7.07,7,5,9
+SKU02426,Maple Lane Deodorant Family Size,Personal Care,SUP08,0,,8.86,7,5,9
+SKU02427,Maple Lane Lotion Small,Personal Care,SUP08,0,,8.06,7,9,22
+SKU02428,Summit Deodorant Regular,Personal Care,SUP08,0,,6.47,7,8,19
+SKU02429,Golden Field Body Wash Small,Personal Care,SUP08,0,,4.63,7,7,15
+SKU02430,Maple Lane Body Wash Value Pack,Personal Care,SUP08,0,,9.65,7,5,9
+SKU02431,Green Acre Lotion Value Pack,Personal Care,SUP08,0,,8.97,7,7,15
+SKU02432,Harbor Body Wash Large,Personal Care,SUP08,0,,4.17,7,9,25
+SKU02433,Harbor Shampoo Small,Personal Care,SUP08,0,,3.72,7,9,24
+SKU02434,Northside Toothpaste Large,Personal Care,SUP08,0,,6.91,7,5,10
+SKU02435,Harbor Body Wash Family Size,Personal Care,SUP08,0,,10.87,7,8,21
+SKU02436,Golden Field Toothpaste Regular,Personal Care,SUP08,0,,2.13,7,6,12
+SKU02437,Bayview Lotion Regular,Personal Care,SUP08,0,,4.11,7,6,13
+SKU02438,Golden Field Toothpaste Family Size,Personal Care,SUP08,0,,7.65,7,4,7
+SKU02439,Harbor Deodorant Value Pack,Personal Care,SUP08,0,,8.65,7,10,28
+SKU02440,Summit Body Wash Large,Personal Care,SUP08,0,,6.64,7,5,10
+SKU02441,Northside Deodorant Family Size,Personal Care,SUP08,0,,3.27,7,6,12
+SKU02442,Bayview Lotion Family Size,Personal Care,SUP08,0,,5.42,7,4,7
+SKU02443,Harbor Toothpaste Family Size,Personal Care,SUP08,0,,10.6,7,10,29
+SKU02444,Coastal Lotion Large,Personal Care,SUP08,0,,9.37,7,5,9
+SKU02445,Bayview Lotion Small,Personal Care,SUP08,0,,2.34,7,6,12
+SKU02446,Harbor Body Wash Regular,Personal Care,SUP08,0,,8.04,7,5,9
+SKU02447,Golden Field Shampoo Regular,Personal Care,SUP08,0,,8.89,7,6,12
+SKU02448,Bayview Toothpaste Large,Personal Care,SUP08,0,,4.06,7,9,24
+SKU02449,Summit Body Wash Value Pack,Personal Care,SUP08,0,,7.56,7,4,7
+SKU02450,Maple Lane Body Wash Family Size,Personal Care,SUP08,0,,7.18,7,6,12
+SKU02451,Green Acre Body Wash Small,Personal Care,SUP08,0,,9.06,7,5,10
+SKU02452,Coastal Body Wash Family Size,Personal Care,SUP08,0,,4.83,7,5,10
+SKU02453,Summit Body Wash Regular,Personal Care,SUP08,0,,5.48,7,7,17
+SKU02454,Green Acre Toothpaste Regular,Personal Care,SUP08,0,,10.01,7,7,17
+SKU02455,Harbor Body Wash Small,Personal Care,SUP08,0,,4.05,7,8,19
+SKU02456,Green Acre Deodorant Large,Personal Care,SUP08,0,,11.73,7,8,19
+SKU02457,Northside Shampoo Small,Personal Care,SUP08,0,,3.57,7,6,13
+SKU02458,Northside Toothpaste Regular,Personal Care,SUP08,0,,4.01,7,9,25
+SKU02459,Coastal Body Wash Large,Personal Care,SUP08,0,,8.7,7,5,10
+SKU02460,Green Acre Shampoo Small,Personal Care,SUP08,0,,2.82,7,5,9
+SKU02461,Northside Lotion Family Size,Personal Care,SUP08,0,,9.55,7,4,7
+SKU02462,Golden Field Lotion Family Size,Personal Care,SUP08,0,,11.66,7,10,27
+SKU02463,Coastal Lotion Small,Personal Care,SUP08,0,,9.49,7,4,7
+SKU02464,Summit Lotion Family Size,Personal Care,SUP08,0,,7.11,7,6,13
+SKU02465,Maple Lane Lotion Family Size,Personal Care,SUP08,0,,11.47,7,5,10
+SKU02466,Bayview Body Wash Large,Personal Care,SUP08,0,,2.82,7,6,13
+SKU02467,Maple Lane Shampoo Family Size,Personal Care,SUP08,0,,11.77,7,6,13
+SKU02468,Harbor Body Wash Family Size,Personal Care,SUP08,0,,8.37,7,4,7
+SKU02469,Green Acre Toothpaste Value Pack,Personal Care,SUP08,0,,8.26,7,6,13
+SKU02470,Golden Field Deodorant Small,Personal Care,SUP08,0,,9.23,7,5,10
+SKU02471,Green Acre Body Wash Regular,Personal Care,SUP08,0,,4.5,7,4,7
+SKU02472,Bayview Body Wash Small,Personal Care,SUP08,0,,11.33,7,9,23
+SKU02473,Bayview Toothpaste Regular,Personal Care,SUP08,0,,3.37,7,6,13
+SKU02474,Northside Lotion Family Size,Personal Care,SUP08,0,,2.32,7,5,10
+SKU02475,Coastal Shampoo Value Pack,Personal Care,SUP08,0,,7.09,7,6,13
+SKU02476,Golden Field Body Wash Value Pack,Personal Care,SUP08,0,,4.62,7,5,10
+SKU02477,Harbor Deodorant Large,Personal Care,SUP08,0,,6.94,7,8,19
+SKU02478,Coastal Lotion Regular,Personal Care,SUP08,0,,10.57,7,8,19
+SKU02479,Green Acre Deodorant Regular,Personal Care,SUP08,0,,11.86,7,4,7
+SKU02480,Harbor Toothpaste Large,Personal Care,SUP08,0,,7.24,7,11,31
+SKU02481,Harbor Toothpaste Regular,Personal Care,SUP08,0,,8.99,7,4,7
+SKU02482,Summit Body Wash Small,Personal Care,SUP08,0,,11.19,7,7,15
+SKU02483,Green Acre Deodorant Small,Personal Care,SUP08,0,,3.46,7,4,7
+SKU02484,Harbor Deodorant Regular,Personal Care,SUP08,0,,8.4,7,7,16
+SKU02485,Bayview Deodorant Family Size,Personal Care,SUP08,0,,3.4,7,6,13
+SKU02486,Summit Body Wash Family Size,Personal Care,SUP08,0,,8.53,7,5,10
+SKU02487,Bayview Toothpaste Family Size,Personal Care,SUP08,0,,2.76,7,5,10
+SKU02488,Maple Lane Deodorant Small,Personal Care,SUP08,0,,8.54,7,7,15
+SKU02489,Northside Deodorant Family Size,Personal Care,SUP08,0,,7.55,7,6,12
+SKU02490,Harbor Shampoo Family Size,Personal Care,SUP08,0,,3.2,7,6,12
+SKU02491,Green Acre Deodorant Regular,Personal Care,SUP08,0,,4.25,7,5,10
+SKU02492,Harbor Lotion Value Pack,Personal Care,SUP08,0,,10.54,7,10,26
+SKU02493,Green Acre Body Wash Value Pack,Personal Care,SUP08,0,,3.37,7,8,19
+SKU02494,Maple Lane Body Wash Small,Personal Care,SUP08,0,,11.13,7,8,20
+SKU02495,Coastal Body Wash Regular,Personal Care,SUP08,0,,3.81,7,6,13
+SKU02496,Bayview Deodorant Family Size,Personal Care,SUP08,0,,7.41,7,8,20
+SKU02497,Maple Lane Shampoo Regular,Personal Care,SUP08,0,,5.92,7,7,15
+SKU02498,Summit Body Wash Value Pack,Personal Care,SUP08,0,,7.07,7,5,10
+SKU02499,Golden Field Lotion Regular,Personal Care,SUP08,0,,11.43,7,6,12
+SKU02500,Northside Lotion Family Size,Personal Care,SUP08,0,,4.34,7,5,10

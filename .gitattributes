@@ -1,0 +1,2 @@
+# Keep LF line endings everywhere (matches GitHub Actions and Render, avoids CRLF noise on Windows).
+* text=auto eol=lf

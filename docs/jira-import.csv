@@ -1,0 +1,30 @@
+Issue Type,Summary,Epic Name,Epic Link,Story Points,Sprint,Description
+Epic,Data Foundation,Data Foundation,,,,
+Epic,Pipeline & Quality,Pipeline & Quality,,,,
+Epic,API & Dashboard,API & Dashboard,,,,
+Epic,Release & Operations,Release & Operations,,,,
+Story,Write project charter and TDD,,Data Foundation,3,StockPulse Sprint 1,Acceptance criteria: Charter and TDD reviewed and committed in /docs
+Story,"Set up repo, Neon database, and secrets handling",,Data Foundation,2,StockPulse Sprint 1,Acceptance criteria: Repo created; .env gitignored; connection string never in code
+Story,Design six-table data model,,Data Foundation,3,StockPulse Sprint 1,Acceptance criteria: schema.sql reviewed; keys and grains documented in TDD
+Story,Build synthetic data generator,,Data Foundation,5,StockPulse Sprint 1,"Acceptance criteria: 2,500 SKUs, 8 suppliers, 90 daily files with weekend and seasonal patterns"
+Story,Implement init command to create schema and load seed data,,Data Foundation,2,StockPulse Sprint 1,"Acceptance criteria: `pipeline init` creates tables/views and loads suppliers, products, opening stock"
+Story,Implement extract/transform/load for one day,,Pipeline & Quality,8,StockPulse Sprint 1,"Acceptance criteria: Stock, days of cover, reorder and waste flags computed and loaded"
+Story,Make loads idempotent,,Pipeline & Quality,3,StockPulse Sprint 1,Acceptance criteria: Rerunning a day is skipped; --force reload leaves totals unchanged
+Story,Verify 10 consecutive days with SQL,,Pipeline & Quality,2,StockPulse Sprint 1,Acceptance criteria: verification_queries.sql returns zero mismatches
+Story,Add data quality gates,,Pipeline & Quality,5,StockPulse Sprint 2,Acceptance criteria: Seven gates; any failure loads nothing and is logged
+Story,Write pytest suite for transforms and gates,,Pipeline & Quality,3,StockPulse Sprint 2,Acceptance criteria: At least 10 tests passing locally
+Story,Set up CI workflow and protect main,,Pipeline & Quality,2,StockPulse Sprint 2,Acceptance criteria: Tests run on every PR; main requires passing CI
+Story,Schedule daily pipeline in GitHub Actions,,Pipeline & Quality,3,StockPulse Sprint 2,Acceptance criteria: Cron + manual trigger; DATABASE_URL from GitHub Secrets
+Story,Add failure alerting,,Pipeline & Quality,2,StockPulse Sprint 2,Acceptance criteria: GitHub email on failure; optional webhook message
+Story,Release v1.0.0,,Release & Operations,1,StockPulse Sprint 2,Acceptance criteria: Go/no-go checklist passed; tag and release notes published
+Story,Build Flask API with four core endpoints,,API & Dashboard,5,StockPulse Sprint 3,"Acceptance criteria: /health, /low-stock, /sku/<id>, /pipeline-status return documented JSON"
+Story,Postman collection and API docs,,API & Dashboard,2,StockPulse Sprint 3,Acceptance criteria: Collection committed; README documents every endpoint
+Story,Deploy API to Render with auto-deploy,,API & Dashboard,2,StockPulse Sprint 3,Acceptance criteria: Live URL; DATABASE_URL set as Render env var
+Story,Operations dashboard in Tableau,,API & Dashboard,5,StockPulse Sprint 3,"Acceptance criteria: Low stock, cover by category, waste risk, supplier on-time"
+Story,Platform health dashboard in Tableau,,API & Dashboard,3,StockPulse Sprint 3,"Acceptance criteria: Success rate, run history, failed checks, data freshness"
+Story,Release v1.1.0,,Release & Operations,1,StockPulse Sprint 3,Acceptance criteria: API and dashboards live; release notes published
+Story,Supplier performance + suggested order qty (v1.2.0),,Release & Operations,3,StockPulse Sprint 3,Acceptance criteria: /supplier-performance live; release notes published
+Story,Incident 1: bad data simulation and postmortem,,Release & Operations,3,StockPulse Sprint 3,Acceptance criteria: Gates block file; backfill done; blameless postmortem written
+Story,Incident 2: bad deploy simulation and postmortem,,Release & Operations,3,StockPulse Sprint 3,Acceptance criteria: Smoke test detects break; rollback done; postmortem written
+Story,Runbook and risk log,,Release & Operations,2,StockPulse Sprint 3,"Acceptance criteria: A new person can run, recover, and backfill from the runbook"
+Story,"README, demo video, retrospective",,Release & Operations,3,StockPulse Sprint 3,Acceptance criteria: README polished; 3-minute video linked; retro written
