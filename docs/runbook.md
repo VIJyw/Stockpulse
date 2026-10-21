@@ -54,6 +54,18 @@ Locally, commands use `DATABASE_URL` from `.env`; with no `.env` they use a loca
 
 If freshness keeps growing and the Actions tab shows no recent runs, GitHub has probably disabled the schedule after 60 days of repo inactivity. Re-enable it on the workflow page, push a commit, then backfill the missed days.
 
+A late start is not this problem: GitHub queues scheduled jobs at busy times. The first scheduled run (due 11:00 UTC on 2026-10-21) actually started at 15:41 UTC. Only act if `hours_since_last_success` passes 30.
+
+### Calendar reminders (set these in your own calendar)
+
+| When | Why | Action |
+|---|---|---|
+| Every 3 weeks, starting 2026-11-11 | The 60-day inactivity clock restarts on each commit (last commit 2026-10-21 → schedule would stop about 2026-12-20) | Push any small commit (a doc fix, a CHANGELOG line) and check the Actions tab shows a scheduled run in the last 24 h |
+| 2026-12-10 | Replay files end at 2026-08-29; at one day per run the last file loads about 2026-12-19, then every run fails with "sales file not found" | Extend the data (section 7) or disable the schedule before it starts failing |
+| The day before any interview or demo | Free Render service sleeps; data may be stale | Call `/health` to wake the API, check `/pipeline-status` freshness |
+
+Recompute the dates whenever runs are skipped or backfilled: last file date − latest loaded date = days of data left.
+
 ## 7. Data ran out
 
 The replay feed has 90 days. To extend: `python -m stockpulse.generate_data --start <day after last file> --days 60`. This **overwrites seed files** too, so first move existing `data/seed` aside and restore it afterward, or extend in a scratch folder and copy only the new `sales_*.csv` files.
